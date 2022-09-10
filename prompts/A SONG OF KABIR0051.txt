@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are discussing how they believe Buldeo will be able to find and kill the Devil-child (Mowgli). They are worried about the Wolf-demon, which they believe could appear at any time. Bagheera tells Mowgli that he will have to go back to the humans eventually, but Mowgli insists that he is not ready yet. Mother Wolf hides so that Buldeo cannot see her. Mowgli is happy that Buldeo is telling lies about her.
+
+Last chunk: but Bagheera speaks truth: Man goes to Man at the last."  "Maybe," said Mowgli, with a very unpleasant look on his face; "but  to-night I am very far from that trail. Wait here, but do not let her  see."  "THOU wast never afraid of ME, Little Frog," said Mother Wolf, backing  into the high grass, and blotting herself out, as she knew how.  "And now," said Mowgli cheerfully, as he swung into the hut again, "they  are all sitting round Buldeo, who is saying that which did not happen.  When his
+
+Next chunk:

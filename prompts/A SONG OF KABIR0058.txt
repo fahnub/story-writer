@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Mother Wolf is glad she did not see Mowgli being driven to and fro like a jackal, as it is not her custom to allow her cubs to be treated in such a way. The speaker in the passage expresses their hatred for flowers, and desires for them to be killed. The youngest of Hathi's three sons expresses their disinterest in the speaker's desire, asking what use white bones would be to them. Mowgli angrily responds that they are not a cub of a wolf to play with a raw head, and that they have killed Shere Khan. Mowgli and Mother Wolf are going to kill the two men who killed Mowgli's father. Mowgli tells the other wolves to tell the whole jungle that these two men are safe.
+
+Last chunk: justice."  Mowgli laughed. "I do not know what justice is, but--come next Rains.  and see what is left."  They went off toward the Jungle, and Mother Wolf leaped from her place  of hiding.  "Follow!" said Mowgli; "and look to it that all the Jungle knows these  two are safe. Give tongue a little. I would call Bagheera."  The long, low howl rose and fell, and Mowgli saw Messua's husband flinch  and turn, half minded to run back to the hut.  "Go on," Mowgli called cheerfully. "I said there might
+
+Next chunk:

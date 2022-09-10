@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a woman's husband going to work in a mine one night, and the woman being left to go home alone. She is familiar with the road and makes her way home in the dark. A mother tells her son and husband about how she was saved from some monsters by a beam of light.
+
+Last chunk: only been with you!' cried father and son in a breath.  The mother gave a funny little smile, and went on.  'They had some of their horrible creatures with them too, and I must  confess I was dreadfully frightened.  They had torn my clothes very  much, and I was afraid they were going to tear myself to pieces, when  suddenly a great white soft light shone upon me.  I looked up.  A broad  ray, like a shining road, came down from a large globe of silvery  light, not very high up, indeed not quite
+
+Next chunk:

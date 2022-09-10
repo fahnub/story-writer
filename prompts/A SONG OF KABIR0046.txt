@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are planning to kill the wolf-child Mowgli, but one of the animals, Buldeo, killed a buffalo after mistaking it for the Devil-child. The village plans to torture and burn Messua and her husband for being the child's parents. The animals all agree to go ahead with the plan to destroy the fields of humans.
+
+Last chunk: Messua began.  "I do not think that I could walk far."  "And the men and women would be upon our backs and drag us here again,"  said the husband.  "H'm!" said Mowgli, and he tickled the palm of his hand with the tip  of his skinning-knife; "I have no wish to do harm to any one of this  village--YET. But I do not think they will stay thee. In a little while  they will have much else to think upon. Ah!" he lifted his head and  listened to shouting and trampling outside. "So they have let Buldeo
+
+Next chunk:

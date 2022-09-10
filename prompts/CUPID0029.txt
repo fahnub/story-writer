@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time. Liddy is preparing to perform Mary Howitt's poem "Red Riding Hood" and is asked about the play. The wolf makes an appearance and is found to be a natural actor in a gray wolf-skin. The passage describes a dance and chorus, after which a man named Chan retires to a tea garden and drinks many cups of tea. A beautiful woman then appears at a window, drawing the attention of the spectators. The apparition in the passage is Ben, who is in disguise. He is not recognized in his disguise, which is more natural to him than the clothes of the other characters. He has begged to be allowed to show himself, and Miss Celia has consented.
+
+Last chunk: apparition appear. No wonder Ben was not  recognized in this brilliant disguise, which was more natural to him  than Billy's blue flannel or Thorny's respectable garments. He had so  begged to be allowed to show himself "just once," as he used to be in  the days when "father" tossed him up on the bare-backed old General, for  hundreds to see and admire, that Miss Celia had consented, much against  her will, and hastily arranged some bits of spangled tarlatan over the  white cotton suit which was
+
+Next chunk:

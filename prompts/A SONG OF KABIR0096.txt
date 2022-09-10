@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Mowgli is being tracked by Buldeo, a villager. His animal friends, Gray Brother and Bagheera, watch and comment on the situation. Buldeo is tired from the chase, but Bagheera says he will be well-rested before he picks up the trail again. The passage describes how elephants scare away birds and other potential predators, allowing the deer to escape. However, the Eaters of Flesh are close behind them, and eventually force them into the darkness of the night.
+
+Last chunk: scare away birds and other stealers. Then the deer  were coaxed no more. The Eaters of Flesh were close behind them, and  forced them forward and inward.  It was a dark night when Hathi and his three sons slipped down from the  Jungle, and broke off the poles of the machans with their trunks; they  fell as a snapped stalk of hemlock in bloom falls, and the men that  tumbled from them heard the deep gurgling of the elephants in their  ears. Then the vanguard of the bewildered armies of the deer
+
+Next chunk:

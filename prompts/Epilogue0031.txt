@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards.
+
+Last chunk: wordschoked him. At last he said, in a deep, husky voice, "Now, if aught ofharm befalls thee because of this day's doings, I swear by Saint Georgethat the red cock shall crow over the rooftree of this house, for thehot flames shall lick every crack and cranny thereof.As for thesewomen"--here he ground his teeth--"it will be an ill day for them!"  But Robin Hood took Little John's rough, brown fist in his white hands,and chid him softly in his low, weak voice, asking him since what timeLittle
+
+Next chunk:

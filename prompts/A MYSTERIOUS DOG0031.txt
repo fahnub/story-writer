@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A child is preparing for a tea party and is tired from all her preparations, but is contentedly looking forward to the party. The children see a raccoon in their orchard and chase it. They wonder where it came from and hope it got hurt if it ate their cake. The passage describes two sisters who are left alone with a cake. When they return, they find that the cake has been eaten. A young girl is on display in a store window, wearing a scallop-shaped dress, a garland of flowers in her hair, and blue boots. Her thirteen female relatives are standing around her, looking sad and surprised. It is not clear why she is on display or why her relatives are so upset. Bab and Betty are disappointed that their party is ruined, but Betty finds the incident amusing. Bab wonders what their mother will say when she finds out.
+
+Last chunk: remembering the dozen good raisins she chopped up,  and the "lots of 'lasses" mother put into the dear lost loaf.  "The party's all spoilt, so we may as well go home; and Bab mournfully  led the way back. Betty puckered up her face to cry, but burst out  laughing in spite of her woe.  "It was so funny to see him spin round and walk on his head!  I wish  he'd do it all over again; don't you?"  "Yes: but I hate him just the same.  I wonder what Ma will say  when--why! why!" and Bab stopped short
+
+Next chunk:

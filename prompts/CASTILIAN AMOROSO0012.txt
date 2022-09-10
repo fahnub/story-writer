@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Alice is trying to sell the butcher a product that will supposedly make him a lot of money, and he is skeptical but interested. Alice and Oswald are discussing the possibility of selling their homemade lemonade. Dicky is skeptical, but Alice is optimistic. They open the bottle to test it and the cork breaks. Oswald, Dicky, Alice, and Noel all taste sherry for the first time. Oswald and Dicky think it is burny, Alice thinks it is beastly, and Noel says it is the golden wine of the gods but he still has to put his handkerchief up to his mouth. H.O. spits it out in the fire. The passage describes a group of children tasting a new drink. One child says it needs sugar, and they all agree.
+
+Last chunk: we told him so.  Then it was Alice's turn. She said, 'Only half a teaspoonful for me,  Dora. We mustn't use it all up.' And she tasted it and said nothing.  Then Dicky said: 'Look here, I chuck this. I'm not going to hawk round  such beastly stuff. Any one who likes can have the bottle. Quis?'  And Alice got out 'Ego' before the rest of us. Then she said, 'I know  what's the matter with it. It wants sugar.'  And at once we all saw that that was all there was the matter with the  stuff. So we got
+
+Next chunk:

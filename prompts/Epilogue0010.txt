@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is mortally wounded and on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. The prioress betrays Robin Hood and cuts one of his veins, causing him to bleed out. Little John is deeply saddened by the loss of his friend.
+
+Last chunk: andnow, with the yearning, came a great longing to sound his bugle oncemore. He raised it to his lips; he blew a blast."Tirila, lirila," thesweet, clear notes went winding down the forest paths, coming back againfrom the more distant bosky shades in faint echoes of sound, "Tirila,lirila, tirila, lirila," until it faded away and was lost.  Now it chanced that on that very morn Little John was walking through aspur of the forest upon certain matters of business, and as he pacedalong, sunk in
+
+Next chunk:

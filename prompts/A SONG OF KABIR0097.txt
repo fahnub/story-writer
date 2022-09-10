@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Mowgli is being tracked by Buldeo, a villager. His animal friends, Gray Brother and Bagheera, watch and comment on the situation. Buldeo is tired from the chase, but Bagheera says he will be well-rested before he picks up the trail again. The passage describes how elephants scare away birds and other potential predators, allowing the deer to escape. However, the Eaters of Flesh are close behind them, and eventually force them into the darkness of the night. Mowgli tells Messua's husband that they have nothing to fear from the animals of the jungle, as they will not harm them. The passage describes how animals break into a village and ruin the crops.
+
+Last chunk: broke down  and flooded into the village grazing-grounds and the ploughed fields;  and the sharp-hoofed, rooting wild pig came with them, and what the deer  left the pig spoiled, and from time to time an alarm of wolves would  shake the herds, and they would rush to and fro desperately, treading  down the young barley, and cutting flat the banks of the irrigating  channels. Before the dawn broke the pressure on the outside of the  circle gave way at one point. The Eaters of Flesh had fallen back
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a child's insatiable appetite, and how he commandingly demands the last cake on the table. Miss Celia is amused by his antics, and invites him to help himself and sit down to eat it. The child does as he is told, and then proceeds to tell Miss Celia his name. The boys in the passage were shy, so they made their donkey, Sancho, the medium through which they communicated with one another. The donkey, who was given a dish of sandwiches, behaved with great dignity and propriety.
+
+Last chunk: months; but the boys were still rather shy,  and made Sancho the medium through which they addressed one another. The  excellent beast behaved with wonderful propriety, sitting upon his  cushion in an attitude of such dignity that it seemed almost a liberty to  offer him food. A dish of thick sandwiches had been provided for his  especial refreshment; and, as Ben from time to time laid one on his  plate, he affected entire unconsciousness of it till the word was given,  when it vanished at one
+
+Next chunk:

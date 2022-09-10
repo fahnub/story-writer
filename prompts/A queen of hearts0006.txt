@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker reflects on her family, their history with an apple orchard, and the beauty of a morning landscape. She wonders why everything is settled for people before they are born, but feels fortunate to have been born into the same family. The passage also describes a scene in which the speaker and a companion notice a girl standing at the entrance to a lane leading to Uncle Roger's house.
+
+Last chunk: Before the wedding he had  fenced off the big south meadow that sloped to the sun; it was the  finest, most fertile field on the farm, and the neighbours told young  Abraham King that he would raise many a fine crop of wheat in that  meadow. Abraham King smiled and, being a man of few words, said nothing;  but in his mind he had a vision of the years to be, and in that vision  he saw, not rippling acres of harvest gold, but great, leafy avenues of  wide-spreading trees laden with fruit to
+
+Next chunk:

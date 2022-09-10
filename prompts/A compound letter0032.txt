@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. The person in the passage is talking about how they are glad they are like their father and they received a letter from him with pictures this week. The person then talks about how yesterday they thought they saw the family ghost. The boy is happy to have finished the Bible, and is grateful for the kindness of the people around him. In the passage, the speaker describes their friend Peter's happiness at receiving their letter, and how he dictated a reply to them.
+
+Last chunk: friend,  "SARA STANLEY."    I did not keep a copy of my own letter, and I have forgotten everything  that was in it, except the first sentence, in which I told Peter I was  awful glad he was getting better.  Peter's delight on receiving our letters knew no bounds. He insisted  on answering them and his letter, painstakingly disinfected, was duly  delivered to us. Aunt Olivia had written it at his dictation, which  was a gain, as far as spelling and punctuation went. But Peter's  individuality
+
+Next chunk:

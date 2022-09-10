@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to the news that the world is ending. Peter is despairing, Cecily is practical, and Sara Ray is regretful. The passage describes the departure of Sara, a tearful girl, from the company of her friends. Her friends are relieved to see her go, as they believe she was not a pleasant companion. They wonder where they will all be tomorrow night.
+
+Last chunk: Dan. "You needn't worry,  Sara."  But Sara departed, weeping. She did not, however, forget to carry the  forget-me-not jug with her. All things considered, her departure was a  relief. Such a constantly tearful damsel was not a pleasant companion.  Cecily and Felicity and the Story Girl did not cry. They were made of  finer, firmer stuff. Dry-eyed, with such courage as they might, they  faced whatever might be in store for them.  "I wonder where we'll all be this time to-morrow night," said
+
+Next chunk:

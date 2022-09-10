@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friends see a light in the window of the house next door and decide to watch it that night. Noel speculates that the burglars chose the house because the people next door are grand and won't know them. However, it turns out that the light was just from the lady next door accidentally knocking over some flowerpots.
+
+Last chunk: go out in a real private carriage sometimes. And  they have an "At Home" day, and people come in cabs. I daresay they have  piles of plate and jewellery and rich brocades, and furs of price and  things like that. Let us keep watch to-night.'  'It's no use watching to-night,' Dicky said; 'if it's only burglars they  won't come again. But there are other things besides burglars that are  discovered in empty houses where lights are seen moving.'  'You mean coiners,' said Oswald at once. 'I wonder
+
+Next chunk:

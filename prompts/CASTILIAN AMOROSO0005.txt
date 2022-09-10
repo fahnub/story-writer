@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are making and selling wine when they are caught by the vicar. The passage describes the scene after they are caught and Dora is upset. Alice is comforting her and Oswald is looking for the corkscrew. The passage also describes a confrontation between a young girl and an older woman. The passage describes a situation in which two children are waiting for a parcel to arrive from a trade they made. The ginger-beer mentioned is likely a celebratory drink for when the parcel finally arrives.
+
+Last chunk: trade.  We got some nice paper out of Father's study, and Dicky wrote the  letter, and we put in the money and put on the stamp, and made H. O.  post it. Then we drank the ginger-beer, and then we waited for the  sample and instructions. It seemed a long time coming, and the postman  got quite tired of us running out and stopping him in the street to ask  if it had come.  But on the third morning it came. It was quite a large parcel, and  it was packed, as the advertisement said it would be,
+
+Next chunk:

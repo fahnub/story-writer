@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman and her children visit a priest, who tells them about a treasure hidden by their ancestors. The children are excited to find the treasure, but are disappointed when they find it is just a carpet. The woman is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words. Cyril lays on his back at the foot of the stairs, with his head on the top step and his feet among his young relations, and oils the bolt of his father's bicycle. When the bolt still won't move, he ties it with string.
+
+Last chunk: By a happy chance Cyril had in his pocket the oil-can of his father'sbicycle; he put the carpet down at the foot of the stairs, and he layon his back, with his head on the top step and his feet straggling downamong his young relations, and he oiled the bolt till the drops of rustand oil fell down on his face. One even went into his mouth--open, as hepanted with the exertion of keeping up this unnatural position. Thenhe tried again, but still the bolt would not move. So now he tied
+
+Next chunk:

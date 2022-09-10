@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and Oswald are trying to sell their homemade lemonade, but Dicky is skeptical. They open the bottle to test it and the cork breaks. Oswald, Dicky, Alice, and Noel all taste sherry for the first time. Oswald and Dicky think it is burny, Alice thinks it is beastly, and Noel says it is the golden wine of the gods but he still has to put his handkerchief up to his mouth. H.O. spits it out in the fire. The passage describes a group of children tasting a new drink. One child says it needs sugar, and they all agree. The woman gets angry at the children and tells them she is going to write to their mother. Alice apologizes. This passage describes two children's decision to start their own business after finding half a crown. They hope to earn two pounds a week each from their new venture.
+
+Last chunk: CASTILIAN AMOROSO (Fiction:- Ages 5 to 9)  One day when we suddenly found that we had half a crown we decided that  we really ought to try Dicky's way of restoring our fallen fortunes  while yet the deed was in our power. Because it might easily have  happened to us never to have half a crown again. So we decided to dally  no longer with being journalists and bandits and things like them, but  to send for sample and instructions how to earn two pounds a week each  in our spare time. We had seen
+
+Next chunk:

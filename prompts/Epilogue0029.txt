@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is mortally wounded and on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. The prioress betrays Robin Hood and cuts one of his veins, causing him to bleed out. Little John is deeply saddened by the loss of his friend. The woman tended to Little John's wounds and then was ordered to leave by him. He then tried to reassure everyone that he was going to be fine.
+
+Last chunk: shehad done, and dreaded the vengeance of Little John and the others of theband; then she stanched the blood by cunning bandages, so that it flowedno more. All the while Little John stood grimly by, and after she haddone he sternly bade her to begone, and she obeyed, pale and trembling.Then, after she had departed, Little John spake cheering words, laughingloudly, and saying that all this was a child's fright, and that no stoutyeoman would die at the loss of a few drops of blood. "Why," quoth
+
+Next chunk:

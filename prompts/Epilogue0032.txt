@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a dying man's final request, that his resting place be kept green and undisturbed. He then sits up and, with his last bit of strength, shoots an arrow out the window. He sinks back into Little John's arms, and dies. Little John is worried about his master and runs to the nunnery for help. However, the door is too strong for him to get through and the people inside refuse to let him in. Little John then finds a heavy stone mortar and tries to use it to break down the door. Robin Hood returns to the woodlands and takes up his old title again. John had thought of harming women in vengeance, but the other promised that no ill would fall upon the place. They sat in silence, holding hands, till the sun set.
+
+Last chunk: John had thought of doing harm to women, even in vengeance. Thushe talked till, at last, the other promised, in a choking voice, that noill should fall upon the place, no matter what happened. Then a silencefell, and Little John sat with Robin Hood's hand in his, gazing out ofthe open window, ever and anon swallowing a great lump that came in histhroat.Meantime the sun dropped slowly to the west, till all the skywas ablaze with a red glory. Then Robin Hood, in a weak, falteringvoice, bade Little
+
+Next chunk:

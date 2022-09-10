@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a group of children walking to a schoolhouse for a lecture. One child, Sara Ray, is excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture. The passage describes the boys and girls relaxing in a hayloft, where they had "stowed" the hay that morning. The hayloft is described as a delicious place, with just enough shadow and soft noise to give it an agreeable tang of mystery.
+
+Last chunk: all in the hayloft. The Story Girl had been telling us a tale    "Of old, unhappy, far-off things,    And battles long ago."  Felicity and Cecily were curled up in a corner, and we boys sprawled  idly on the fragrant, sun-warm heaps. We had "stowed" the hay in the  loft that morning for Uncle Roger, so we felt that we had earned the  right to loll on our sweet-smelling couch. Haylofts are delicious  places, with just enough of shadow and soft, uncertain noises to give  an agreeable tang of
+
+Next chunk:

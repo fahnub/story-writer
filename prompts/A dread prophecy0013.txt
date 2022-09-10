@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to the news that the world is ending. Peter is despairing, Cecily is practical, and Sara Ray is regretful.
+
+Last chunk: lots more  interesting than heaven because fires were such jolly things. Now, did  you ever hear the like?"  "I guess it depends a good deal on whether you're inside or outside the  fires," I said.  "Oh, Andrew didn't really mean it, of course. He just said it to sound  smart and make us stare. The Marrs are all like that. But anyhow, I'm  going to keep on praying that something will happen to excite the Story  Girl. I don't believe there is any use in praying that Felicity will  speak first,
+
+Next chunk:

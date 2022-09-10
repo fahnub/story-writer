@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friend make wine more palatable by adding sugar. The speaker and his friends follow the instructions in an advertisement and are successful. Father scolds the boys for selling wine, but then laughs it off. The speaker and Alice meet a lady who is surprised when they offer her wine. A group of friends decides to visit the vicarage on a Saturday afternoon. Father opened a brown-paper parcel that contained a bottle and glass.
+
+Last chunk: did. We  did not tell the little ones, but I got Alice to speak to Dicky, and we  three can sit on the others if requisite.  This made us forget all about the sherry; but about eight o'clock there  was a knock, and Eliza went, and we saw it was poor Jane, if her name  was Jane, from the Vicarage. She handed in a brown-paper parcel and a  letter. And three minutes later Father called us into his study.  On the table was the brown-paper parcel, open, with our bottle and glass  on it, and Father
+
+Next chunk:

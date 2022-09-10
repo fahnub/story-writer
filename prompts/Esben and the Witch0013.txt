@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole to fatten him up, but his daughter eventually grows to like her captor and decides not to kill him. Esben's brothers say they can get him a special dove with feathers of gold and silver, but only if they are threatened with death. The king then has the brothers called before him and accuses them of lying. The brothers deny the accusation and insist that such a dove does not exist. SirRed is angry and jealous of the brothers, and plans to get them into trouble. He tells the king that they can get a lamp that will shine over seven kingdoms, and the king orders them to bring it to him. Esben takes the witch's dove and she chases after him, asking if he did all of the things she's accused him of. He says "that may be" and she continues to chase him.
+
+Last chunk: dove; sowhen he arrived in the courtyard he shook the peas out of the bag, andthe dove came fluttering down to pick them up. Esben caught it at once,put it into the bag, and hurried off before the witch caught sight ofhim; but the next moment she came running, and shouted after him, ' IHey is that you, Esben.?'  'Ye--e--s!'  'Is it you that has taken my dove?'  'Ye--e--s!'  'Was it you that made me kill my eleven daughters?'  'Ye--e--s!'  'Are you coming back again?'  'That may be,' said Esben.
+
+Next chunk:

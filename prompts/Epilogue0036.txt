@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is mortally wounded and on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. The prioress betrays Robin Hood and cuts one of his veins, causing him to bleed out. Little John is deeply saddened by the loss of his friend, but he does not show it to the others. He simply covers Robin's body and leaves the room silently.
+
+Last chunk: the winged arrow spedfrom the bow.  For some minutes Little John sat motionless, but presently he laid thatwhich he held gently down, then, folding the hands upon the breast andcovering up the face, he turned upon his heel and left the room withouta word or a sound.  Upon the steep stairway he met the Prioress and some of the chief amongthe sisters.To them he spoke in a deep, quivering voice, and said he,"An ye go within a score of feet of yonder room, I will tear down yourrookery over your
+
+Next chunk:

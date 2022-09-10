@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A child is preparing for a tea party and is tired from all her preparations, but is contentedly looking forward to the party. The children see a raccoon in their orchard and chase it. They wonder where it came from and hope it got hurt if it ate their cake. The passage describes two sisters who are left alone with a cake. When they return, they find that the cake has been eaten.
+
+Last chunk: water now," suggested Bab, feeling  that it was not safe to encourage her sister in such complaints.  "It is not many people who would dare to leave their children all alone  with such a lovely cake, and know they wouldn't pick at it," said Betty  proudly, as they trotted away to the spring, each with a little tin pail  in her hand.  Alas, for the faith of these too confiding mammas! They were gone about  five minutes, and when they returned a sight met their astonished eyes  which produced a
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's preparations for a tea party, including mixing water with the milk to stretch it. The child is tired from all her preparations, but is contentedly looking forward to the party. The children in the passage are afraid of the dog, but it eventually goes away. The Kenwigses are a row of dolls that Bab is maternal pride of. Betty sets down the basket to run to the suspended darling. The cake can be cooling while they fix the children. A group of dolls are sitting around in full dress, with one exception - a doll hanging by her neck from the door knocker. This is a typical scene in the lives of these dolls.
+
+Last chunk: them, it would have disclosed the fact that all  were in full dress, and merely reposing before the feast should begin.  There was another interesting feature of the scene which would have  puzzled any but those well acquainted with the manners and customs of  dolls. A fourteenth rag baby, with a china head, hung by her neck from  the rusty knocker in the middle of the door. A sprig of white and one of  purple lilac nodded over her, a dress of yellow calico, richly trimmed  with red-flannel
+
+Next chunk:

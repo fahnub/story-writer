@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman and her children visit a priest, who tells them about a treasure hidden by their ancestors. The children are excited to find the treasure, but are disappointed when they find it is just a carpet. The woman is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words. The children in the passage want to take their mother to see the Psammead, but they are worried about her reaction. An old woman, a young boy, and a lady went to visit a priest. The children have learned their lesson and will only use the carpet for good from now on. The speaker is asking whose castle is on the hill, and the poor lady replies that it has belonged to her family for hundreds of years but that she will have to sell it to strangers tomorrow.
+
+Last chunk: only wanted to ask you whose that castle is on the hill.'  'Oh, my little angel,' said the poor lady, sniffing, 'to-day and forhundreds of years the castle is to us, to our family. To-morrow it mustthat I sell it to some strangers--and my little Henri, who ignoresall, he will not have never the lands paternal. But what will you? Hisfather, my brother--Mr the Marquis--has spent much of money, and it themust, despite the sentiments of familial respect, that I admit that mysainted father he also--'
+
+Next chunk:

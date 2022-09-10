@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children who are surprised to find a boy wearing a crown and slippers in the garden. He is embarrassed and quickly leaves. The passage also describes a horse race between two children, with one of them having fun and the other being happy to be there. Finally, the passage describes a school play being put on for the children, with one of the teachers dressing the actresses for the tragedy.
+
+Last chunk: the next piece is new to the business,  the company must all keep as still as mice, and not stir till I give the  word. It's perfectly splendid! so don't you spoil it by making a row."  "What do you suppose it is?" asked every one, and listened with all  their might to get a hint, if possible. But what they heard only whetted  their curiosity and mystified them more and more. Bab's voice cried in a  loud whisper, "Isn't Ben beautiful?" Then there was a thumping noise,  and Miss Celia said, in an
+
+Next chunk:

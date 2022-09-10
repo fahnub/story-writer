@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben and Thorny have just fought and made up. Thorny wants to show off his new wounds to Celia, but Ben suggests they clean up first. The passage describes two young ladies who are curious about a mad dog they see. One of them stands on tip-toe to get a better view, and describes the dog as being dusty and brownish, with his tongue hanging out.
+
+Last chunk: 'fraid of mad dogs, and so  is yours," said Susy; and, having satisfied their curiosity, the young  ladies prudently retired.  But Betty had not had her "peep," and could not resist one look; for she  had heard of these unhappy animals, and thought Bab would like to know  how they looked. So she stood on tip-toe and got a good view of a dusty,  brownish dog, lying on the grass close by, with his tongue hanging out  while he panted, as if exhausted by fatigue and fear, for he still cast
+
+Next chunk:

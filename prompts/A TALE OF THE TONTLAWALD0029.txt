@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a magical forest called the Tontlawald, where she meets a kind woman who offers to send her home. A rock opens and a table with food appears when a cock crows. More furniture and fruit appear when the cock crows again. When everybody is done, the old man strikes the rock and everything disappears. A girl invites another to come play with her and her mother in the woods, promising fun and safety. The other girl is amazed by the beauty of the woods and the abundance of fruit. A black cat runs up to a rock in the middle of a block, and a dish appears on the other side of the rock. The old man picks up the dish and the cat, and they all vanish into the rock.
+
+Last chunk: went dishes, table, chairs, and plates into the middle of the block.  When, however, it came to the turn of the thirteenth dish, which nobody ever wanted to eat, a huge black cat ran up, and stood on the rock close to the cock, while the dish was on his other side.  There they all remained, till they were joined by the old man.  He picked up the dish in one hand, tucked the cat under his arm, told the cock to get on his shoulder, and all four vanished into the rock. And this wonderful stone
+
+Next chunk:

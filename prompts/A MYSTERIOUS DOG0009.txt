@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's preparations for a tea party, including mixing water with the milk to stretch it. The child is tired from all her preparations, but is contentedly looking forward to the party. The children in the passage are afraid of the dog, but it eventually goes away. A pleasing silence reigned in the room, broken only by the occasional snore from Dinah or cry from baby Jane. Voices were heard approaching, and two little girls came into the room carrying a pitcher.
+
+Last chunk: tight; therefore, if slow suffocation suited her, who  else had any right to complain? So a pleasing silence reigned, not even  broken by a snore from Dinah, the top of whose turban alone was visible  above the coverlet, or a cry from baby Jane, though her bare feet stuck  out in a way that would have produced shrieks from a less well-trained  infant.  Presently voices were heard approaching, and through the arch which led  to a side-path came two little girls, one carrying a small pitcher, the
+
+Next chunk:

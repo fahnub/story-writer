@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Ben has been accused of stealing, and Thorny is threatening to beat him up unless he gives back what he stole. Miss Celia intervenes and asks if there is anything hidden in the closet. Miss Celia is going to speak to Ben about something, but she hears a loud argument coming from his room and decides to wait. Ben is accused of stealing money, but he denies it. He is upset because he knows he can't prove his innocence. The passage describes a boy finding baby mice in his grandmother's house. He is surprised and amused by them, but his grandmother tells him they will have to kill them if they catch their mother.
+
+Last chunk: dusty recess, and then put in his hand,  saying carelessly,--  "There's nothing but a bit of red stuff."  "My old pen-wiper--Why, what's the matter?" asked Miss Celia, as Ben  dropped the handful of what looked like rubbish.  "Something warm and wiggly inside of it," answered Ben, stooping to  examine the contents of the little scarlet bundle. "Baby mice! Ain't  they funny? Look just like mites of young pigs. We'll have to kill 'em  if you've caught their mamma," he said, forgetting his own
+
+Next chunk:

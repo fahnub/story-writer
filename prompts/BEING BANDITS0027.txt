@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are playing a game of war and preparing to capture an unwary traveller. They have chains to hold the captive and plan to ransom them back to their friends. The passage describes Albert's expectations for being ransomed, and the speaker's doubts about whether Albert is actually worth the ransom money.
+
+Last chunk: you are more highly  privileged than ever I was. No one ever made me a nice dungeon when I  was your age. I think I had better leave you where you are.'  Albert began to cry again and said he was sorry, and he would be a good  boy.  'And on this old familiar basis you expect me to ransom you, do you?  Honestly, my nephew, I doubt whether you are worth it. Besides, the sum  mentioned in this document strikes me as excessive: Albert really is  _not_ worth three thousand pounds. Also by a strange
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: In the passage, Thorny plans to travel with his new wife and Ben is curious about whether Thorny will get along with the new master. Thorny likes George. Sam and Ben argue over who will have to go into the bog to retrieve a lost ball. A woman is delighted to receive a letter, and says that her fiancé has arrived and they will be getting married soon. Betty, upon hearing this news, asks if she is going to be married. The boys and girls take turns barricading the door and then tearing down the other's barricade. Sam is breathless but good natured. He feels he has made an excellent bargain for himself and friends. He tells the other person to wash their face and gives them a handkerchief. Sam says he was taught to say 'Thanky' when people help him out, implying that the other person was not taught properly. We can only help the truth, not hurt it.
+
+Last chunk: WE CAN DO NOTHING AGAINST THE TRUTH, BUT ONLY FOR THE TRUTH.
+
+Next chunk:

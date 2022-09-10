@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a discussion between two people, in which one describes a temptation that she resisted. The other person is worried about something, but does not say what it is. Miss Celia is worried that Ben might want to go back to his old life in the circus, but she doesn't think he would actually do it without telling them first. The speaker and Miss Celia's brother offer to forgive and forget the pain that was caused, and Ben shakes their hands. However, he squeezes Thorny's hand with more force, remembering that Thorny had always been good to him.
+
+Last chunk: look more  carefully before we spoke, then we all should have been spared this  pain."  "All right, old fellow, forgive and forget.  I'll never think hard of  you again,--on my honor I won't."  As they spoke, Miss Celia and her brother held out their hands frankly  and heartily. Ben shook both, but with a difference; for he pressed the  soft one gratefully, remembering that its owner had always been good to  him; but the brown paw he gripped with a vengeful squeeze that made  Thorny pull it away
+
+Next chunk:

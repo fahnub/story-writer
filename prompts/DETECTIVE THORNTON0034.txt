@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a discussion between two people, in which one describes a temptation that she resisted. The other person is worried about something, but does not say what it is. Thorny and Celia discuss a boy who is acting suspiciously and decide to wait and see if he clears himself before they say anything. Thorny is pleased to have the opportunity to play detective and promises to help the speaker figure out what happened to the missing ten dollars. The passage describes a boy who has been accused of stealing. He is upset and asks the person who accused him why they would think that of him. The woman cannot find where her money has gone, and her daughter suggests that someone could have come in through the window.
+
+Last chunk: innocent of  the theft as the kitten now biting her buttons, no other refreshment  being offered.  "Nobody, for I know my girls well.  Yet, eleven dollars are gone, and I  cannot imagine where or how for both drawer and door are always locked,  because my papers and valuables are in that room."  "What a lot! But how could I get it if it was locked up?" and Ben looked  as if that question was unanswerable.  "Folks that can climb in at windows for a ball, can go the same way for  money, and get it
+
+Next chunk:

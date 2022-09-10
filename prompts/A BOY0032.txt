@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of two boys who make peace with each other after a fight by playing around with some logs. However, their peace doesn't last long, as one of the boys soon starts tormenting the other again by calling him names. The passage also describes the plans of three siblings after they return from their travels. Thorny plans to go to college, Celia plans to live there permanently, and George plans to help the local minister. Ben, the fourth sibling, wonders if he will be welcome to stay.
+
+Last chunk: sick, and we came here, and that's all."  "Shall you live here always when you come back? asked Bab, as Thorny  paused for breath.  "Celia wants to.  I shall go to college, so I don't mind.  George is  going to help the old minister here and see how he likes it. I'm to  study with him, and if he is as pleasant as he used to be we shall have  capital times,--see if we don't."  "I wonder if he will want me round," said Ben, feeling no desire to be a  tramp again.  "I do, so you needn't fret about
+
+Next chunk:

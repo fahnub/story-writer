@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The speaker reflects on a sermon they wrote in the past, which they are no longer proud of. They remember thinking that their rivals would have a hard time beating it. A group of children go to an orchard to play a game on Sunday, without telling the adults. One of the children, feeling nervous, leads the opening exercises.
+
+Last chunk: we all repaired to the orchard, Bibles and hymn books  in hand. We did not think it necessary to inform the grown-ups of what  was in the wind. You could never tell what kink a grown-up would take.  They might not think it proper to play any sort of a game on Sunday,  not even a Christian game. Least said was soonest mended where grown-ups  were concerned.  I mounted the pulpit steps, feeling rather nervous, and my audience sat  gravely down on the grass before me. Our opening exercises
+
+Next chunk:

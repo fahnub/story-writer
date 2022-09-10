@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a dog who is welcomed back by his family after he is injured. Ben, one of the dog's owners, is particularly happy to see him and listens to the story of his recovery with interest. Thorny's sister tries to persuade him to see the doctor for his limp, but Thorny insists he doesn't need any help. The little heroine makes a solemn vow to never forget what Betty Moss did for her. She then proceeds to gift half of her pet Sancho to Betty, sealing the deal with a kiss on each of Betty's chubby cheeks.
+
+Last chunk: the little heroine, saying solemnly, as  he laid her hand with his own on Sancho's head,  "Betty Moss, I'll never forget what you did; from this minute half of  Sanch is your truly own, and if I die you shall have the whole of him,"  and Ben sealed the precious gift with a sounding kiss on either chubby  check.  Betty was so deeply touched by this noble bequest, that the blue eyes  filled and would have overflowed if Sanch had not politely offered his  tongue like a red pocket-handkerchlef, and
+
+Next chunk:

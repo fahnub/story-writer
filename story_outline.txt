@@ -1,0 +1,5 @@
+Write the long, full, detailed synopsis of the following story:
+
+Story: <<STORY>>
+
+Synopsis:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage also describes how a box of books donated to a local library produced lasting pleasure for many children.
+
+Last chunk: Dinah down there for Matty. I don't love her any more, now her last eye  has tumbled out, and you may shoot her just as much as yon like."  Before Bab could agree to this satisfactory arrangement, Thorny  appeared, singing, as he aimed at a fat robin, whose red waistcoat  looked rather warm and winterish that August day,--    "So he took up his bow,    And he feathered his arrow,    And said, 'I will shoot    This little cock-sparrow.'"  "But he didn't," chirped the robin, flying away, with a
+
+Next chunk:

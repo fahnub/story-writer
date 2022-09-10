@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. Cecily is happy that Peter is getting better, and she has been praying for him every night. The girls are talking about how much they want new clothes, and how jealous they are of each other. Kitt Mar is mentioned as a girl who was recently sick with measles. The passage ends with the narrator's thoughts on missions, and how they hope the measles never strike again.
+
+Last chunk: cherry vase. I'd rather give it to  the Story Girl, but Dan says it ought to be kept in the family, even if  Felicity is a crank. I haven't anything else valuable, since I gave Sara  Ray my forget-me-not jug, but if you would like anything I've got let me  know and I'll leave instructions for you to have it. The Story Girl has  told us some splendid stories lately. I wish I was clever like her. Ma  says it doesn't matter if you're not clever as long as you are good, but  I am not even very good.
+
+Next chunk:

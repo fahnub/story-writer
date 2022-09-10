@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to the possibility that the world might end the next day. Dan is excited by the prospect of learning more about the Bible, while the Story Girl is sad that she won't have time to do all the things she wants to do. The boys are unhappy because the Story Girl is weaving a wreath of buttercups and Felicity is sipping from a cup of clouded blue with an air of unconcern. The girls in the passage are upset about the possibility of a fire, and beg the Story Girl to stay with them and keep them cheered up. I told Cecily that she should try praying to get her parents to speak to her again, and she said that her husband Dan told her it was useless. I reminded her of a time when praying had helped Sara Ray get money, and she said she was glad I thought it might help.
+
+Last chunk: excite her, that's all,"  I said.  "I'm--I'm praying about it," said Cecily in a low voice, her tear-wet  lashes trembling against her pale, round cheeks. "Do you suppose it will  do any good, Bev?"  "Very likely," I assured her. "Remember Sara Ray and the money. That  came from praying."  "I'm glad you think so," said Cecily tremulously. "Dan said it was no  use for me to bother praying about it. He said if they COULDN'T speak  God might do something, but when they just WOULDN'T it wasn't
+
+Next chunk:

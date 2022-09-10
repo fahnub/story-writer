@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman unsuccessfully tries to win back her husband's affections and believes that only the return of her friend Sancho will be able to restore their broken friendship.
+
+Last chunk: toothache would be waiting to take ether, and so  give our young man an excuse for postponing his job.  But no; Dr. Mann was quite at leisure, and, full of smiling interest,  awaited his victim, laying forth his unpleasant little tools with the  exasperating alacrity of his kind. Glad to be released from any share in  the operation, Betty retired to the back window to be as far away as  possible, and for half in hour was so absorbed in her book that poor  Thorny might have groaned dismally
+
+Next chunk:

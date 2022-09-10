@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful.
+
+Last chunk: quite different, and  she said, 'I'm very sorry. I didn't know. Never mind about the wine. I  daresay your little sister meant it kindly.' And she looked round the  room just like the butcher had done. Then she said again, 'I didn't  know--I'm very sorry...'  So I said, 'Don't mention it,' and shook hands with her, and let her  out. Of course we couldn't have asked her to buy the wine after what  she'd said. But I think she was not a bad sort of person. I do like  a person to say they're sorry
+
+Next chunk:

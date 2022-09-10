@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A mother and child discuss the child's recent discovery that the royal family in the cave are planning to marry their prince (Harelip) to a sun-woman (one of their own kind). The child is excited by this news, and the mother is dismissive, telling her that it won't make her any wiser. Curdie's mother tells him a strange story in order to help him think better of the princess. Curdie kills a goblin with his pocket knife after a struggle, and is satisfied that the goblins are mining. The speaker plans to retrace their steps back to where they first saw the cobs, and then mark down on a piece of paper which turns they take, in order to better understand which direction the cobs are going in.
+
+Last chunk: she may be,  I won't spare her next time.  But I shall be careful with my light, for  I don't want them to see me.  I won't stick it in my hat.'  'Go on, then, and tell us what you mean to do.'  'I mean to take a bit of paper with me and a pencil, and go in at the  mouth of the stream by which we came out.  I shall mark on the paper as  near as I can the angle of every turning I take until I find the cobs  at work, and so get a good idea in what direction they are going.  If  it should prove to
+
+Next chunk:

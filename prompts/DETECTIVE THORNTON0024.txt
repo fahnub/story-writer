@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Ben has been accused of stealing, and Thorny is threatening to beat him up unless he gives back what he stole. Miss Celia intervenes and asks if there is anything hidden in the closet. Miss Celia is going to speak to Ben about something, but she hears a loud argument coming from his room and decides to wait.
+
+Last chunk: poor prey as mice, and bound to prove that he was in the  right.  "I'll let you know what I have decided in the morning. Be kind to Ben,  meantime, or I shall feel as if I had done you harm by letting you watch  him."  So it was left for that day, and by the next, Miss Celia had made up her  mind to speak to Ben. She was just going down to breakfast when the  sound of loud voices made her pause and listen. It came from Ben's room,  where the two boys seemed to be disputing about something.  "I
+
+Next chunk:

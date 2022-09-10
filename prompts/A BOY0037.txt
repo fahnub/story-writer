@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. This passage describes Sam's reaction to seeing Ben coming towards him while he is stuck in a ditch. Sam is embarrassed and does not want Ben to see him, but Ben eventually helps him out. The passage tells the story of a man who, after breaking his word of honor, goes back to find the cave in which he slept in order to ask the King of the fairies for forgiveness. Though he often searches, he can never find the opening in the hills. Ben wants the other kids to stop teasing him and Mose, and in return he won't tell on them. This passage describes a woman's experience of her sister becoming engaged to a man she had been friends with. The woman was happy for her sister, but also felt that the relationship would help the man to succeed in his studies. The children are discussing weddings and Miss Celia overhears. She tells them that she wishes she could have a wedding at her house. The speaker wants to live in the present moment forever.
+
+Last chunk: live  here for ever and ever."
+
+Next chunk:

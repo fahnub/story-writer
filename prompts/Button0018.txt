@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man, a boy, and a girl ask three birds to carry them to another country. The man in the passage explains that all snow is popcorn in the Land of Mo. Trot, who is from a different country, is surprised by this. The man becomes impatient with her and tells her to make the best of it. The speaker is urging the others to fly over the desert to explore what lies beyond it, rather than explore the strange land of Mo. They vote for the desert. Cap'n Bill and the Ork discuss flying to a desert, and the Ork insists that it would be a pleasant country to visit. The passage describes how different types of winds have different smells, and how this can be used to determine which direction the wind is blowing from. The Ork inside the house is described as being birdlike and Button-Bright is interested in it.
+
+Last chunk: direction. The south breeze always has a violet odor; the north  breeze has the fragrance of wild roses; the east breeze is perfumed  with lilies-of-the-valley and the west wind with lilac blossoms. So we  need no weathervane to tell us which way the wind is blowing. We have  only to smell the perfume and it informs us at once."  Inside the house they found the Ork, and Button-Bright regarded the  strange, birdlike creature with curious interest. After examining it  closely for a time he asked:
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed is able to break the curse and live happily. She is given a gold ring and a golden box by her benefactress, and she is very sad and cries all night. The next day, she sees a beautiful dress lying over the back of a chair, ready for her to put on. The passage describes a group of women who are attending a wedding. The lady of the house is sitting at the head of the table in a golden chair. The girl in the passage shows Elsa a box containing a scrap of a cloak, a mussel shell, and two fish scales. The girl then shakes two drops of water from the cloak onto the ground, and the garden and lawn vanish.
+
+Last chunk: But I hope you will stay here always, as I can't bear you to go away. Have you ever been on the sea?'  'The sea?' asked Elsa, staring; 'what is that? I've never heard of such a thing!'  'Oh, I'll soon show you,' answered the girl, taking the lid from the box, and at the very bottom lay a scrap of a cloak, a mussel shell, and two fish scales. Two drops of water were glistening on the cloak, and these the girl shook on the ground. In an instant the garden and lawn and everything else had vanished
+
+Next chunk:

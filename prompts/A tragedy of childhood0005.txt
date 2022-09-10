@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California. The school wanted to buy a painting, but didn't have enough money. Peter and Dan each gave part of their allowance to make up the difference. Felicity pointed out that the painting also included a picture of Eden, and they all agreed that it was worth the price.
+
+Last chunk: the school library fund. But the general consensus  of opinion was that we must have the picture, no matter what pecuniary  sacrifices were involved. If we could each give about seven cents we  would have the amount. Peter could only give four, but Dan gave eleven,  which squared matters.  "Fifty cents would be pretty dear for any other picture, but of course  this is different," said Dan.  "And there's a picture of Eden thrown in, too, you know," added  Felicity.  "Fancy selling God's picture,"
+
+Next chunk:

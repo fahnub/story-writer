@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The Indians come down the river and burn the houses, kill the men, and take the women and children away. Thorny takes turns to tell the few tragical facts which were not shrouded in the deepest mystery. The lame paw soon healed, the dingy color slowly yielded to many washings, the woolly coat began to knot up into little curls, a new collar, handsomely marked, made him a respectable. Sancho the dog is back to normal after his ordeal, but he is now suspicious of strangers and growls at anyone who looks shabby. Fortunately, he is still grateful to those who helped him. The passage describes how Thorny helps Belinda by offering to let her use his bow. Ben also offers to help Belinda by letting her use his bow. The passage describes a woman who seems to find a sense of purpose in working for her small town. She is relatively quiet, but shares her plans with a close friend. These plans eventually come to fruition, much to the woman's delight.
+
+Last chunk: she might serve  the quiet town, where she seemed to feel that work was waiting for her  to do. She said little to any one but the friend over the sea, yet  various plans were made then that blossomed beautifully by-and-by.
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk. The passage describes the reaction of a group of children to the news that one of their friends will not be able to attend a lantern show due to an outbreak of measles in the area. The other children express sympathy for their friend and try to reassure her that she is not in danger of catching the disease. The passage is about how Felicity thinks it is vain to talk about anything you think is beautiful, and the Story Girl disagrees, saying it is only vain when you get puffed up about your good points.
+
+Last chunk: heard of  this fitness then, but we all felt that Paddy was in his own place in a  hayloft.  "I think it is very vain to talk about anything you have yourself being  beautiful," said Felicity.  "I am not a bit vain," said the Story Girl, with entire truthfulness.  "It is not vanity to know your own good points. It would just be  stupidity if you didn't. It's only vanity when you get puffed up about  them. I am not a bit pretty. My only good points are my hair and eyes  and feet. So I think it's
+
+Next chunk:

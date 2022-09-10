@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time. Liddy is preparing to perform Mary Howitt's poem "Red Riding Hood" and is asked about the play. The wolf makes an appearance and is found to be a natural actor in a gray wolf-skin. The passage describes a dance and chorus, after which a man named Chan retires to a tea garden and drinks many cups of tea. A beautiful woman then appears at a window, drawing the attention of the spectators.
+
+Last chunk: chorus,--    "Chingery changery ri co day,    Ekel tekel happy man;    Uron odesko canty oh, oh,    Gallopy wallopy China go."  At the close of the dance and chorus, Chan retired into the tea garden,  and drank so many cups of the national beverage, with such comic  gestures, that the spectators were almost sorry when the opening of the  opposite window drew all eyes in that direction. At the lattice appeared  a lovely being; for this potato had been pared, and on the white surface  were painted
+
+Next chunk:

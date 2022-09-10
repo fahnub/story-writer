@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage discusses how the speaker and her brother Felix feel grateful to their grandparents for marrying each other, as it could have been much worse if they had married someone else. This passage describes the speaker's thoughts on her relatives. She thinks her sister Felicity is stupid, but likes her anyway. Cecily is much smarter, and Uncle Alec and Aunt Janet are also nice. Aunt Olivia is pretty and reminds the speaker of a pansy. The passage describes a woman who is not pretty, but has a beautiful voice.
+
+Last chunk: above either ear with rosettes  of scarlet ribbon. Her large, curving mouth was as red as a poppy, and  she had brilliant, almond-shaped, hazel eyes; but we did not think her  pretty.  Then she spoke; she said,  "Good morning."  Never had we heard a voice like hers. Never, in all my life since, have  I heard such a voice. I cannot describe it. I might say it was clear; I  might say it was sweet; I might say it was vibrant and far-reaching and  bell-like; all this would be true, but it would give
+
+Next chunk:

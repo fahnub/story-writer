@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time. The passage describes a man named Ben who says that he is content with his life and would not want to go back to his old ways, unless the person he used to be with was there and wanted him. The passage describes the scene at a restaurant where a play is being performed. The audience is wondering what will happen next in the play. The play is not the traditional story of Red Riding Hood, but a bed has been made with a false grandmother in it. Betty is lying next to the wolf, staring at him. Bab does her part in the play well, especially the shriek she gives when she looks into the closet.
+
+Last chunk: voice, knit his  corked eye-brows, and glared so frightfully, that it was no wonder poor  Fatima quaked before him as he gave into her keeping an immense bunch of  keys with one particularly big, bright one, among them.  Bab was fine to see, with Miss Celia's blue dress sweeping behind her, a  white plume in her flowing hair, and a real necklace with a pearl locket  about her neck. She did her part capitally, especially the shriek she  gave when she looked into the fatal closet, the energy with
+
+Next chunk:

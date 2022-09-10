@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage tells the story of how a lady became queen after she was found by a king while he was searching for an eagle he had shot. Kisika and her brother are transported to a dry land after she dips a cloth in the water.
+
+Last chunk: replied that it was her name.  It was all so pleasant that they might have stayed there for ever had not a voice cried out to them, 'Children, it is time for you to come home!'  So Kisika took the little box out of her pocket, with the piece of cloth lying in it, and dipped the cloth in the water, and lo! they were standing close to a splendid house in the middle of the garden. Everything round them was dry and firm, and there was no water anywhere. The mussel shell and the fish scales were put
+
+Next chunk:

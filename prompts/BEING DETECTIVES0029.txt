@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Oswald and Dicky try to look through a hole in a flower pot on a window ledge to see coiners, but they don't see anything.
+
+Last chunk: large  one was on the window-ledge. It seemed as if it was the hand of Destiny  had placed it there, and the geranium in it was dead, and there was  nothing to stop your standing on it--so Oswald did. He went first  because he is the eldest, and though Dicky tried to stop him because he  thought of it first it could not be, on account of not being able to say  anything.  So Oswald stood on the flower-pot and tried to look through one of the  holes. He did not really expect to see the coiners at
+
+Next chunk:

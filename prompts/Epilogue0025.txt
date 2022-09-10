@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards. Little John takes three steps forward and hurls a stone mortar at the door, breaking it open. He then runs up the winding stone steps to find his master. The prioress ties a cord around Robin Hood's arm and bleeds him, but she does not bleed him from one of his veins. The protagonist's cousin betrays him, and he is mortally wounded. He struggles to reach his bugle horn and sounds it three times before succumbing to his injuries.
+
+Last chunk: every wayto do so.Again and again he called for help, but no help came, for hiscousin had betrayed him, and Little John was too far away to hear hisvoice. So he bled and bled until he felt his strength slipping away fromhim. Then he arose, tottering, and bearing himself up by the palms ofhis hands against the wall, he reached his bugle horn at last. Thrice hesounded it, but weakly and faintly, for his breath was flutteringthrough sickness and loss of strength; nevertheless, Little John heardit
+
+Next chunk:

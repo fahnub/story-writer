@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California. The kids are excited to see Jerry Cowan's book, but are also afraid of it. The passage describes a girl who is nervous and upset because she went against her mother's wishes and came up the hill in the rain. They wait and watch at the window, and eventually the sun comes out.
+
+Last chunk: nervous, having  had, so it appeared, a difference of opinion with her mother about  coming up the hill in the rain.  "I'm afraid I did very wrong to come against ma's will," she said  miserably, "but I COULDN'T wait. I wanted to see the picture as soon as  you did."  We waited and watched at the window. The valley was full of mist, and  the rain was coming down in slanting lines over the tops of the spruces.  But as we waited the clouds broke away and the sun came out flashingly;  the drops on
+
+Next chunk:

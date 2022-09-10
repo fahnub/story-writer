@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California. The kids are excited to see Jerry Cowan's book, but are also afraid of it.
+
+Last chunk: before dinner.  "What if Jerry doesn't bring the picture to-day because of the rain?" I  suggested.  "Never you fear," answered Felicity decidedly. "A Cowan would come  through ANYTHING for fifty cents."  After dinner we all, without any verbal decision about it, washed our  faces and combed our hair. The girls put on their second best dresses,  and we boys donned white collars. We all had the unuttered feeling that  we must do such honour to that Picture as we could. Felicity and Dan  began a
+
+Next chunk:

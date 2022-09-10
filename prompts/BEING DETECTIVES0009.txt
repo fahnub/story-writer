@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Oswald and Dicky try to look through a hole in a flower pot on a window ledge to see coiners, but they don't see anything. The passage describes a boy named Albert who is waiting for a train with his uncle. His uncle tells him that the books he is reading are poorly translated and written in bad English. Albert disagrees, saying that they are still good stories. Alice is unconvinced by the justification for capital punishment, saying that she would be more interested in being a detective who catches criminals than in being a murderer herself.
+
+Last chunk: said Alice.  We explained to her why murderers have to be hanged, but she only said,  'I don't care. I'm sure no one would ever do murdering _twice_. Think  of the blood and things, and what you would see when you woke up in the  night! I shouldn't mind being a detective to lie in wait for a gang  of coiners, now, and spring upon them unawares, and secure  them--single-handed, you know, or with only my faithful bloodhound.'  She stroked Pincher's ears, but he had gone to sleep because he knew
+
+Next chunk:

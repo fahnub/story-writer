@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The Ork reflects on the question and says that he could carry one of the children on his back, but three adults would be too much. He suggests that they made a mistake in eating the purple berries so soon. The Bumpy Man shovels snow and finds someone buried in it. The shaggy man decides to call the boy Button-Bright, after his mother does. The passage describes a girl who is lost and is being led by a man. They come across a boy who is digging a hole. Dorothy meets Button-Bright on a road that winds through green meadows and fields. They don't see any houses or people for a while, but eventually they come across a farmhouse.
+
+Last chunk: Dorothy Meets Button-Bright (Fable:- Ages 3 to 5)      The seventh road was a good road, and curved this way and that--winding  through green meadows and fields covered with daisies and buttercups  and past groups of shady trees.  There were no houses of any sort to be  seen, and for some distance they met with no living creature at all.  Dorothy began to fear they were getting a good way from the farm-house,  since here everything was strange to her; but it would do no good at  all to go back
+
+Next chunk:

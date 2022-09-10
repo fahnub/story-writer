@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends capture a child and plan to ransom him, but the child is ultimately rescued and brought to safety. Albert-next-door's uncle is angry with him for playing with the bandits, and scolds him for disobeying his mother's warning. He shows him the dungeon and the things in it, and tells him he is going to be locked up there. A prisoner tells his story to the guard, but is scolded by his brother. Oswald agreed to let the speaker paint his thumb with red paint to simulate blood, and was pleased with the results. They used up all the red paint on the word "Restored", so had to finish with a different color. This passage describes a group of children's reaction to hearing someone say "Poor little beggars!" They assume that the speaker is not referring to them, since they are currently happy and have many fun things to look forward to.
+
+Last chunk: sounded like 'Poor little beggars!'  He couldn't have meant us, when we'd been having such a jolly time, and  chestnuts, and fireworks to look forward to after dinner and everything!
+
+Next chunk:

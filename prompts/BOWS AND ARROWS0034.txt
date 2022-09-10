@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage also describes how a box of books donated to a local library produced lasting pleasure for many children. Miss Celia is pleased with the success of her first attempt at being a public benefactor, and she is inspired to do more to help her community.
+
+Last chunk: effect; for other people hunted  up all the volumes they could spare for the same purpose, and the dusty  shelves in the little room behind the post-office filled up amazingly.  Coming in vacation time they were hailed with delight, and ancient books  of travel, as well as modern tales, were feasted upon by happy young  folks, with plenty of time to enjoy them in peace.  The success of her first attempt at being a public benefactor pleased  Miss Celia very much, and suggested other ways in which
+
+Next chunk:

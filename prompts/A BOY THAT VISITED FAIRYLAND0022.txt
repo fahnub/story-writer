@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. Sam and Ben are arguing, and Ben threatens to tell on Sam if he doesn't stop. Thorny and Bab are discussing a minister they know who is regularly jolly. Thorny is worried that he will change and become sober now that he is a minister. A scholar returns to a monastery and excels in book-learning. He later becomes famous and upon his death, he is buried with his father and mother.
+
+Last chunk: discover it.  So, fully penitent, and resolving to live right, and become what his father wanted him to be, he went back to the monastery.  There he plied his tasks so diligently that he excelled all in book-learning. In time, he became one of the most famous scholars in Welsh history. When he died, he asked to be buried, not in the monk's cemetery, but with his father and mother, in the churchyard. He made request that no name, record, or epitaph, be chiseled on his tomb, but only these words:
+
+Next chunk:

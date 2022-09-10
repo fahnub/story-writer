@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time. The passage describes a man named Ben who says that he is content with his life and would not want to go back to his old ways, unless the person he used to be with was there and wanted him. The passage describes the scene at a restaurant where a play is being performed. The audience is wondering what will happen next in the play. The play is not the traditional story of Red Riding Hood, but a bed has been made with a false grandmother in it. Betty is lying next to the wolf, staring at him.
+
+Last chunk: encored that, but there was no time to repeat it, so they  listened to more stifled merriment behind the red table-cloths, and  wondered whether the next scene would be the wolf popping his head out  of the window as Red Riding Hood knocks, or the tragic end of that  sweet child.  It was neither, for a nice bed had been made, and in it reposed the  false grandmother, with a ruffled nightcap on, a white gown, and  spectacles. Betty lay beside the wolf, staring at him as if just about  to say,
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children are on their way to a schoolhouse for a lecture. One child, Sara Ray, is excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture. This passage discuss the difference between children and adults having to wear shoes all the time. The child in the passage would prefer to go barefoot, but knows that she will have to wear shoes when she grows up.
+
+Last chunk: real mean that one of them has to be covered  up the most of the time. I'm always glad when it gets warm enough to go  barefooted. But, when I grow up they'll have to covered all the time. It  IS mean."  "You'll have to put your shoes and stockings on when you go to the magic  lantern show to-night," said Felicity in a tone of satisfaction.  "I don't know that. I'm thinking of going barefooted."  "Oh, you wouldn't! Sara Stanley, you're not in earnest!" exclaimed  Felicity, her blue eyes filling
+
+Next chunk:

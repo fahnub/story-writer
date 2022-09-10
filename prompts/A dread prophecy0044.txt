@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the reaction of a group of people to a prophecy that the world will end the next day. While some people are dismissive of the prophecy, others are scared by it. The sun sets behind dark, livid clouds, and the Story Girl asks permission to stay the night with Felicity and Cecily. The passage discusses the possibility of spanking the girls to fix the matter between them, but the grown-ups don't think it would be worth it. Aunt Janet scolded Felicity for breaking the blue cup, but Felicity took it patiently. The Story Girl and Peter came over later and told the others that Uncle Alec would be taking them all to the White Sands tomorrow.
+
+Last chunk: Leaving the Story Girl and Peter to peel their potatoes, the rest of  us went home, where Aunt Janet, who had gone to the well and found the  fragments of the old blue cup, gave poor Felicity a bitter scolding  about it. But Felicity bore it very patiently--nay, more, she seemed to  delight in it.  "Ma can't believe to-morrow is the last day, or she wouldn't scold like  that," she told us; and this comforted us until after dinner, when the  Story Girl and Peter came over and told us that Uncle
+
+Next chunk:

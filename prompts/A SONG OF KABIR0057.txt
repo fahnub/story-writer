@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are discussing how they believe Buldeo will be able to find and kill the Devil-child (Mowgli). They are worried about the Wolf-demon, which they believe could appear at any time. Bagheera tells Mowgli that he will have to go back to the humans eventually, but Mowgli insists that he is not ready yet. Mother Wolf hides so that Buldeo cannot see her. Mowgli is happy that Buldeo is telling lies about her. The passage describes a woman who is crying at Mowgli's feet, but he quickly picks her up and she starts blessing him. Her husband looks on enviously and says that if they make it to Khanhiwara, he will sue the people who destroyed their crops and starved their buffaloes.
+
+Last chunk: sobbing at Mowgli's feet, but he lifted her very  quickly with a shiver. Then she hung about his neck and called him every  name of blessing she could think of, but her husband looked enviously  across his fields, and said: "IF we reach Khanhiwara, and I get the ear  of the English, I will bring such a lawsuit against the Brahmin and old  Buldeo and the others as shall eat the village to the bone. They shall  pay me twice over for my crops untilled and my buffaloes unfed. I will  have a great
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are planning to kill the wolf-child Mowgli, but Mowgli is not ready yet. Buldeo killed one of his own buffaloes after mistaking it for the Devil-child, and the village plans to torture and burn Messua and her husband for being the child's parents. The animals all agree to go ahead with the plan to destroy the fields of humans. The speaker in the passage suggests that it would be best to forget about the Man-Pack, and instead focus on where the elephant Hathi will feed tonight. They say that Hathi is the master of the jungle, and should be respected as such.
+
+Last chunk: silent as a wolf when he does not care to be  heard; and Mowgli, though the wolves thought he moved very clumsily,  could come and go like a shadow. They ringed the old man as a school  of porpoises ring a steamer at full speed, and as they ringed him they  talked unconcernedly, for their speech began below the lowest end of the  scale that untrained human beings can hear. [The other end is bounded by  the high squeak of Mang, the Bat, which very many people cannot catch at  all. From that note
+
+Next chunk:

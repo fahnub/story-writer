@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. Elidyr visits his mother in secret, always keeping himself invisible. He tells her about the fun he has in fairyland, including playing with heavy yellow balls. Ben and Sam are discussing what will become of them when they are old. Ben argues that frogs have legs and are not afraid of water, so they will be fine. Sam disagrees and goes off to wash himself.
+
+Last chunk: what's going to become of you, old Look-before-you-leap?"  "Mud turtles can only sit on a stump and bawl till they are taken off,  but frogs have legs worth something, and are not afraid of a little  water," answered Ben, hopping away in an opposite direction, since the  pools between him and Sam were too wide for even his lively legs.  Sam waddled off to the brook in the lane to rinse the mud from his  nether man before facing his mother, and was just wringing himself out  when Ben came up,
+
+Next chunk:

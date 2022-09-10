@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children's reactions to a boy wearing a crown and slippers in the garden, horse racing, and a school play. It also tells the story of a Chinese puppet named Chingery Chan who falls in love with a woman who ultimately kills him. The passage is about three girls who are discussing their favorite actresses in a theater company. This passage describes a scene from a play, in which a child delivers a basket to "Teacher," who is dressed as a mother. The other children in the audience recognize the child as Betty and identify the play as "Mabel on Midsummer Day." This passage describes a tea garden that has been set up with a Chinese pagoda and green trees. The children who are visiting it have never seen anything like it before.
+
+Last chunk: stall a green cloth was fastened, so high that the heads  of the operators were not seen. A little curtain flew up, disclosing the  front of a Chinese pagoda painted on pasteboard, with a door and window  which opened quite naturally. This stood on one side, several green  trees with paper lanterns hanging from the boughs were on the other  side, and the words "Tea Garden," printed over the top, showed the  nature of this charming spot.  Few of the children had ever seen the immortal Punch and
+
+Next chunk:

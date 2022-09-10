@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Two children discover that their home is being used by coiners, and Dicky says he is going to investigate. The passage is about how the author's books are "rot" because they make people want to do the things that the author is about to describe. The author is talking about how other people went to the seaside in September, even though the author could not afford to go. Alice tells her friends that she saw a light in the windows of the house next door, which is shut up. When they ask her how she could have seen it, she says she'll tell them if they promise not to go fishing without her again.
+
+Last chunk: cleverer than some people.  When they had gone, the rest of us got closer together and said--  'Now then.'  'Well,' Alice said, 'you know the house next door? The people have gone  to Scarborough. And the house is shut up. But last night _I saw a light  in the windows_.'  We asked her how and when, because her room is in the front, and she  couldn't possibly have seen. And then she said--  'I'll tell you if you boys will promise not ever to go fishing again  without me.'  So we had to promise.
+
+Next chunk:

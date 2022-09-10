@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discuss the characters' reactions to the news that the world is ending. Peter is despairing, Cecily is practical, and Sara Ray is regretful. Sara is worried that the paper might have gotten the time wrong for the event tomorrow, and Cecily tries to comfort her. Cecily is angry with Felicity for suggesting that the vase she received from her Aunt Olivia will be of no use to her. The passage discusses how people often reflect on what they would have done differently if they had known that Judgment Day was coming. Felicity expresses regret for the ways she treated her friend Sara the week before, and says she would have been much nicer if she had known that Judgment Day was approaching.
+
+Last chunk: because I am sure she won't."  "But don't you suppose God could make her?" I said, feeling that it  wasn't quite fair that the Story Girl should always have to speak first.  If she had spoken first the other times it was surely Felicity's turn  this time.  "Well, I believe it would puzzle Him," said Cecily, out of the depths of  her experience with Felicity.  Peter, as was to be expected, took Felicity's part, and said the Story  Girl ought to speak first because she was the oldest. That, he
+
+Next chunk:

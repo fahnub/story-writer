@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are playing a game of war and preparing to capture an unwary traveller. They have chains to hold the captive and plan to ransom them back to their friends. The passage describes Albert's expectations for being ransomed, and the speaker's doubts about whether Albert is actually worth the ransom money. Dicky and Noel capture a cold, coughing boy and take him into the house against his will. The passage is about a family spending their last bit of money on presents for the father's birthday.
+
+Last chunk: Besides, we were getting very short of money again--the  fortunes of your house cannot be restored (not so that they will last,  that is), even by the one pound eight we got when we had the 'good  hunting.' We spent a good deal of that on presents for Father's  birthday. We got him a paper-weight, like a glass bun, with a picture  of Lewisham Church at the bottom; and a blotting-pad, and a box of  preserved fruits, and an ivory penholder with a view of Greenwich  Park in the little hole where
+
+Next chunk:

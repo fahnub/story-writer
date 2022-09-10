@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time.
+
+Last chunk: what's coming.  It beats any circus I ever  saw," answered Billy, rubbing his hands with the air of a man who had  seen many instead of but one.  "Ready! Be quick and get out of the way when she goes off!" whispered  Ben, but they heard him and prepared for pistols, rockets or  combustibles of some sort, as ships were impossible under the  circumstances, and no other "She" occurred to them.  A unanimous "O-o-o-o!" was heard when the curtain rose, but a stern  "Hush!" from Thorny kept them mutely
+
+Next chunk:

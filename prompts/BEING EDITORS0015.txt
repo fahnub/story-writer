@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage contains a description of a child's love for drawing on slates and how peppermint can help with arithmetic. It also includes mention of a law that was passed prohibiting the purchase of gunpowder by anyone under the age of thirteen. Finally, the passage describes a trick involving a sixpence and a shilling, in which the sixpence is made to jump on top of the shilling by blowing on the side of a wine glass. Dora is the editor of a paper, and her siblings are constantly messing with her work. She gets fed up and tells them they can be the editors themselves, but she doesn't actually give up the job. A boy tells the narrator that if they want to replace the ginger they took from a jar, they should drop marbles in until there is as much ginger as before.
+
+Last chunk: four hours and a quarter now to get from London to  Manchester; but I should not think any one would if they could help it.  A DREADFUL WARNING. A wicked boy told me a very instructive thing about  ginger. They had opened one of the large jars, and he happened to take  out quite a lot, and he made it all right by dropping marbles in, till  there was as much ginger as before. But he told me that on the Sunday,  when it was coming near the part where there is only juice generally, I  had no idea
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a dying man's final request, that his resting place be kept green and undisturbed. He then sits up and, with his last bit of strength, shoots an arrow out the window. He sinks back into Little John's arms, and dies. Little John is worried about his master and runs to the nunnery for help. However, the door is too strong for him to get through and the people inside refuse to let him in. Little John then finds a heavy stone mortar and tries to use it to break down the door. Robin Hood returns to the woodlands and takes up his old title again.
+
+Last chunk: Robin Hood's horn. Allthese ran to Robin and kissed his hands and his clothing, with greatsound of weeping.  After a while Robin looked around him with tear-dimmed eyes and said, ina husky voice, "Now, I swear that never again will I leave these dearwoodlands.I have been away from them and from you too long. Now do Ilay by the name of Robert, Earl of Huntingdon, and take upon me onceagain that nobler title, Robin Hood, the Yeoman."At this a great shoutwent up, and all the yeomen shook one
+
+Next chunk:

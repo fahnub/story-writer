@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Ben has been accused of stealing, and Thorny is threatening to beat him up unless he gives back what he stole. Miss Celia intervenes and asks if there is anything hidden in the closet.
+
+Last chunk: seeing it."  "Well, you won't."  "What have you been stealing now?"  "Didn't steal it,--used to be mine,--I only took it when I wanted  it."  "I know what that means.  You'd better give it back or I'll make you."  "Stop!" cried a third voice, as Thorny put out his arm to clutch Ben,  who looked ready to defend himself to the last gasp, "Boys, I will  settle this affair. Is there anything hidden in the closet, Ben?" and  Miss Celia came between the belligerent parties with her one hand up to
+
+Next chunk:

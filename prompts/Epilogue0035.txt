@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a dying man's final request, that his resting place be kept green and undisturbed. He then sits up and, with his last bit of strength, shoots an arrow out the window. He sinks back into Little John's arms, and dies.
+
+Last chunk: East, LittleJohn, and see that my resting place be kept green, and that my wearybones be not disturbed."  As he finished speaking, he raised himself of a sudden and sat upright.His old strength seemed to come back to him, and, drawing the bowstringto his ear, he sped the arrow out of the open casement.As the shaftflew, his hand sank slowly with the bow till it lay across his knees,and his body likewise sank back again into Little John's loving arms;but something had sped from that body, even as
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of friends who make and sell wine. They are successful until they are caught by the vicar.
+
+Last chunk: different to that--we like it best with sugar. I wish you _would_ order  some.' The butcher asked why.  Alice did not speak for a minute, and then she said--  'I don't mind telling _you_: you are in business yourself, aren't  you? We are trying to get people to buy it, because we shall have two  shillings for every dozen we can make any one buy. It's called a purr  something.'  'A percentage. Yes, I see,' said the butcher, looking at the hole in the  carpet.  'You see there are reasons,' Alice
+
+Next chunk:

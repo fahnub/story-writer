@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Father finds out that the boys have been selling wine and scolds them, but then laughs it off. Dora and the speaker agree to have a teaspoonful each of a new drink, and Dora measures it out. They ask each other what it's like, but Dora can't speak just then.
+
+Last chunk: teaspoons and tablespoons marked on it, and we agreed to have a  teaspoonful each, to see what it was like.  'No one must have more than that,' Dora said, 'however nice it is.'  Dora behaved rather as if it were her bottle. I suppose it was, because  she had lent the money for it.  Then she measured out the teaspoonful, and she had first go, because of  being the eldest. We asked at once what it was like, but Dora could not  speak just then.  Then she said, 'It's like the tonic Noel had in the
+
+Next chunk:

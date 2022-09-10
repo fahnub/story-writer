@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams. The passage describes how Alice won't lend her gardening tools to Noel again because he left them out in the rain last time. It also mentions that seeds and bulbs are useful to play with until you are ready.
+
+Last chunk: saved.    That was the wreck of the Malabar,     Then let us toll for the brave.                    NOEL.         ------------      GARDENING NOTES  It is useless to plant cherry-stones in the hope of eating the fruit,  because they don't!  Alice won't lend her gardening tools again, because the last time Noel  left them out in the rain, and I don't like it. He said he didn't.         ------------      SEEDS AND BULBS  These are useful to play at shop with, until you are ready. Not at  dinner-
+
+Next chunk:

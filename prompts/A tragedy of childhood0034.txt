@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the impact that seeing a picture of God can have on someone's perception of Him. The children in the passage are left feeling upset and angry after seeing the picture, and Cecily is particularly affected by the story of Margaret, a woman whose heart died after her husband was killed.
+
+Last chunk: him and praying  for him he had been lying in his lonely, faraway grave."  Cecily sprang up, shaking with sobs.  "Oh, don't--don't go on," she implored. "I CAN'T bear any more."  "There is no more," said the Story Girl. "That was the end of it--the  end of everything for Margaret. It didn't kill HER, but her heart died."  "I just wish I'd hold of those fellows who wouldn't let the Captain take  his wife," said Peter savagely.  "Well, it was awful said," said Felicity, wiping her eyes. "But it
+
+Next chunk:

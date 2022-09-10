@@ -1,0 +1,7 @@
+Outline: This is a simple poem about four cats marching down the street. The first cat is long and thin, with lots of whiskers. The second cat is round and fat. The third cat is dapper and has bells on his tail. The fourth cat has starey yellow eyes.
+
+Story so far:  The passage is an illustration of the word "Grundy Greet."
+
+Last chunk: Grundy Greet.      [Illustration]
+
+Next chunk:

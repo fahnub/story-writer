@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time. The passage describes a man named Ben who says that he is content with his life and would not want to go back to his old ways, unless the person he used to be with was there and wanted him.
+
+Last chunk: carefully, adding with a  glance that said more than his words: "I'd rather be 'plain Ben' than  any one else, for you like to have me."  "Indeed I do; and I'm so glad to hear you say that, because I was afraid  you'd long to be off to the old ways, and all I've tried to do would be  undone. Would you like to go back, Ben?" and Miss Celia held his chin an  instant, to watch the brown face that looked so honestly back at her.  "No, I wouldn't--unless--he was there and wanted me."  The chin
+
+Next chunk:

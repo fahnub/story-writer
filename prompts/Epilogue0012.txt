@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards. The passage describes how two men set out for the woodlands, and Robin Hood recognizes everything along the way. The wild boar ran through the underbrush, not caring about the thorns and briers that scratched him, until he reached Robin. He then clasped his arms around the master's feet.
+
+Last chunk: plunged, crackling and rending, asthe wild boar rushes through the underbrush.Little recked he of thornsand briers that scratched his flesh and tore his clothing, for all hethought of was to get, by the shortest way, to the greenwood gladewhence he knew the sound of the bugle horn came.Out he burst from thecovert, at last, a shower of little broken twigs falling about him, and,without pausing a moment, rushed forward and flung himself at Robin'sfeet. Then he clasped his arms around the master's
+
+Next chunk:

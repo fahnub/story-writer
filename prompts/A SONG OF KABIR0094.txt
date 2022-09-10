@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Mowgli is being tracked by Buldeo, a villager. His animal friends, Gray Brother and Bagheera, watch and comment on the situation. Buldeo is tired from the chase, but Bagheera says he will be well-rested before he picks up the trail again. The passage describes how elephants scare away birds and other potential predators, allowing the deer to escape. However, the Eaters of Flesh are close behind them, and eventually force them into the darkness of the night. Mowgli tells Messua's husband that they have nothing to fear from the animals of the jungle, as they will not harm them. The passage describes how animals break into a village and ruin the crops. Whenever there was an alarm, one of the animals would rise up and soothe the others. This would either be Ikki the Porcupine, Mang, or Baloo.
+
+Last chunk: grazed and sauntered and drank and grazed again;  but whenever there was an alarm some one would rise up and soothe them.  At one time it would be Ikki the Porcupine, full of news of good feed  just a little farther on; at another Mang would cry cheerily and flap  down a glade to show it was all empty; or Baloo, his mouth full of  roots, would shamble alongside a wavering line and half frighten, half  romp it clumsily back to the proper road. Very many creatures broke back  or ran away or lost
+
+Next chunk:

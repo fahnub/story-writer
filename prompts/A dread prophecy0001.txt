@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Characters in the passage react to the possibility that the world might end the next day. Some are excited, some are sad, and some are scared. The girls are upset about the possibility of a fire, and beg the Story Girl to stay with them and keep them cheered up. The Story Girl and Felicity are fighting, and the rest of the group is caught in the middle.
+
+Last chunk: A dread prophecy (Fiction Ages 5 to 10)  "I've got to go and begin stumping out the elderberry pasture this  afternoon," said Peter dolefully. "I tell you it's a tough job. Mr.  Roger might wait for cool weather before he sets people to stumping out  elderberries, and that's a fact."  "Why don't you tell him so?" asked Dan.  "It ain't my business to tell him things," retorted Peter. "I'm hired  to do what I'm told, and I do it. But I can have my own opinion all the  same. It's going to be a
+
+Next chunk:

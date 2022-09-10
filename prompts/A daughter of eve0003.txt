@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk.
+
+Last chunk: mystery. The swallows flew in and out of their nest  above our heads, and whenever a sunbeam fell through a chink the air  swarmed with golden dust. Outside of the loft was a vast, sunshiny gulf  of blue sky and mellow air, wherein floated argosies of fluffy cloud,  and airy tops of maple and spruce.  Pat was with us, of course, prowling about stealthily, or making  frantic, bootless leaps at the swallows. A cat in a hayloft is a  beautiful example of the eternal fitness of things. We had not
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. Cecily is happy that Peter is getting better, and she has been praying for him every night. The girls are talking about how much they want new clothes, and how jealous they are of each other. Kitt Mar is mentioned as a girl who was recently sick with measles. The passage ends with the narrator's thoughts on missions, and how they hope the measles never strike again.
+
+Last chunk: thoughts  on this grand subject of missions. It's in this poor human  critter'--patting himself on the breast--'but he can't git it out.'  "I'll tell you these stories when you get well. I can tell them ever so  much better than I can write them.  "I know Felicity is wondering why I'm writing such a long letter, so  perhaps I'd better stop. If your mother reads it to you there is a good  deal of it she may not understand, but I think your Aunt Jane would.  "I remain  "your very affectionate
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the children's plans to play a prank while their sister is away. H.O. is made captain and Oswald lieutenant because it was his idea. Oswald is the eldest next to Dora.
+
+Last chunk: November came while Dora was away at Stroud staying  with her godmother. Stroud is in Gloucestershire. We were determined to  do it while she was out of the way, because we did not think it wrong,  and besides we meant to do it anyhow.  We held a Council, of course, and laid our plans very carefully. We let  H. O. be Captain, because it was his idea. Oswald was Lieutenant. Oswald  was quite fair, because he let H. O. call himself Captain; but Oswald is  the eldest next to Dora, after all.  Our
+
+Next chunk:

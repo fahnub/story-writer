@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The Ork reflects on the question and says that he could carry one of the children on his back, but three adults would be too much. He suggests that they made a mistake in eating the purple berries so soon. The Bumpy Man shovels snow and finds someone buried in it.
+
+Last chunk: air. The Bumpy Man was now shoveling quite a  distance down the mountain-side, while the path behind him rapidly  filled up with fresh-fallen popcorn. Suddenly Trot heard him call out:  "Goodness gracious--mince pie and pancakes!--here is some one buried in  the snow."  She ran toward him at once and the others followed, wading through the  corn and crunching it underneath their feet. The Mo snow was pretty  deep where the Bumpy Man was shoveling and from beneath a great bank of  it he had
+
+Next chunk:

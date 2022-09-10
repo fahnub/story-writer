@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The Ork reflects on the question and says that he could carry one of the children on his back, but three adults would be too much. He suggests that they made a mistake in eating the purple berries so soon. The Bumpy Man shovels snow and finds someone buried in it. The shaggy man decides to call the boy Button-Bright, after his mother does. The passage describes a girl who is lost and is being led by a man. They come across a boy who is digging a hole.
+
+Last chunk: where the other roads all met, because the next one they  chose might lead her just as far from home.  She kept on beside the shaggy man, who whistled cheerful tunes to  beguile the journey, until by and by they followed a turn in the road  and saw before them a big chestnut tree making a shady spot over the  highway.  In the shade sat a little boy dressed in sailor clothes, who  was digging a hole in the earth with a bit of wood.  He must have been  digging some time, because the hole was
+
+Next chunk:

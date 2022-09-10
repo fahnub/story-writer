@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children's reactions to a boy wearing a crown and slippers in the garden, horse racing, and a school play. It also tells the story of a Chinese puppet named Chingery Chan who falls in love with a woman who ultimately kills him.
+
+Last chunk: dust before  his idol. But, alas!--    "Miss Ki Hi heard his notes of love,    And held her wash-bowl up above    It fell upon the little man,    And this was the end of Chingery Chan,"  Indeed it was; for, as the doll's basin of real water was cast forth by  the cruel charmer, poor Chan expired in such strong convulsions that his  head rolled down among the audience. Miss Ki Hi peeped to see what had  become of her victim, and the shutter decapitated her likewise, to the  great delight of the
+
+Next chunk:

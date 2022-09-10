@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben and Thorny have just fought and made up. Thorny wants to show off his new wounds to Celia, but Ben suggests they clean up first. The passage describes two young ladies who are curious about a mad dog they see. One of them stands on tip-toe to get a better view, and describes the dog as being dusty and brownish, with his tongue hanging out. The passage tells the story of a dog who is welcomed back by his family after he is injured. Ben, one of the dog's owners, is particularly happy to see him and listens to the story of his recovery with interest. Celia wants to send her son to school so that he can get a good education. She asks her sister for help in teaching him.
+
+Last chunk: is over. An education is the best present we can  make him; and I want you to help me fit him to enter as well is he can.  Bab and Betty began, little dears,--lent him their books and taught  all they knew; so Ben got a taste, and, with the right encouragement,  would like to go on, I am sure."  "That's so like you Celia!  Always thinking of the best thing and doing  it handsomely. I'll help like a house a-fire, if he will let me; but,  all day, he's been as stiff as a poker, so I don't believe
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The goblins were surprised and afraid to see Curdie with a pick in his hand, thinking he was the first of an invasion of miners. The king strutted up to Curdie and tried to intimidate him. A man named Curdie enters a palace through a hole in the mountain, and is confronted by the king. Curdie explains that he is a miner and found his pickaxe lying on the ground. The king allows Curdie to stay in the palace. The queen, king, and minister laugh at Harelip for considering an operation to fix her harelip. The king summoned goblins with a shout, and they gathered around him in a way that made him retreat.
+
+Last chunk: king with a scoffing air of  magnificent liberality.  'One will be quite sufficient,' said Curdie.  But the king uttered a strange shout, half halloo, half roar, and in  rushed goblins till the cave was swarming.  He said something to the  first of them which Curdie could not hear, and it was passed from one  to another till in a moment the farthest in the crowd had evidently  heard and understood it.  They began to gather about him in a way he  did not relish, and he retreated towards the wall.
+
+Next chunk:

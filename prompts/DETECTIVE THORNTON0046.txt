@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker likes Thorny because he is a bit of a sneak, and Miss Celia laughs and says that Thorny is the finest peacock on the place. Celia is trying to comfort Ben and convince Thorny that she is not a thief. Thorny and Ben argue over whether or not a horse belongs to Ben. This passage describes how Miss Celia would have Ben and Thorny read to her during vacation, and how they would discuss the stories afterwards. As a result, both Miss Celia and the boys learned new things. The passage also describes how Thorny caught Ben, who explains that he went and got a cat for Celia without asking because she said she wanted one.
+
+Last chunk: in a hurry, exclaiming, good-naturedly, in spite of  both physical and mental discomfort,--  "Come, Ben, don't you bear malice; for you've got the laugh on your  side, and we feel pretty small. I do, any way; for, after my fidgets,  all I've caught is a mouse!"  "And her family.  I'm so relieved I'm almost sorry the poor little  mother is dead--she and her babies were so happy in the old  pen-wiper," said Miss Celia, hastening to speak merrily, for Ben still  looked indignant, and she was much
+
+Next chunk:

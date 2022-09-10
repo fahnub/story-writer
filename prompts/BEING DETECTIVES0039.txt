@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friends are playing hide and seek when they see a light in the window of the house next door. They decide to watch the house that night to see if they see the light again. Noel speculates that the people next door are very grand and won't know them, which could be why the burglars chose their house. Alice tells Albert's uncle about the coiner's gang, and he comes to the rescue. When Oswald falls, Dicky hears Albert's uncle say 'Confound those kids!', which isn't very kind. The lady in the passage grew embarrassed and laughed after the speaker asked why she and her sister had not wanted people to know they were home. She praised the speaker's "manly little speech" and kissed him.
+
+Last chunk: she and her  sister had not wished people to know they were at home, because--And  then she stopped short and grew very red, and I said, 'I thought you  were all at Scarborough; your servant told Eliza so. Why didn't you want  people to know you were at home?'  The lady got redder still, and then she laughed and said--  'Never mind the reason why. I hope your head doesn't hurt much. Thank  you for your nice, manly little speech. _You've_ nothing to be ashamed  of, at any rate.' Then she kissed
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole to fatten him up. Esben's daughter is ordered to roast him in the oven, but she eventually grows to like her captor and decides not to kill him. The king gives Esben's brothers three days to bring him a marvellous boar, and Esben helps them. The three brothers escape the witch's house and ride to a king's palace, where they are hired as stablemen. No one in the palace had any use for Esben, so he was told to just go back the way he had come. However, he stayed and occupied himself as best he could, getting his food but nothing more. Esben steals the witch's gold and silver boar, and she chases after him, asking if he also stole her dove and made her kill her children.
+
+Last chunk: soon he was again in the witch'scourtyard. There he emptied out the malt, and next moment came the boar,which had every second bristle of gold and of silver. Esben at once putit into his sack and hurried off before the witch should catch sight ofhim; but the next moment she came running, and shouted after him, 'Hey!is that you, Esben?'  'Ye--e--s!'  'Is it you that has taken my pretty boar?'  'Ye--e--s!'  'It was also you that took my dove?'  'Ye--e--s!'  'And it was you that made me kill my
+
+Next chunk:

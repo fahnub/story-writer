@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage also describes how a box of books donated to a local library produced lasting pleasure for many children. Miss Celia is pleased with the success of her first attempt at being a public benefactor, and she is inspired to do more to help her community. The passage describes a man who finds his daughter's remains after she was killed by an Indian arrow. He is satisfied to know that she died patiently waiting for him to find her.
+
+Last chunk: he had left her, they shook their heads as if they thought he  was crazy. But they went to look, that he might be satisfied; and he  was; for they they found some little bones, some faded bits of cloth,  and two rusty silver buckles marked with Matty's name in what had once  been her shoes. An Indian arrow lay there, too, showing why she had  never cried for help, but waited patiently so long for father to come  and find her."  If Miss Celia expected to see the last bit of hem done when her
+
+Next chunk:

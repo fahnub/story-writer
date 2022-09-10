@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California. The school wanted to buy a painting, but didn't have enough money. Peter and Dan each gave part of their allowance to make up the difference. Felicity pointed out that the painting also included a picture of Eden, and they all agreed that it was worth the price. Jerry brings the picture in a fish-basket.
+
+Last chunk: the spruce boughs glittered like diamonds.  "I don't believe Jerry can be coming," said Cecily in despair. "I  suppose his mother must have thought it was dreadful, after all, to sell  such a picture."  "There he is now!" cried Dan, waving excitedly from the window.  "He's carrying a fish-basket," said Felicity. "You surely don't suppose  he would bring THAT picture in a fish-basket!"  Jerry HAD brought it in a fish-basket, as appeared when he mounted  the granary stairs shortly afterwards. It
+
+Next chunk:

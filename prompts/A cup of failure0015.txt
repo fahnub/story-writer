@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the idea that a good sermon must be different from a regular one in order to make an impression. The passage describes a failed sermon and the speaker's humiliation. The Story Girl tries to make the speaker feel better by saying it sounded like real sermons she has heard. Aunt Julia was a noted concert singer, and the rest of the family were also musical. That evening, they talked about their youthful days. The passage describes Uncle Roger, who was known for his imagination and self-forgetful earnestness. A group of friends decide to play a game where they take the name of Bible characters instead of fruits in order to make it seem more lawful to play on a Sunday.
+
+Last chunk: is it?" asked Cecily  anxiously.  We had good reason to hope that it wasn't. One desperate Sunday  afternoon, when we had nothing to read and the time seemed endless,  Felix had suggested that we have a game of fruit-basket; only instead  of taking the names of fruits, we were to take the names of Bible  characters. This, he argued, would make it quite lawful and proper to  play on Sunday. We, too desirous of being convinced, also thought so;  and for a merry hour Lazarus and Martha and Moses
+
+Next chunk:

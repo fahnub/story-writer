@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Cecily and Felicity discuss whether or not to ask their mother about something. Felicity goes to ask her and comes back with a negative response. The Story Girl and Felicity have a falling out, and Felix tries to make peace between them. The Story Girl tells Felix he's too young to understand, and Felicity says he should mind his own business. Felix declares it would serve Felicity right if the Story Girl never spoke to her again. Dan has no patience with either of them. The Story Girl reads a newspaper article to a group of people. The article says that a religious leader has predicted that the world will end tomorrow.
+
+Last chunk: Excitement had come with a vengeance, and under its stress Felicity  had spoken first. But this, like the breaking of the cup, had no  significance for us at the moment.  The Story Girl snatched the paper and read the announcement to a group  on which sudden, tense silence had fallen. Under a sensational headline,  "The Last Trump will sound at Two O'clock To-morrow," was a paragraph to  the effect that the leader of a certain noted sect in the United States  had predicted that August twelfth
+
+Next chunk:

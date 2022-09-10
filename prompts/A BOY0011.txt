@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. This passage describes Sam's reaction to seeing Ben coming towards him while he is stuck in a ditch. Sam is embarrassed and does not want Ben to see him, but Ben eventually helps him out.
+
+Last chunk: get me out!" bawled Sam,  anxiously waiting for his deliverer to appear, for he could only see a  hat bobbing along behind the hazel-bushes that fringed the lane.  Steps crashed through the bushes, and then over the wall came an active  figure, at the sight of which Sam was almost ready to dive out of sight,  for, of all possible boys, who should it be but Ben, the last person in  the world whom he would like to have see him in his present pitiful  plight.  "Is it you, Sam? Well, you are in a
+
+Next chunk:

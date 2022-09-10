@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the speaker's thoughts on her relatives and the family's history with an apple orchard. The orchard was started by the family's grandfather 60 years ago and is still remembered by them today. The girl with the wonderful voice said that she knows stories about the orchard, as they walk across the yard followed by Paddy. The passage describes the beauty of a morning landscape including a valley, hill, and grove of trees. There is a rare breeze and the shadows are long and clear. The speaker does not understand why everything is settled for people before they are born. The person they are speaking to says that grown-ups often say things that are hard to understand. The speaker then asks what Uncle Roger is like and is told that he is big and jolly but teases people too much.
+
+Last chunk: everything else is settled for them long before they are  born. I don't understand that. Do you?"  No, we did not. But it was our experience that grown-ups had a habit of  saying things hard to understand.  "What is Uncle Roger like?" was our next question.  "Well, I like Uncle Roger," said the Story Girl meditatively. "He is big  and jolly. But he teases people too much. You ask him a serious question  and you get a ridiculous answer. He hardly ever scolds or gets cross,  though, and THAT is
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl brings home a wood sprite as a companion. Her mother is initially skeptical but eventually warms up to the sprite and allows her to stay. The passage tells the story of a girl who was cursed by a wicked woman, but was later able to break the curse and live a happy life. A large golden cock appears every meal time in response to the old man striking a granite block three times with a small silver staff. The passage describes Elsa's entreaties to the lady not to be sent back to the world of men. She begs to be allowed to stay and serve the lady in any capacity, rather than be sent away.
+
+Last chunk: I have no right to keep you here. You must return to the world of men, where joy awaits you.'  'Dear lady,' entreated Elsa again. 'Do not, I beseech you, send me from you. I want no other happiness but to live and die beside you. Make me your waiting maid, or set me to any work you choose, but do not cast me forth into the world. It would have been better if you had left me with my stepmother, than first to have brought me to heaven and then send me back to a worse place.'  'Do not talk like
+
+Next chunk:

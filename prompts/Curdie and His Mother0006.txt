@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy is talking to someone else about how he is not sure how to tell a girl that he likes her because he is a miner and she is a princess and he is not sure how she would react. Curdie's mother tells him that the goblins are planning to hurt the princess, and Curdie vows to stop them. The speaker believes that the person they are talking to does not understand what they are saying and is judging them harshly. They believe that the person they are talking to should be more open-minded and believe what they are saying.
+
+Last chunk: believe it.'  'That may be only because you do not understand it.  If you did, you  would probably find it was an explanation, and believe it thoroughly.  I don't blame you for not being able to believe it, but I do blame you  for fancying such a child would try to deceive you.  Why should she?  Depend upon it, she told you all she knew. Until you had found a better  way of accounting for it all, you might at least have been more sparing  of your judgement.'  'That is what something inside me
+
+Next chunk:

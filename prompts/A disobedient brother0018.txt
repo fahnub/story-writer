@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4215 tokens (3715 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage is about a mother and her children. The mother is lighting the fire and tells her daughter to put water on to heat. The daughter complains about her brother and the mother tells her to wait until she tells their mother. The son says he is not going to be sick and the mother tells him to wait until she tells their mother. Siblings Felicity and Cecily argue about Cecily's habit of always taking Dan's side. Felicity thinks Cecily enables Dan's bad behavior, while Cecily insists she does not.
+
+Last chunk: held your tongue?"  "Why, what did I say to make him mad?" asked Felicity in honest  perplexity.  "I think it's awful for brothers and sisters to be always quarrelling,"  sighed Cecily. "The Cowans fight all the time; and you and Dan will soon  be as bad."  "Oh, talk sense," said Felicity. "Dan's got so touchy it isn't safe to  speak to him. I should think he'd be sorry for all the trouble he made  last night. But you just back him up in everything, Cecily."  "I don't!"  "You do! And you've no
+
+Next chunk:

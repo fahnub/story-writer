@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4215 tokens (3715 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage is about a mother and her children. The mother is lighting the fire and tells her daughter to put water on to heat. The daughter complains about her brother and the mother tells her to wait until she tells their mother. The son says he is not going to be sick and the mother tells him to wait until she tells their mother.
+
+Last chunk: not there. We found her in the kitchen, lighting up the fire.  "Bev, fill the kettle with water and put it on to heat," she said in a  resigned tone. "If Dan's going to be sick again we've got to be ready  for it. I wish mother was home, that's all. I hope she'll never go away  again. Dan King, you just wait till I tell her of the way you've acted."  "Fudge! I ain't going to be sick," said Dan. "And if YOU begin telling  tales, Felicity King, I'LL tell some too. I know how many eggs mother  said
+
+Next chunk:

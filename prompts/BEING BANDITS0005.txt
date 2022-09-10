@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the children's plans to play a prank while their sister is away. H.O. is made captain and Oswald lieutenant because it was his idea. Oswald is the eldest next to Dora. The passage describes the speaker's reasoning for wanting to become bandits on the Fifth of November. They argue that it would be a good way to restore their fortunes, and that it would be wrong to disappoint their father.
+
+Last chunk: directly after breakfast, only Father had said  he would help us to let them off at eight o'clock after he had had his  dinner, and you ought never to disappoint your father if you can help  it.  You see we had three good reasons for trying H. O.'s idea of restoring  the fallen fortunes of our house by becoming bandits on the Fifth of  November. We had a fourth reason as well, and that was the best reason  of the lot. You remember Dora thought it would be wrong to be bandits.  And the Fifth of
+
+Next chunk:

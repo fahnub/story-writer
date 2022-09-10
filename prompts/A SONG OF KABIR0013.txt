@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are planning to kill the wolf-child Mowgli, but one of the animals, Buldeo, killed a buffalo after mistaking it for the Devil-child. The village plans to torture and burn Messua and her husband for being the child's parents. The animals all agree to go ahead with the plan to destroy the fields of humans. The passage is describing how Mowgli, Gray Brother, and Akela can smell things better than most human beings. Mowgli is envious of their ability.
+
+Last chunk: sniffed, and stiffened through every curve in his body. Gray Brother  followed his example quickly, keeping a little to his left to get the  wind that was blowing from the right, while Akela bounded fifty yards up  wind, and, half-crouching, stiffened too. Mowgli looked on enviously.  He could smell things as very few human beings could, but he had never  reached the hair-trigger-like sensitiveness of a Jungle nose; and his  three months in the smoky village had set him back sadly. However, he
+
+Next chunk:

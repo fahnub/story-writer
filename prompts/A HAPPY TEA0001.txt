@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes three children's reactions to a fancy garden party, two dogs learning tricks, and a man's reaction to hearing a donkey bray. The party arrives at the tea table exactly on time, and they are all dressed up. They are pleased to see the pretty china set and take their seats.
+
+Last chunk: A HAPPY TEA (Fiction:- Ages 5 to 10)  Exactly five minutes before six the party arrived in great state, for  Bab and Betty wore their best frocks and hair-ribbons, Ben had a new  blue shirt and his shoes on as full-dress, and Sancho's curls were  nicely brushed, his frills as white as if just done up.  No one was visible to receive them, but the low table stood in the  middle of the walk, with four chairs and a foot-stool around it. A  pretty set of green and white china caused the girls to cast
+
+Next chunk:

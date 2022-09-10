@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman unsuccessfully tries to win back her husband's affections and believes that only the return of her friend Sancho will be able to restore their broken friendship. This passage describes a young girl named Betty comforting a black dog who has been beaten and had his tail cut off. The dog cannot speak to tell his story, but the girl tries to comfort him with kind words. Thorny, another character in the passage, calls out to Betty from the gate. Miss Celia agrees to Thorny's suggestion of giving Ben a yellow-eyed dog in memoriam, hoping it will be a balm to his wounds. Thorny and his sister go to the store to buy a school outfit for Ben. Thorny's sister falls in love with a toy book and Thorny buys it for her.
+
+Last chunk: where the canine cuff-buttons were bought; but when they came to  the book-store, she forgot gold, silver, and precious stones, to revel  in picture-books, while Thorny selected Ben's modest school outfit.  Seeing her delight, and feeling particularly lavish with plenty of money  in his pocket, the young gentleman completed the child's bliss by  telling her to choose whichever one she liked best out of the pile of  Walter Crane's toy-books lying in bewildering colors before her.  "This one; Bab
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage contains a description of a child's love for drawing on slates and how peppermint can help with arithmetic. It also includes mention of a law that was passed prohibiting the purchase of gunpowder by anyone under the age of thirteen. Finally, the passage describes a trick involving a sixpence and a shilling, in which the sixpence is made to jump on top of the shilling by blowing on the side of a wine glass. Alice says that children know some things without being taught. She gives the example of kittens learning to purr without being taught how. The fair lady Alicia will only marry someone who can rid the country of its plague of mice. Mr Ridgway tells his sixteen-year-old daughter Annie that the bush ranger Sam Redfern is in the area and may attack them. A gruff voice then knock at their door.
+
+Last chunk: DICKY.         ------------  SAM REDFERN, OR THE BUSH RANGER'S BURIAL         By Dicky  'Well, Annie, I have bad news for you,' said Mr Ridgway, as he entered  the comfortable dining-room of his cabin in the Bush. 'Sam Redfern the  Bushranger is about this part of the Bush just now. I hope he will not  attack us with his gang.'  'I hope not,' responded Annie, a gentle maiden of some sixteen summers.  Just then came a knock at the door of the hut, and a gruff voice asked  them to open the door.
+
+Next chunk:

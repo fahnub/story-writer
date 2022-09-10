@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to a prophecy that the world will end the next day. Some are dismissive, some are scared, and some go about their normal tasks. As night falls, the two women become increasingly scared and long for someone to tell them what to do. The passage also describes a stormy night and the arrival of a man who is running towards them. The passage describes the characters' reactions to the possibility that the world might end the next day. Dan is excited by the prospect of learning more about the Bible, while the Story Girl is sad that she won't have time to do all the things she wants to do.
+
+Last chunk: but we trembled.  "Nobody might have known when the Bible was written," said Dan, "but  maybe somebody knows now. Why, the Bible was written thousands of years  ago, and that paper was printed this very morning. There's been time to  find out ever so much more."  "I want to do so many things," said the Story Girl, plucking off her  crown of buttercup gold with a tragic gesture, "but if it's the Judgment  Day to-morrow I won't have time to do any of them."  "It can't be much worse than dying, I
+
+Next chunk:

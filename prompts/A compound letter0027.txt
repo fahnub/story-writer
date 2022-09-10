@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A person describes their experience with measles, and how they became luny (crazy) as a result. They express relief that they did not catch the measles from Peg Bowen. The passage describes the author's feelings of loneliness and isolation, and how reading books and letters from her friends helps to ease her pain. Sara Ray's mother is sending her a new red dress and cap from Paris, and the Story Girl is excited to get a velvet hood to go with it. However, Cecily says that it's not right to wear such expensive clothing when there are people in the world who are starving. This passage discusses the importance of telling fairy stories in the proper place. The speaker says that it makes a difference where you tell them, and that they will sound more poetical if you call them by their proper name.
+
+Last chunk: is the proper place to  tell fairy stories in. Felicity says she can't see that it makes any  difference where you tell them, but oh, it does. I wish you had been  there to hear it too, but when you are well I will tell it over again  for you.  "I am going to call the southernwood 'appleringie' after this. Beverley  says that is what they call it in Scotland, and I think it sounds so  much more poetical than southernwood. Felicity says the right name is  'Boy's Love,' but I think that sounds
+
+Next chunk:

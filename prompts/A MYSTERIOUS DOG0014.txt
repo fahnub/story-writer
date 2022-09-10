@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The cake has reappeared on the table, unharmed. Betty is excited to explore the attic and find new stories, while Bab is more interested in the old spinning wheel and pictures. This passage describes a group of children sitting for a portrait, with their mothers standing nearby. The child at the head of the group is Belinda, who is sitting with her hands neatly folded in her lap. Josephus, the child at the foot of the group, is wearing a new suit of purple and green gingham. He has a straw hat pulled down over his face, obscuring his features.
+
+Last chunk: and  all sorts of seats had to be contrived to suit the peculiarities of  their spines. This arduous task accomplished, the fond mammas stepped  back to enjoy the spectacle, which, I assure you, was an impressive one.  Belinda sat with great dignity at the head, her hands genteelly holding  a pink cambric pocket-handkerchief in her lap. Josephus, her cousin,  took the foot, elegantly arrayed in a new suit of purple and green  gingham, with his speaking countenance much obscured by a straw hat
+
+Next chunk:

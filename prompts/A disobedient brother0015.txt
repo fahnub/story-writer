@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4215 tokens (3715 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Siblings Felix, Felicity, and Dan are fighting. The Story Girl tries to stop them and they discuss what it would be like to be a king. Cecily and Felicity are Grass and they have a good time. Dan is up in his room, sick, and they feel bad for him. Old Mr. Scott was very angry because the Presbytery made him retire. A friend of his tried to console him by saying that he should be resigned to the will of Providence, but Mr. Scott replied that Providence had nothing to do with it - it was the McCloskeys and the devil who were to blame. Felicity, who was listening to the story, was shocked by Mr. Scott's mention of the devil. A man arrives late to church after his wife has already left, and he scolds her from the pulpit.
+
+Last chunk: few Sundays  after wasn't he late himself! I suppose Mrs. Scott thought that what was  sauce for the goose was sauce for the gander, for she slipped out and  drove off to church as he had done. Old Mr. Scott finally arrived at  the church, pretty hot and dusty, and in none too good a temper. He went  into the pulpit, leaned over it and looked at his wife, sitting calmly  in her pew at the side.  "'It was cleverly done,' he said, right out loud, 'BUT DINNA TRY IT  AGAIN!'"  In the midst of our
+
+Next chunk:

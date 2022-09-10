@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are planning to play a game of war and the passage describes their preparations. The person thinks that fireworks are not as fun as they seem because you get tired of them quickly. They also think that setting them off in the fire is the only amusing way to use them, but that it is not allowed. Alice tries to convince Albert-next-door to come with them, but he insists on going home because he has a cold. Oswald explains to the captured man that he will be confined in a dark, subterranean dungeon where toads and snakes crawl, and that little of the light of day will filter through. Alice, Albert, and Albert's uncle are playing a game. Albert's uncle offers to pay Alice eightpence for her winnings, and Alice accepts. Albert is then sent home.
+
+Last chunk: and unfortunate  chance I haven't the money about me. Couldn't you take less?'  We said perhaps we could.  'Say eightpence,' suggested Albert-next-door's uncle, 'which is all the  small change I happen to have on my person.'  'Thank you very much,' said Alice as he held it out; 'but are you sure  you can spare it? Because really it was only play.'  'Quite sure. Now, Albert, the game is over. You had better run home to  your mother and tell her how much you've enjoyed yourself.'  When Albert-
+
+Next chunk:

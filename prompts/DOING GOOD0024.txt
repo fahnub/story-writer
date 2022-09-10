@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children who find a treasure that turns out to be a carpet. They meet a hospitable woman who begins to cry when she sees the Phoenix. Anthea comforts her and they are invited into the woman's house. The house is small and dirty, but the children are glad to be out of the dark and scary passage. They let the stone door close and find themselves in a room with a fireplace, portraits on the walls, and silver candlesticks on the mantelpiece. At the end of the table sits a little boy on a footstool. The passage tells the story of a group of people who find a treasure. The passage describes a group of boys who are trying to move a heavy stone. They finally succeed in moving it, and dust falls on them.
+
+Last chunk: bottom of the stairs--all but the Phoenix, which hadtaken to its wings when the pulling began.  Nobody was hurt much, because the rolled-up carpet broke their fall; andnow, indeed, the shoulders of the boys were used to some purpose, forthe stone allowed them to heave it up. They felt it give; dust fellfreely on them.  'Now, then,' cried Robert, forgetting his head and his temper, 'push alltogether. One, two, three!'  The stone was heaved up. It swung up on a creaking, unwilling hinge, andshowed
+
+Next chunk:

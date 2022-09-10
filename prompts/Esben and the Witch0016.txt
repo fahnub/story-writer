@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole to fatten him up. Esben's daughter is ordered to roast him in the oven, but she eventually grows to like her captor and decides not to kill him. The king gives Esben's brothers three days to bring him a marvellous boar, and Esben helps them.
+
+Last chunk: days,' said the king, 'or itwill cost you your heads.'  With that they had to go. This was still worse than before, theythought. Where could they get such a marvellous boar? They all wentabout hanging their heads; but when only one day remained of the threeEsben came along. When he saw his brothers' sorrowful looks he cried,'Hallo, what's the matter now?'  'Oh, what's the use of telling you?' said his brothers. 'You can't helpus, at any rate.'  'Ah, you don't know that,' said Esben; 'I've helped
+
+Next chunk:

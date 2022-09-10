@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends plan to play a game of war on the Heath, a large park in London. This person thinks that fireworks are not as fun as they seem because you get tired of them quickly. They also think that setting them off in the fire is the only amusing way to use them, but that it is not allowed. This passage describes a group of children sitting around a fire, roasting chestnuts and listening to stories told by their uncle. He tells them that he enjoys seeing them play and have fun, and that he doesn't think it hurts their friend Albert to do the same. The passage describes a game played by three siblings, in which one of them pretends to be a prisoner and the others try to rescue him. The prisoner (H.O.) has to prick his own thumb to prove his bravery, and the siblings take turns doing this.
+
+Last chunk: the back  kitchen, and we had to hurry up, which was a pity for him. We might have  had him rescued by a devoted page if he hadn't been so tiresome. In fact  Noel was actually dressing up for the page when Albert-next-door kicked  over the prison ewer.  We got a sheet of paper out of an old exercise-book, and we made H. O.  prick his own thumb, because he is our little brother and it is our duty  to teach him to be brave. We none of us mind pricking ourselves; we've  done it heaps of times. H.
+
+Next chunk:

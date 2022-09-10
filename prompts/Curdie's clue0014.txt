@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Curdie is able to fight off a group of goblins with his axe. He does this by reciting a new rhyme and making horrible grimaces throughout.
+
+Last chunk: queen; and she moved angrily towards Harelip.  The councillor,  however, who was betwixt them, leaned forward so as to prevent her  touching him, but only as if to address the prince.  'Your Royal Highness,' he said, 'possibly requires to be reminded that  you have got three toes yourself--one on one foot, two on the other.'  'Ha! ha! ha!' shouted the queen triumphantly.  The councillor, encouraged by this mark of favour, went on.  'It seems to me, Your Royal Highness, it would greatly endear
+
+Next chunk:

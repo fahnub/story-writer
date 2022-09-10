@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children find a treasure and are taken in by a hospitable woman. However, the house is small and dirty. The children find a passage underground that leads to a pile of money and bags of gold. The children are preparing to go on a carpet ride, and they discuss how they will have plenty of time to repent next week. A phoenix speaks to Robert and Jane, telling them that they should do something good and kind instead of trying to scare their little sister. The passage describes a white house with green shutters and a slate roof. The house has a veranda with a vine crawling all over it. However, the vine is now dead, with only dry, reddish-brown stalks remaining.
+
+Last chunk: said Robert. 'I hope you're satisfied!'  'Everything has two ends,' said the Phoenix, softly; 'even a quarrel ora secret passage.'  So they turned round and went back, and Robert was made to go first withone of the candles, because he was the one who had begun to talk aboutbones. And Cyril carried the carpet.  'I wish you hadn't put bones into our heads,' said Jane, as they wentalong.  'I didn't; you always had them. More bones than brains,' said Robert.  The passage was long, and there were
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the children's plans to play a prank while their sister is away. H.O. is made captain and Oswald lieutenant because it was his idea. Oswald is the eldest next to Dora. The passage describes the speaker's reasoning for wanting to become bandits on the Fifth of November. They argue that it would be a good way to restore their fortunes, and that it would be wrong to disappoint their father. The passage describes how a group of bandits caught an unwary traveler who had a cold. The traveler had followed someone across the heath to the village, and the bandits saw him coming. They decided to take him home with them and teach him a lesson.
+
+Last chunk: able to be bandits at all, for the unwary traveller we did  catch had been forbidden to go out because he had a cold in his head.  But he would run out to follow a guy, without even putting on a coat or  a comforter, and it was a very damp, foggy afternoon and nearly dark, so  you see it was his own fault entirely, and served him jolly well right.  We saw him coming over the Heath just as we were deciding to go home  to tea. He had followed that guy right across to the village (we call
+
+Next chunk:

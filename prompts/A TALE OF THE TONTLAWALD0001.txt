@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed is able to break the curse and live happily. She is given a gold ring and a golden box by her benefactress, and she is very sad and cries all night. The next day, she sees a beautiful dress lying over the back of a chair, ready for her to put on. A TALE OF THE TONTLAWALD is a mystery fiction story about a moorland called the Tontlawald that no man ever dared set foot on. From time to time, a few curious people had been drawn to its borders and reported seeing a ruined house in a grove of trees with a crowd of man-like beings swarming over the grass.
+
+Last chunk: A TALE OF THE TONTLAWALD (Fiction / Mystery:- Ages 5 to 10)  Long, long ago there stood in the midst of a country covered with lakes a vast stretch of moorland called the Tontlawald, on which no man ever dared set foot. From time to time a few bold spirits had been drawn by curiosity to its borders, and on their return had reported that they had caught a glimpse of a ruined house in a grove of thick trees, and round about it were a crowd of beings resembling men, swarming over the grass like
+
+Next chunk:

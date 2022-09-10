@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage contains a description of a child's love for drawing on slates and how peppermint can help with arithmetic. It also includes mention of a law that was passed prohibiting the purchase of gunpowder by anyone under the age of thirteen. Finally, the passage describes a trick involving a sixpence and a shilling, in which the sixpence is made to jump on top of the shilling by blowing on the side of a wine glass. This passage describes how different types of plants are grown. Potatoes are not grown with seed, but with chopped-up potatoes. Apple trees are grown from twigs, which is less wasteful. Oak trees come from acorns. When Noel says he could grow one from a peach stone wrapped up in oak leaves, he shows that he knows nothing about gardening but marigolds.
+
+Last chunk: parties, for they will not grow unless uncooked. Potatoes are  not grown with seed, but with chopped-up potatoes. Apple trees are grown  from twigs, which is less wasteful.  Oak trees come from acorns. Every one knows this. When Noel says he  could grow one from a peach stone wrapped up in oak leaves, he shows  that he knows nothing about gardening but marigolds, and when I passed  by his garden I thought they seemed just like weeds now the flowers have  been picked.  A boy once dared me to eat
+
+Next chunk:

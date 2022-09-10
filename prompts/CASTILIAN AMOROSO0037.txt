@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Alice is trying to sell the butcher a product that will supposedly make him a lot of money, and he is skeptical but interested. Alice and Oswald are discussing the possibility of selling their homemade lemonade. Dicky is skeptical, but Alice is optimistic. They open the bottle to test it and the cork breaks. Oswald, Dicky, Alice, and Noel all taste sherry for the first time. Oswald and Dicky think it is burny, Alice thinks it is beastly, and Noel says it is the golden wine of the gods but he still has to put his handkerchief up to his mouth. H.O. spits it out in the fire. The passage describes a group of children tasting a new drink. One child says it needs sugar, and they all agree. The children visit Mr. Mallow to thank him and ask him something else. Alice gets the sherry ready while Oswald speaks.
+
+Last chunk: took up his pen and fiddled with it, and he did not ask us to sit  down. But some of us did.  'We always spend Sunday afternoon with Father,' said Dora; 'but we  wished to thank you for being so kind as to ask us.'  'And we wished to ask you something else!' said Oswald; and he made  a sign to Alice to get the sherry ready in the glass. She did--behind  Oswald's back while he was speaking.  'My time is limited,' said Mr Mallow, looking at his watch; 'but  still--' Then he muttered something
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Alice says that she could make two pounds a week by getting people to taste a wine called Castilian Amoroso, and then selling it to them. For every dozen bottles sold, she would get two shillings from the wine company. Father has a letter in his hand and is asking Dicky about it. Dicky tells him the whole story, and Alice says that Mr. Mallow has written to say he will buy a dozen bottles of the sherry after all. The passage describes a bottle that was put away and left to gather dust, until a clergyman came and took it.
+
+Last chunk: crying we put away the bottle and said we would not try  to sell any more to people who came. And we did not tell the others--we  only said the lady did not buy any--but we went up on the Heath, and  some soldiers went by and there was a Punch-and-judy show, and when we  came back we were better.  The bottle got quite dusty where we had put it, and perhaps the dust of  ages would have laid thick and heavy on it, only a clergyman called when  we were all out. He was not our own clergyman--Mr
+
+Next chunk:

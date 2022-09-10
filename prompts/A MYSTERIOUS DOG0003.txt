@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The cake has reappeared on the table, unharmed. Betty is excited to explore the attic and find new stories, while Bab is more interested in the old spinning wheel and pictures. This passage describes a group of children sitting for a portrait, with their mothers standing nearby. The child at the head of the group is Belinda, who is sitting with her hands neatly folded in her lap. Josephus, the child at the foot of the group, is wearing a new suit of purple and green gingham. He has a straw hat pulled down over his face, obscuring his features. Belinda is a marionette who is about to be hanged. She is content and does not seem to mind the red ribbon around her neck. This passage describes a party where the guests are expected to overlook the imperfections of the tea service.
+
+Last chunk: covered with a little plaid shawl much the worse for wear, and  on it a miniature tea-service was set forth with great elegance. To be  sure, the tea-pot had lost its spout, the cream-jug its handle, the  sugar-bowl its cover, and the cups and plates were all more or less  cracked or nicked; but polite persons would not take notice of these  trifling deficiencies, and none but polite persons were invited to this  party.  On either side of the porch was a seat, and here a somewhat remarkable
+
+Next chunk:

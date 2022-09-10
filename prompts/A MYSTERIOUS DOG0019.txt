@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's preparations for a tea party, including mixing water with the milk to stretch it. The child is tired from all her preparations, but is contentedly looking forward to the party. The children in the passage are afraid of the dog, but it eventually goes away.
+
+Last chunk: to give it a thump  with her boots. "You needn't laugh; you know you'd like it as much as  me," she added, twisting back again, rather ashamed of her impatience.  "I didn't laugh."  "You did!  Don't you suppose I know what laughing is?"  "I guess I know I didn't."  "You did laugh!  How darst you tell such a fib?"  "If you say that again I'll take Belinda and go right home; then what  will you do?"  "I'll eat up the cake."  "No, you won't!  It's mine, Ma said so; and you are only company, so
+
+Next chunk:

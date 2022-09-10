@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker reflects on a sermon they wrote in the past, which they are no longer proud of. They remember thinking that their rivals would have a hard time beating it.
+
+Last chunk: times as imaginary  rats distracted his attention.  Mr. Marwood had at least three absorbed listeners the next Sunday  morning. Felix, Peter and I were all among the chiels who were taking  mental notes on the art of preaching a sermon. Not a motion, or glance,  or intonation escaped us. To be sure, none of us could remember the text  when we got home; but we knew just how you should throw back your head  and clutch the edge of the pulpit with both hands when you announced it.  In the afternoon
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A group of friends paid a man for a basket of dried herring, but insisted he leave before they opened a packet folded up in the basket. One of the friends, Cecily, opened the packet to reveal a painting. The children quarrel but are quickly stopped by Cecily. They then go to the loft of the granary to wait for Jerry, where they can see the main road. Sara Ray joins them, looking pale. The picture of an old man is supposed to be God in the Garden of Eden, but no one is really sure. The Story Girl says that the person who drew it probably didn't know any more than they do, since no one has ever seen God.
+
+Last chunk: is nothing but the picture of  a cross old man."  Hope sprang up in our hearts, although we were not wholly convinced.  "I don't know," said Dan dubiously. "It says under the picture 'God in  the Garden of Eden.' It's PRINTED."  "Well, I suppose that's what the man who drew it thought God was like,"  answered the Story Girl carelessly. "But HE couldn't have known any more  than you do. HE had never seen Him."  "It's all very well for you to say so," said Felicity, "but YOU don't  know either. I
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A woman is asked how she would feel if she found a lot of money, and she says that it would be nice but that it is just a legend. The legend is that one of her ancestors hid a treasure a long time ago. The children in the passage found a treasure and told the lady about it. The lady was very happy and the children helped her to get the treasure.
+
+Last chunk: herwhat you have found.'  So Robert told, while Anthea and Jane hugged the lady for fear sheshould faint for joy, like people in books, and they hugged her with theearnest, joyous hugs of unselfish delight.  'It's no use explaining how we got in,' said Robert, when he had toldof the finding of the treasure, 'because you would find it a littledifficult to understand, and much more difficult to believe. But we canshow you where the gold is and help you to fetch it away.'  The lady looked
+
+Next chunk:

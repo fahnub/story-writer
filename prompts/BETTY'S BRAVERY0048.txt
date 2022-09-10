@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben and Thorny have just fought and made up. Thorny wants to show off his new wounds to Celia, but Ben suggests they clean up first.
+
+Last chunk: so made her laugh the drops  away, while Bab set the rest off by saying gloomily,--  "I mean to play with all the mad dogs I can find; then folks will think  I'm smart and give me nice things."  "Poor old Bab, I'll forgive you now, and lend you my half whenever you  want it," said Ben, feeling at peace now with all mankind, including,  girls who tagged.  "Come and show him to Celia," begged Thorny, eager to fight his battles  over again.  "Better wash him up first; he's a sight to see, poor
+
+Next chunk:

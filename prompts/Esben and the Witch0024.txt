@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole to fatten him up, but his daughter eventually grows to like her captor and decides not to kill him. The king gives Esben's brothers three days to bring him a marvellous boar, and Esben helps them. The three brothers escape the witch's house and ride to a king's palace, where they are hired as stablemen. Esben steals the witch's gold and silver boar, and she chases after him, asking if he also stole her dove and made her kill her children. The passage tells the story of a witch who is destroyed by a boy who uses her own magic against her.
+
+Last chunk: witch'scourtyard. But now matters were less easy, for he could not get insidethe yard, as it was evening and the gate was locked. Finally he hit upona plan; he got up on the roof and crept down the chimney.  He searched all round for the lamp, but could find it nowhere, for thewitch always had it safely guarded, as it was one of her most precioustreasures. When he became tired of searching for it he crept into thebaking- oven, intending to lie down there and sleep till morning; butjust at that
+
+Next chunk:

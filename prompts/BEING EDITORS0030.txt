@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic.
+
+Last chunk: ------------       SCHOLASTIC  A new slate is horrid till it is washed in milk. I like the green spots  on them to draw patterns round. I know a good way to make a slate-pencil  squeak, but I won't put it in because I don't want to make it  common.--SUB-EDITOR.  Peppermint is a great help with arithmetic. The boy who was second in  the Oxford Local always did it. He gave me two. The examiner said to  him, 'Are you eating peppermints?' And he said, 'No, Sir.'  He told me afterwards it was quite
+
+Next chunk:

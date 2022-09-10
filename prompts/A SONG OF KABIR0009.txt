@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are planning to kill the wolf-child Mowgli, but Mowgli is not ready yet. Buldeo killed one of his own buffaloes after mistaking it for the Devil-child, and the village plans to torture and burn Messua and her husband for being the child's parents. The animals all agree to go ahead with the plan to destroy the fields of humans. The speaker in the passage suggests that it would be best to forget about the Man-Pack, and instead focus on where the elephant Hathi will feed tonight. They say that Hathi is the master of the jungle, and should be respected as such. Mang the Bat tells Mowgli that the village is buzzing like a hornet's nest, and Mowgli chuckles, saying that he threw a big stone into it.
+
+Last chunk: along our trail to the  village, stepping in my tracks, turning aside, and lying down, to make  a mixed trail in case one should follow us. But when I had fouled the  trail so that I myself hardly knew it again, Mang, the Bat, came hawking  between the trees, and hung up above me." Said Mang, "The village of the  Man-Pack, where they cast out the Man-cub, hums like a hornet's nest."  "It was a big stone that I threw," chuckled Mowgli, who had often amused  himself by throwing ripe paw-paws into
+
+Next chunk:

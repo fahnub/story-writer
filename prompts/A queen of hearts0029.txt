@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the speaker's thoughts on her relatives and the family's history with an apple orchard. The orchard was started by the family's grandfather 60 years ago and is still remembered by them today. The girl with the wonderful voice said that she knows stories about the orchard, as they walk across the yard followed by Paddy.
+
+Last chunk: some day. They'll just make your blood freeze in  your veins."  We hadn't a doubt of it. If anybody could freeze the blood in our veins  this girl with the wonderful voice could. But it was a May morning, and  our young blood was running blithely in our veins. We suggested a visit  to the orchard would be more agreeable.  "All right. I know stories about it, too," she said, as we walked across  the yard, followed by Paddy of the waving tail. "Oh, aren't you glad it  is spring? The beauty of
+
+Next chunk:

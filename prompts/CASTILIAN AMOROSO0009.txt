@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Alice is trying to sell the butcher a product that will supposedly make him a lot of money, and he is skeptical but interested. Alice and Oswald are discussing the possibility of selling their homemade lemonade. Dicky is skeptical, but Alice is optimistic. They open the bottle to test it and the cork breaks.
+
+Last chunk: two pounds.  I don't think we shall sell as much as that,' said Dicky.  'We might not the first week,' Alice said, 'but when people found out  how nice it was, they would want more and more. And if we only got ten  shillings a week it would be something to begin with, wouldn't it?'  Oswald said he should jolly well think it would, and then Dicky took the  cork out with the corkscrew. The cork broke a good deal, and some of  the bits went into the bottle. Dora got the medicine glass that has  the
+
+Next chunk:

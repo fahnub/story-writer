@@ -1,0 +1,1 @@
+GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.

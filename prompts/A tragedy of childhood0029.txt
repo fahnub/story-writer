@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California.
+
+Last chunk: young and handsome. Heroes always are, you know,  but Aunt Louisa says he really was. And he was in love--wildly in  love,--with Margaret Grant. Margaret was as beautiful as a dream, with  soft blue eyes and clouds of golden hair; and she loved Alan Dunbar just  as much as he loved her. But her parents were bitterly opposed to him,  and they had forbidden Margaret to see him or speak to him. They hadn't  anything against him as a MAN, but they didn't want her to throw herself  away on a sailor.
+
+Next chunk:

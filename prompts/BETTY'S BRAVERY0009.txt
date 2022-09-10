@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman is trying to win back her husband's affections, but is unsuccessful. She feels that only the return of her friend Sancho will be able to restore their broken friendship. A group of children are playing near a gate when they see a dog on the other side. One child tries to look at the dog, but is not interested when she sees that it is only an old dog. Another child tells her that the dog is mad and that Jud is getting his gun to shoot it. The dog is excited to see the boy and jumps out of the phaeton to greet him. The boy falls down. The speaker is planning to take a child on a journey, and is considering which one to take. He prefers Betty because she is well-behaved and will be content with her doll.
+
+Last chunk: though he groaned inwardly at the prospect before him, as  most of us do on such occasions. "I wouldn't take Bab at any price;  she'd only get into some scrape, and upset the whole plan. Betty is the  chicken for me,--a real little lady, and as nice and purry as a  kitten."  "Very well; ask her mother, and take good care of her.  Let her tuck her  dolly in, and she will be contented anywhere. There's a fine air, and  the awning is on the phaeton, so you won't feel the sun. Start about  three,
+
+Next chunk:

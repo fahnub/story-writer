@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a discussion between two people, in which one describes a temptation that she resisted. The other person is worried about something, but does not say what it is. Miss Celia is worried that Ben might want to go back to his old life in the circus, but she doesn't think he would actually do it without telling them first. The speaker and Miss Celia's brother offer to forgive and forget the pain that was caused, and Ben shakes their hands. However, he squeezes Thorny's hand with more force, remembering that Thorny had always been good to him. The passage describes a man who is asked to find someone but does not know how to go about it. He is given the keys and told to look in the dressing room. He does not seem to know what to do but is cheered up by the fact that someone is watching him.
+
+Last chunk: himself in that line; but when Miss Celia asked  how he meant to begin, he could only respond with a blank expression:  "Don't know! You give me the keys and leave a bill or two in the drawer,  and may be I can find him out somehow."  So the keys were given, and the little dressing-room where the old  secretary stood was closely watched for a day or two. Ben cheered up a  trifle which looked as if he knew an eye was upon him, but otherwise he  went on as usual, and Miss Celia feeling a little
+
+Next chunk:

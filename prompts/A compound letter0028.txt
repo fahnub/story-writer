@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical.
+
+Last chunk: silly.  "Oh, Peter, shadows are such pretty things. The orchard is full of  them this very minute. Sometimes they are so still you would think them  asleep. Then they go laughing and skipping. Outside, in the oat field,  they are always chasing each other. They are the wild shadows. The  shadows in the orchard are the tame shadows.  "Everything seems to be rather tired growing except the spruces and  chrysanthemums in Aunt Olivia's garden. The sunshine is so thick and  yellow and lazy, and the
+
+Next chunk:

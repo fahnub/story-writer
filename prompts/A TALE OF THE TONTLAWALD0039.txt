@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed by a wicked woman is later able to break the curse and live a happy life. The girl's maid came in to comb her hair and bring her some new clothes, and she was most excited by the little pair of embroidered shoes. She didn't think about her old, rough clothes from the day before, which had mysteriously disappeared overnight. A young woman is forced to leave her home and is given a gold ring and a golden box by her benefactress. She is very sad and cries all night. A black snake bites a woman's tongue, causing her to die.
+
+Last chunk: black snake from her mouth and stung the woman's tongue, and she fell dead without a sound. At night, when the husband came home, he found his wife lying dead upon the ground, her body all swollen and disfigured, but the girl was nowhere to be seen. His screams brought the neighbours from their cottages, but they were unable to explain how it had all come about. It was true, they said, that about mid-day they had heard a great noise, but as that was a matter of daily occurrence they did not
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A mother and child discuss the child's recent discovery that the royal family in the cave are planning to marry their prince (Harelip) to a sun-woman (one of their own kind). The child is excited by this news, and the mother is dismissive, telling her that it won't make her any wiser. Curdie's mother tells him a strange story in order to help him think better of the princess. Curdie kills a goblin with his pocket knife after a struggle, and is satisfied that the goblins are mining.
+
+Last chunk: size or shape, and besides Curdie had no wish to let  the creature pass.  Not being able to use his pickaxe, however, he had  a severe struggle with him, and it was only after receiving many bites,  some of them bad, that he succeeded in killing him with his  pocket-knife.  Having dragged him out, he made haste to get in again  before another should stop up the way.  I need not follow him farther in this night's adventures.  He returned  to his breakfast, satisfied that the goblins were mining
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Cecily and Felicity discuss whether or not to ask their mother about something. Felicity goes to ask her and comes back with a negative response. The Story Girl and Felicity have a falling out, and Felix tries to make peace between them. The Story Girl tells Felix he's too young to understand, and Felicity says he should mind his own business. Felix declares it would serve Felicity right if the Story Girl never spoke to her again. Dan has no patience with either of them. The Story Girl reads a newspaper article to a group of people. The article says that a religious leader has predicted that the world will end tomorrow. The passage describes the sound of the storm raging overhead, with the wind wailing through the trees.
+
+Last chunk: down on the  roof above us, and the voices of the storm wailing through the writhing  spruce trees.
+
+Next chunk:

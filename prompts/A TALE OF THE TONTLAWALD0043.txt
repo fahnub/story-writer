@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed by a wicked woman is later able to break the curse and live a happy life. The girl's maid came in to comb her hair and bring her some new clothes, and she was most excited by the little pair of embroidered shoes. She didn't think about her old, rough clothes from the day before, which had mysteriously disappeared overnight. A young woman is forced to leave her home and is given a gold ring and a golden box by her benefactress. She is very sad and cries all night. A black snake bites a woman's tongue, causing her to die. Elsa, a girl who can turn into a swan, is shot by an arrow and falls to the ground in her human form.
+
+Last chunk: several days she flew steadily south, resting from time to time when her wings grew tired, for hunger she never felt. And so it happened that one day she was flying over a dense forest, and below hounds were barking fiercely, because, not having wings themselves, she was out of their reach. Suddenly a sharp pain quivered through her body, and she fell to the ground, pierced by an arrow.  When Elsa recovered her senses, she found herself lying under a bush in her own proper form. What had
+
+Next chunk:

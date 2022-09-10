@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of friends who make and sell wine. They are successful until they are caught by the vicar. The narrator is glad they got the Castilian Amoroso, because it cheered their father up. They note that it is not always possible to make their father happy, even if they try.
+
+Last chunk: again. I am glad we got the Castilian  Amoroso, because it did really cheer Father up, and you cannot always do  that, however hard you try, even if you make jokes, or give him a comic  paper.
+
+Next chunk:

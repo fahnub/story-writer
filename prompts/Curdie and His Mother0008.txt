@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a woman's husband going to work in a mine one night, and the woman being left to go home alone. She is familiar with the road and makes her way home in the dark. A mother tells her son and husband about how she was saved from some monsters by a beam of light. A woman tells her grandson about some of the things she has seen, and he is surprised that she seems to believe that she actually saw them. His mother tells him that some people can see things that other people can't see.
+
+Last chunk: pass for her precious  grandmother!'  'Didn't she speak as if she saw those other things herself, Curdie?'  'Yes.  That's what bothers me.  You would have thought she really meant  and believed that she saw every one of the things she talked about.  And not one of them there!  It was too bad, I say.'  'Perhaps some people can see things other people can't see, Curdie,'  said his mother very gravely.  'I think I will tell you something I saw  myself once--only Perhaps You won't believe me
+
+Next chunk:

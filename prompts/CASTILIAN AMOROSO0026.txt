@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Father finds out that the boys have been selling wine and scolds them, but then laughs it off. Dora and the speaker agree to have a teaspoonful each of a new drink, and Dora measures it out. They ask each other what it's like, but Dora can't speak just then. Oswald and his siblings visit Mr. Mallow, who is busy writing a sermon. They are let into his tidy room with a bookcase, pictures, and harmonium. Alice and the narrator meet a lady who is surprised when they offer her wine. She is not young, and is wearing a mantle with beads and a sealskin bag. The beads and seal are coming off in places, revealing bare skin.
+
+Last chunk: had explained to her that we had only  a shilling and we wanted it for something else, Alice suddenly said,  'Would you like some wine?'  And the lady said, 'Thank you very much,' but she looked surprised.  She was not a young lady, and she had a mantle with beads, and the beads  had come off in places--leaving a browny braid showing, and she had  printed papers about the dead sailors in a sealskin bag, and the  seal had come off in places, leaving the skin bare. We gave her a  tablespoonful of
+
+Next chunk:

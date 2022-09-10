@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Curdie is able to fight off a group of goblins by reciting a new rhyme and making horrible grimaces. A woman rescues a man from certain death by throwing him into a hole in a cave wall and then piling rocks on top of him. The man in the passage was attacked by beasts, but he was able to fight them off with his pickaxe. The king is not pleased to see Curdie, and orders him to leave the kingdom. Curdie agrees, and the king gives him a guide. A man is attacked by a group of animals and sustains bites and scratches.
+
+Last chunk: a moment's hesitation he set out for  it, as fast as the unknown and rugged way would permit.  Yet again  turning a corner, led by the dim light, he spied something quite new in  his experience of the underground regions--a small irregular shape of  something shining.  Going up to it, he found it was a piece of mica, or  Muscovy glass, called sheep-silver in Scotland, and the light flickered  as if from a fire behind it.  After trying in vain for some time to  discover an entrance to the place
+
+Next chunk:

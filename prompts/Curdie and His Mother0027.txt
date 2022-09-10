@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy is talking to someone else about how he is not sure how to tell a girl that he likes her because he is a miner and she is a princess and he is not sure how she would react. Curdie's mother tells him that the goblins are planning to hurt the princess, and Curdie vows to stop them.
+
+Last chunk: would keep her alive for the sake of the hold it gave them over our  king.  Whatever he did to them, they would threaten to do the same to  the princess.'  'And they are bad enough to torment her just for their own amusement--I  know that,' said his mother.  'Anyhow, I will keep a watch on them, and see what they are up to,'  said Curdie.  'It's too horrible to think of.  I daren't let myself do  it.  But they shan't have her--at least if I can help it.  So, mother  dear--my clue is all right--
+
+Next chunk:

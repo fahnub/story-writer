@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a scene from a play, in which a child delivers a basket to "Teacher," who is dressed as a mother. The other children in the audience recognize the child as Betty and identify the play as "Mabel on Midsummer Day." This passage also describes a tea garden that has been set up with a Chinese pagoda and green trees. The children who are visiting it have never seen anything like it before. Finally, the passage describes a child's game in which a boy gallops around an orchard on a pretend horse while the other children watch.
+
+Last chunk: devouring the poor little girl, with most effective growls.  They had to come out then, and did so, both much dishevelled by the late  tussle, for Sancho's cap was all over one eye, and Betty's hood was  anywhere but on her head. She made her courtesy prettily, however; her  fellow-actor bowed with as much dignity as a short night-gown permitted,  and they retired to their well-earned repose.  Then Thorny, looking much excited, appeared to make the following  request: "As one of the actors in
+
+Next chunk:

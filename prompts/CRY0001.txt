@@ -1,0 +1,7 @@
+Outline: A young child is crying and their mother asks what's wrong. The child replied that they put their finger in their eye. The mother then asks who did it and the child says "I did."
+
+Story so far:  The passage is a nursery rhyme about a baby crying. The baby is told to put their finger in their eye and tell their mother it wasn't them who did it.
+
+Last chunk: CRY, BABY (Rhymes:- Ages 0 to 3)    Cry, baby, cry,  Put your finger in your eye,  And tell your mother it wasn't I.
+
+Next chunk:

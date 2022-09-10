@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the idea that a good sermon must be different from a regular one in order to make an impression. The passage describes a failed sermon and the speaker's humiliation. The Story Girl tries to make the speaker feel better by saying it sounded like real sermons she has heard. Aunt Julia was a noted concert singer, and the rest of the family were also musical. That evening, they talked about their youthful days.
+
+Last chunk: and silvery, and Uncle Alec's fine tenor.  "If you're a King, you sing," was a Carlisle proverb in those days. Aunt  Julia had been the flower of the flock in that respect and had become a  noted concert singer. The world had never heard of the rest. Their music  echoed only along the hidden ways of life, and served but to lighten the  cares of the trivial round and common task.  That evening, after they tired of singing, our grown-ups began talking  of their youthful days and doings.  This was
+
+Next chunk:

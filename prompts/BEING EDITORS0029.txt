@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams. (The story is to be continued.)
+
+Last chunk: Just then Annie gave a piercing scream, and Sam Redfern got up, seizing  his revolver. 'Who are you?' he cried, as a man entered.  'I am Jim Carlton, the celebrated detective,' said the new arrival.  Sam Redfern's revolver dropped from his nerveless fingers, but the next  moment he had sprung upon the detective with the well-known activity of  the mountain sheep, and Annie shrieked, for she had grown to love the  rough Bushranger.  (To be continued at the end of the paper if there is room.)
+
+Next chunk:

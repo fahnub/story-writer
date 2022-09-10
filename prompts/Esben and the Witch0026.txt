@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole, but his daughter eventually grows to like her captor and decides not to kill him. Esben's brothers say they can get him a special dove with feathers of gold and silver, but only if they are threatened with death. The king then has the brothers called before him and accuses them of lying. The brothers deny the accusation and insist that such a dove does not exist.
+
+Last chunk: daughter came back then and put in the meal, andafter it had boiled a little she took it in to her mother. The witchtook a spoonful and tasted it.  'Uh!' said she; 'didn't I tell you not to put any salt in it, and it'sjust as salt as the sea.'  So the daughter had to go and make new porridge, and her mother warnedher strictly not to put any salt in it. But now there was no water inthe house, so she asked her mother to give her the lamp, so that shecould go to the well for more.  'There you have
+
+Next chunk:

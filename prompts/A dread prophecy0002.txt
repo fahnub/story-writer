@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to a prophecy that the world will end the next day. Some are dismissive, some are scared, and some go about their normal tasks. As night falls, the two women become increasingly scared and long for someone to tell them what to do. The passage also describes a stormy night and the arrival of a man who is running towards them. Cecily and Felicity are arguing, and Cecily is trying to get Felicity to forgive the Story Girl. Felicity says she has forgiven her, but she doesn't want to speak to her first. Cecily thinks this is wrong and uncomfortable, and wonders if they were ever like this before. It was a hot day in August and some girls were eating timothy roots.
+
+Last chunk: broiling hot day."  We were all in the orchard, except Felix, who had gone to the  post-office. It was the forenoon of an August Saturday. Cecily and Sara  Ray, who had come up to spend the day with us--her mother having gone to  town--were eating timothy roots. Bertha Lawrence, a Charlottetown girl,  who had visited Kitty Marr in June, and had gone to school one day  with her, had eaten timothy roots, affecting to consider them great  delicacies. The fad was at once taken up by the Carlisle
+
+Next chunk:

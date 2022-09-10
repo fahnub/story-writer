@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman and her children visit a priest, who tells them about a treasure hidden by their ancestors. The children are excited to find the treasure, but are disappointed when they find it is just a carpet. The woman is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words.
+
+Last chunk: was silent. It was Cyril who suggested that perhaps they hadbetter take the money and go.  'That wouldn't be a kind act, except to ourselves; and it wouldn't begood, whatever way you look at it,' said Anthea, 'to take money that'snot ours.'  'We might take it and spend it all on benefits to the poor and aged,'said Cyril.  'That wouldn't make it right to steal,' said Anthea, stoutly.  'I don't know,' said Cyril. They were all standing up now. 'Stealing istaking things that belong to some one
+
+Next chunk:

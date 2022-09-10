@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friends are playing hide and seek when they see a light in the window of the house next door. They decide to watch the house that night to see if they see the light again. Noel speculates that the people next door are very grand and won't know them, which could be why the burglars chose their house. Alice tells Albert's uncle about the coiner's gang, and he comes to the rescue. When Oswald falls, Dicky hears Albert's uncle say 'Confound those kids!', which isn't very kind.
+
+Last chunk: If you think so you little know what girls are. Directly she  was left alone in that tree she made a bolt to tell Albert's uncle all  about it and bring him to our rescue in case the coiner's gang was a  very desperate one. And just when I fell, Albert's uncle was getting  over the wall. Alice never screamed at all when Oswald fell, but Dicky  thinks he heard Albert's uncle say, 'Confound those kids!' which would  not have been kind or polite, so I hope he did not say it.  The people next door
+
+Next chunk:

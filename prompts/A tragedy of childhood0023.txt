@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the difficulties of travelling to California in the 1800s. It tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The story girl is telling a story about Alan Dunbar and Margaret, who are in love but must part ways when Alan has to go to California. The kids are excited to see Jerry Cowan's book, but are also afraid of it. After the rain, the air was full of the smells of wet plants and grass, and a wild breeze. The speaker's aunt told them a story about an old lady she saw in town.
+
+Last chunk: chimes, doesn't it? Let's go over  to Uncle Stephen's Walk, and sit on the branches of the big tree. It's  too wet on the grass, and I know a story--a TRUE story, about an old  lady I saw in town at Aunt Louisa's. Such a dear old lady, with lovely  silvery curls."  After the rain the air seemed dripping with odours in the warm west  wind--the tang of fir balsam, the spice of mint, the wild woodsiness of  ferns, the aroma of grasses steeping in the sunshine,--and with it all a  breath of wild
+
+Next chunk:

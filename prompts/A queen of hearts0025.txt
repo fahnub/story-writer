@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage discusses how the speaker and her brother Felix feel grateful to their grandparents for marrying each other, as it could have been much worse if they had married someone else.
+
+Last chunk: children here at all; or if we were, we would be part  somebody else and that would be almost as bad. When I think it all over  I can't feel too thankful that Grandfather and Grandmother King happened  to marry each other, when there were so many other people they might  have married."  Felix and I shivered. We felt suddenly that we had escaped a dreadful  danger--the danger of having been born somebody else. But it took  the Story Girl to make us realize just how dreadful it was and what a
+
+Next chunk:

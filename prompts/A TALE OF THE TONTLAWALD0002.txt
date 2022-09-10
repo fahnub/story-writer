@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a magical forest called the Tontlawald, where she meets a kind woman who offers to send her home.
+
+Last chunk: bees. The men were as dirty and ragged as gipsies, and there were besides a quantity of old women and half-naked children.  One night a peasant who was returning home from a feast wandered a little farther into the Tontlawald, and came back with the same story. A countless number of women and children were gathered round a huge fire, and some were seated on the ground, while others danced strange dances on the smooth grass. One old crone had a broad iron ladle in her hand, with which every now
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. Sam and Ben are arguing, and Ben threatens to tell on Sam if he doesn't stop. Thorny and Bab are discussing a minister they know who is regularly jolly. Thorny is worried that he will change and become sober now that he is a minister.
+
+Last chunk: regularly jolly; though now he's a minister, perhaps  he'll stiffen up and turn sober. Won't it be a shame if he does?" and  Thorny looked alarmed at the thought of losing his congenial friend.  "Tell about him; Miss Celia said you might", put in Bab, whose  experience of "jolly" ministers had been small.  "Oh, there isn't much about it.  We met in Switzerland going up Mount  St. Bernard in a storm, and--"  "Where the good dogs live?" inquired Betty, hoping they would come into  the story.
+
+Next chunk:

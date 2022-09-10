@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children are on their way to a schoolhouse for a lecture. One child, Sara Ray, is excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture. This passage discuss the difference between children and adults having to wear shoes all the time. The child in the passage would prefer to go barefoot, but knows that she will have to wear shoes when she grows up. The Story Girl is trying to tempt Sara into doing something wrong, and the rest of us are just watching and waiting to see what happens.
+
+Last chunk: unfortunate people whose  protests against wrong-doing serve only to drive the wrong-doer further  on her sinful way.  The Story Girl resented Felicity's superior tone, and proceeded to tempt  Sara in right good earnest. The rest of us held our tongues. It was, we  told ourselves, Sara's own lookout.  "I have a good mind to do it," said Sara, "but I can't get my good  clothes; they're in the spare room, and ma locked the door, for fear  somebody would get at the fruit cake. I haven't a single
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another.
+
+Last chunk: however, and,  casting about in his mind for a good substitute for the genuine thing,  bethought him of bulrushes.  "Those will do first-rate, and there are lots in the ma'sh, if I can  only get 'em," he said to himself, and turned off from the road on his  way home to get a supply.  Now, this marsh was a treacherous spot, and the tragic story was told of  a cow who got in there and sank till nothing was visible but a pair of  horns above the mud, which suffocated the unwary beast. For this
+
+Next chunk:

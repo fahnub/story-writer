@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A child is preparing for a tea party and is tired from all her preparations, but is contentedly looking forward to the party. The children see a raccoon in their orchard and chase it. They wonder where it came from and hope it got hurt if it ate their cake. The passage describes two sisters who are left alone with a cake. When they return, they find that the cake has been eaten. A young girl is on display in a store window, wearing a scallop-shaped dress, a garland of flowers in her hair, and blue boots. Her thirteen female relatives are standing around her, looking sad and surprised. It is not clear why she is on display or why her relatives are so upset.
+
+Last chunk: scallops, shrouded her slender form, a garland of small  flowers crowned her glossy curls, and a pair of blue boots touched toes  in the friendliest, if not the most graceful, manner. An emotion of  grief, as well as of surprise, might well have thrilled any youthful  breast at such a spectacle; for why, oh! why, was this resplendent dolly  hung up there to be stared at by thirteen of her kindred? Was she a  criminal, the sight of whose execution threw them flat upon their backs  in speechless
+
+Next chunk:

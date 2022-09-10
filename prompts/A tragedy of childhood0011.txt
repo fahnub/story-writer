@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A group of friends paid a man for a basket of dried herring, but insisted he leave before they opened a packet folded up in the basket. One of the friends, Cecily, opened the packet to reveal a painting.
+
+Last chunk: was folded up in a newspaper  packet on top of the dried herring with which the basket was filled. We  paid him his money, but we would not open the packet until he had gone.  "Cecily," said Felicity in a hushed tone. "You are the best of us all.  YOU open the parcel."  "Oh, I'm no gooder than the rest of you," breathed Cecily, "but I'll  open it if you like."  With trembling fingers Cecily opened the parcel. We stood around, hardly  breathing. She unfolded it and held it up. We saw it.
+
+Next chunk:

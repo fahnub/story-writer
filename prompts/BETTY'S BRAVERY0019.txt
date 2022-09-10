@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman tries to win back her husband's affections and believes that only the return of her friend Sancho will be able to restore their broken friendship. In the meantime, she comforts a black dog who has been beaten and had his tail cut off. Thorny, another character, suggests giving the dog a yellow-eyed dog in memoriam, and Thorny's sister falls in love with a toy book. The dog in the passage recognizes Betty and wags its tail excitedly. Betty is bewildered by the dog's familiar behavior. The boys in the passage tumble down from their perches, and the little girl falls back alarmed.
+
+Last chunk: without disturbing her.  "Done now, directly, only a trifle of  polishing off and a look round,"  said Dr. Mann, at last; and Thorny, with a yawn that nearly rent him  asunder, called out,--  "Thank goodness! Pack up, Bettykin."  "I'm all ready!" and, shutting her book with a start, she slipped down  from the easy chair in a great hurry.  But "looking round" took time; and, before the circuit of Thorny's mouth  was satisfactorily made, Betty had become absorbed by a more interesting  tale than
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a group of children on their way to a schoolhouse for a lecture. One child, Sara Ray, is particularly excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture.
+
+Last chunk: When the Story Girl's voice entreated it was not easy  to resist its temptation, even if you wanted to. That evening, when  we started for the schoolhouse, Sara Ray was among us, decked out in  borrowed plumes.  "Suppose she DOES catch the measles?" Felicity said aside.  "I don't believe there'll be anybody there from Markdale. The lecturer  is going to Markdale next week. They'll wait for that," said the Story  Girl airily.  It was a cool, dewy evening, and we walked down the long, red hill in
+
+Next chunk:

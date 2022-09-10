@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the efforts of two young girls to become better archers. Thorny, who is recovering from an illness, quickly regains much of her skill but tires easily. Bab, who is enthusiastic about the contest, does not give up easily. Miss Celia says that bow and arrow shooting is not something to be ashamed of, since even Queen Victoria did it. Betty is impressed by this fact.
+
+Last chunk: bow and arrow shooting is called,  especially in England. I was reading about it the other day, and saw a  picture of Queen Victoria with her bow; so you needn't be ashamed of it,  Bab," said Miss Celia, rummaging among the books and papers in her sofa  corner to find the magazine she wanted, thinking a new play would be as  good for the girls as for the big boys.  "A queen, just think!" and Betty looked much impressed by the fact, as  well as uplifted by the knowledge that her friend did not
+
+Next chunk:

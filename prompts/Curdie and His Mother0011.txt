@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a woman's husband going to work in a mine one night, and the woman being left to go home alone. She is familiar with the road and makes her way home in the dark.
+
+Last chunk: whispered, and never spoke aloud.  But what I saw myself was this: Your  father was going to work in the mine one night, and I had been down  with his supper.  It was soon after we were married, and not very long  before you were born.  He came with me to the mouth of the mine, and  left me to go home alone, for I knew the way almost as well as the  floor of our own cottage.  It was pretty dark, and in some parts of the  road where the rocks overhung nearly quite dark.  But I got along
+
+Next chunk:

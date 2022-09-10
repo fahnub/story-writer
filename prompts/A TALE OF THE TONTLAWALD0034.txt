@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a dry land after she dips a cloth in the water. She lives by the sea with a lady and her maid. One day, the lady summons Elsa into her room and Elsa fears something bad is going to happen. This passage is from a fairy tale called "Ehstnische Marchen," and it tells the story of the Tontlawald, a magical forest that was never heard of before. The children in the passage are picking strawberries when they are suddenly warned that they are in the Tontlawald, a dangerous place. They all flee except for Elsa, who is too far away and instead finds a bed of strawberries. A woman is telling a girl that they must part ways, and the girl responds by begging her not to go.
+
+Last chunk: saw that the lady's cheeks were flushed, and her eyes full of tears, which she dried hastily, as if she would conceal them from the girl. 'Dearest child,' she began, 'the time has come when we must part.'  'Part?' cried Elsa, burying her head in the lady's lap. 'No, dear lady, that can never be till death parts us. You once opened your arms to me; you cannot thrust me away now.'  'Ah, be quiet, child,' replied the lady; 'you do not know what I would do to make you happy. Now you are a woman, and
+
+Next chunk:

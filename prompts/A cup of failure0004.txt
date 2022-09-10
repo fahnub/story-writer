@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker reflects on a sermon they wrote in the past, which they are no longer proud of. They remember thinking that their rivals would have a hard time beating it. Uncle Roger tells many stories of Uncle Edward, including one in which Edward preached sermons at the age of ten.
+
+Last chunk: always a keen delight to us small fry. We listened avidly to  the tales of our uncles and aunts in the days when they, too--hard fact  to realize--had been children. Good and proper as they were now, once,  so it seemed, they had gotten into mischief and even had their quarrels  and disagreements. On this particular evening Uncle Roger told many  stories of Uncle Edward, and one in which the said Edward had preached  sermons at the mature age of ten from the Pulpit Stone fired, as the  sequel
+
+Next chunk:

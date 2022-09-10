@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of two young girls who want to become better archers. Thorny quickly improves but gets tired easily, while Bab is enthusiastic but not as skilled. Miss Celia suggests they make bows and arrows for the boys to use, but Betty is reluctant because she thinks it will be too much work. The passage also tells the story of a boy named Thorny who enjoys practicing archery. His sister mocks him, but he manages to shoot his arrow very high. The passage describes a time when the Indians came down the river and burned the houses, killed the men, and took the women and children away. Matty's father was always nearby, so she felt safe in their log house. However, one afternoon the bell rang, signaling danger, and the men had to hurry home to save their families.
+
+Last chunk: than once the Indians had come down the river in their  canoes and burned the houses, killed men, and carried away women and  children. Matty lived alone with her father, but felt quite safe in the  log house, for he was never far away. One afternoon, as the farmers were  all busy in their fields, the bell rang suddenly,--a sign that there  was danger near,--and, dropping their rakes or axes, the men hurried  to their houses to save wives and babies, and such few treasures as they  could. Mr.
+
+Next chunk:

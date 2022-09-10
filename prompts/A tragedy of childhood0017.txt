@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the impact that seeing a picture of God can have on someone's perception of Him. The children in the passage are left feeling upset and angry after seeing the picture, and Cecily is particularly affected by the story of Margaret, a woman whose heart died after her husband was killed. The passage tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The rest of the kids stay behind to listen to the conversation.
+
+Last chunk: Mr. Marwood leaves, and catch him in the lane,"  advised the Story Girl. "You'll have a lot of grown-ups around you in  the house."  Felix took her advice. Mr. Marwood, presently walking benignantly  along the lane, was confronted by a fat, small boy with a pale face but  resolute eyes.  The rest of us remained in the background but within hearing.  "Well, Felix, what is it?" asked Mr. Marwood kindly.  "Please, sir, does God really look like this?" asked Felix, holding out  the picture. "We hope
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The cake has reappeared on the table, unharmed.
+
+Last chunk: in the arch, with her eyes as  round and almost as large as the blue saucers on the tea-tray.  "What is it? oh, what is it?" cried Betty, all ready to run away if any  new terror appeared.  "Look! there! it's come back!" said Bab in an awe-stricken whisper,  pointing to the table. Betty did look, and her eyes opened even  wider,--as well they might,--for there, just where they first put it, was  the lost cake, unhurt, unchanged, except that the big B had coasted a  little further down the
+
+Next chunk:

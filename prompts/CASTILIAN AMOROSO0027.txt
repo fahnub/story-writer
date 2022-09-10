@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and Oswald are trying to sell their homemade lemonade, but Dicky is skeptical. They open the bottle to test it and the cork breaks. Oswald, Dicky, Alice, and Noel all taste sherry for the first time. Oswald and Dicky think it is burny, Alice thinks it is beastly, and Noel says it is the golden wine of the gods but he still has to put his handkerchief up to his mouth. H.O. spits it out in the fire. The passage describes a group of children tasting a new drink. One child says it needs sugar, and they all agree. The woman gets angry at the children and tells them she is going to write to their mother. Alice apologizes.
+
+Last chunk: the wine in a proper wine-glass out of the sideboard,  because she was a lady. And when she had tasted it she got up in a very  great hurry, and shook out her dress and snapped her bag shut, and said,  'You naughty, wicked children! What do you mean by playing a trick like  this? You ought to be ashamed of yourselves! I shall write to your Mamma  about it. You dreadful little girl!--you might have poisoned me. But  your Mamma...'  Then Alice said, 'I'm very sorry; the butcher liked it, only he
+
+Next chunk:

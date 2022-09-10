@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a discussion between two people, in which one describes a temptation that she resisted. The other person is worried about something, but does not say what it is. Miss Celia is worried that Ben might want to go back to his old life in the circus, but she doesn't think he would actually do it without telling them first.
+
+Last chunk: Have you talked with him about it?"  asked Miss Celia, looking as if she was hiding a trouble she did not  like to tell.  "Oh, yes, I poke him up now and then, but he gets peppery, so I let him  alone. May be he is longing for his old circus again. Shouldn't blame  him much if he was; it isn't very lively here, and he's used to  excitement, you know."  "I hope it isn't that.  Do you think he would slip away without telling  us, and go back to the old life again?  Don't believe he would. Ben
+
+Next chunk:

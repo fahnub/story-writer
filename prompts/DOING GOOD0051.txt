@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a woman's reaction to finding out that her ancestors had hidden a treasure, and the children's reaction to their mother's letter telling them they are going to their aunt's for Christmas. The Phoenix tells Robert that he must perform good deeds in order to be rewarded in the afterlife. Robert is disgusted by this and refuses to do so. The woman in the passage is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words. The children in the passage want to take their mother to see the Psammead, but they are worried about her reaction. An old woman, a young boy, and a lady went to visit a priest. The children have learned their lesson and will only use the carpet for good from now on. The Phoenix was just thinking about this.
+
+Last chunk: flattened his nose into a white button against the window-glass, andwhen he tried to tell his aunt she thought he had been dreaming. So thatwas all right.  'It is much the best thing we've done,' said Anthea, when they talkedit over at tea-time. 'In the future we'll only do kind actions with thecarpet.'  'Ahem!' said the Phoenix.  'I beg your pardon?' said Anthea.  'Oh, nothing,' said the bird. 'I was only thinking!'
+
+Next chunk:

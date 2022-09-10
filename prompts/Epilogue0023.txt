@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards. Little John takes three steps forward and hurls a stone mortar at the door, breaking it open. He then runs up the winding stone steps to find his master. The prioress ties a cord around Robin Hood's arm and bleeds him, but she does not bleed him from one of his veins.
+
+Last chunk: in, neither did he go far away; for he laid him down in a littleglade near by, where he could watch the place that Robin abided, likesome great, faithful dog turned away from the door where his master hasentered.  After the women had gotten Robin Hood to the room beneath the eaves, thePrioress sent all of the others away; then, taking a little cord, shetied it tightly about Robin's arm, as though she were about to bleedhim.And so she did bleed him, but the vein she opened was not one ofthose
+
+Next chunk:

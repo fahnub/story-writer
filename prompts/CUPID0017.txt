@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children's reactions to a boy wearing a crown and slippers in the garden, horse racing, and a school play. It also tells the story of a Chinese puppet named Chingery Chan who falls in love with a woman who ultimately kills him. The passage is about three girls who are discussing their favorite actresses in a theater company.
+
+Last chunk: considered the star of the company.  "I hope Bab will do something else, she is so funny. Wasn't her dress  elegant?" said Sally Folsum, burning to wear a long silk gown and a  feather in her hair.  "I like Betty best, she's so cunning, and she peeked out of the window  just as if she really saw somebody coming," answered Liddy Peckham,  privately resolving to tease mother for some pink roses before another  Sunday came.  Up went the curtain at last, and a voice announced "A Tragedy in Three
+
+Next chunk:

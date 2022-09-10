@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Characters in the passage react to the possibility that the world might end the next day. Some are excited, some are sad, and some are scared. The girls are upset about the possibility of a fire, and beg the Story Girl to stay with them and keep them cheered up. The Story Girl and Felicity are fighting, and the rest of the group is caught in the middle. The four boys in the passage are discussing the Judgment Day, which they read about in the paper. They're worried and decided to go ask their Uncle Roger about it. This shows how little they know and how unsettled they are about the whole concept. The Story Girl asks Uncle Roger if the Judgment Day is really coming, and he says that he's afraid it is.
+
+Last chunk: mare into the buggy. His copy of the  _Enterprise_ was sticking out of his pocket. He looked, as we saw with  sinking hearts, unusually grave and preoccupied. There was not a glimmer  of a smile about his face.  "You ask him," said Felicity, nudging the Story Girl.  "Uncle Roger," said the Story Girl, the golden notes of her voice  threaded with fear and appeal, "the _Enterprise_ says that to-morrow is  the Judgment Day? IS it? Do YOU think it is?"  "I'm afraid so," said Uncle Roger gravely.
+
+Next chunk:

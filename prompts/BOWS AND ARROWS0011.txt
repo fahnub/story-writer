@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the efforts of two young girls to become better archers. Thorny, who is recovering from an illness, quickly regains much of her skill but tires easily. Bab, who is enthusiastic about the contest, does not give up easily. Miss Celia says that bow and arrow shooting is not something to be ashamed of, since even Queen Victoria did it. Betty is impressed by this fact. Miss Celia suggests that Bab and Betty make bows and arrows for the boys to use, but the boys are not too enthusiastic about the idea. Betty is reluctant because she thinks it will be too much work, but Bab is determined to make her own. Bab and Betty are discussing whether or not they are too old to play with whalebone bows. Bab believes they are too old, but Betty does not.
+
+Last chunk: much tramping of boots and banging of doors,  Bab observed, in the young-ladyish tone she was apt to use when she  composed her active little mind and body to the feminine task of  needlework,--  "We used to make bows of whalebone when we were little girls, but we are  too old to play so now."  "I'd like to, but Bab won't, 'cause she 's most 'leven years old," said  honest Betty, placidly rubbing her needle in the "ruster," as she called  the family emery-bag.  "Grown people enjoy archery, as
+
+Next chunk:

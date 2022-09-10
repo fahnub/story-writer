@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Alice says that she could make two pounds a week by getting people to taste a wine called Castilian Amoroso, and then selling it to them. For every dozen bottles sold, she would get two shillings from the wine company.
+
+Last chunk: said Alice; 'I believe I could.' They all looked rather  down in the mouth, though, and Oswald asked how you were to make your  two pounds a week.  'Why, you've got to get people to taste that stuff in the bottle. It's  sherry--Castilian Amoroso its name is--and then you get them to buy it,  and then you write to the people and tell them the other people want the  wine, and then for every dozen you sell you get two shillings from the  wine people, so if you sell twenty dozen a week you get your
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to a prophecy that the world will end the next day. Some are dismissive, some are scared, and some go about their normal tasks. As night falls, the two women become increasingly scared and long for someone to tell them what to do. The passage also describes a stormy night and the arrival of a man who is running towards them. Cecily and Felicity are arguing, and Cecily is trying to get Felicity to forgive the Story Girl. Felicity says she has forgiven her, but she doesn't want to speak to her first. Cecily thinks this is wrong and uncomfortable, and wonders if they were ever like this before.
+
+Last chunk: fervent petitions that Felicity and the Story  Girl might make up.  "I don't know where you expect to go when you die, Felicity," she said  tearfully, "if you don't forgive people."  "I have forgiven her," was Felicity's answer, "but I am not going to  speak first for all that."  "It's very wrong, and, more than that, it's so uncomfortable,"  complained Cecily. "It spoils everything."  "Were they ever like this before?" I asked Cecily, as we talked the  matter over privately in Uncle Stephen's
+
+Next chunk:

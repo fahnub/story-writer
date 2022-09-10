@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A boy who was taken to fairyland by the King is allowed to see his mother again, and is given orders releasing the two little men from constantly guarding him. The boys and girls were playing and having fun. Thorny is going to meet Celia in New York and get married. Bab is staying with Ben while Thorny is gone. The passage describes Thorny's plans to travel with his new wife, and Betty and Ben's reactions. Thorny wants to go to various places in North America, and Betty is worried he won't come back. Ben is curious about whether Thorny will get along with the new master. Thorny likes George.
+
+Last chunk: We are men of our word, and off we go. Won't it  be fun?"  "But when will you come back again?" questioned Betty, looking anxious.  "Don't know.  Sister wants to come soon, but I'd rather have our  honeymoon somewhere else,--Niagara, Newfoundland, West Point, or the  Rocky Mountains," said Thorny, mentioning a few of the places he most  desired to see.  "Do you like him?" asked Ben, very naturally wondering if the new master  would approve of the young man-of-all-work.  "Don't I? George is
+
+Next chunk:

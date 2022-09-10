@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Cecily and Felicity discuss whether or not to ask their mother about something. Felicity goes to ask her and comes back with a negative response. The Story Girl and Felicity have a falling out, and Felix tries to make peace between them. The Story Girl tells Felix he's too young to understand, and Felicity says he should mind his own business. Felix declares it would serve Felicity right if the Story Girl never spoke to her again. Dan has no patience with either of them.
+
+Last chunk: said, had  always been his Aunt Jane's rule.  Sara Ray thought Felicity should speak first, because the Story Girl was  half an orphan.  Felix tried to make peace between them, and met the usual fate of all  peacemakers. The Story Girl loftily told him that he was too young  to understand, and Felicity said that fat boys should mind their own  business. After that, Felix declared it would serve Felicity right if  the Story Girl never spoke to her again.  Dan had no patience with either of the
+
+Next chunk:

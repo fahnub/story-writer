@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful.
+
+Last chunk: book. He was stout and short, and wore spectacles.  He covered his writing up when we went in--I didn't know why. He looked  rather cross, and we heard Jane or somebody being scolded outside by the  voice. I hope it wasn't for letting us in, but I have had doubts.  'Well,' said the clergyman, 'what is all this about?'  'You asked us to call,' Dora said, 'about your little Sunday school. We  are the Bastables of Lewisham Road.'  'Oh--ah, yes,' he said; 'and shall I expect you all to-morrow?'  He
+
+Next chunk:

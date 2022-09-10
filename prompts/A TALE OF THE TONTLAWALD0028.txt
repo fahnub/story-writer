@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a magical forest called the Tontlawald, where she meets a kind woman who offers to send her home. A rock opens and a table with food appears when a cock crows. More furniture and fruit appear when the cock crows again. When everybody is done, the old man strikes the rock and everything disappears.
+
+Last chunk: crowed and flapped his wings the rock opened and something came out of it. First a long table covered with dishes ready laid for the number of persons who would be seated round it, and this flew into the house all by itself.  When the cock crowed for the second time, a number of chairs appeared, and flew after the table; then wine, apples, and other fruit, all without trouble to anybody. After everybody had had enough, the old man struck the rock again. The golden cock crowed afresh, and back
+
+Next chunk:

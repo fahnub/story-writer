@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk.
+
+Last chunk: whitewashed schoolhouse in the valley. Felicity  and Cecily were void of offence towards all men. The Story Girl walked  uprightly like an incarnate flame in her crimson silk. Her pretty feet  were hidden in the tan-coloured, buttoned Paris boots which were the  secret envy of every school girl in Carlisle.  But Sara Ray was not happy. Her face was so melancholy that the Story  Girl lost patience with her. The Story Girl herself was not altogether  at ease. Probably her own conscience was
+
+Next chunk:

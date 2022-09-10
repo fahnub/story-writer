@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children are on their way to a schoolhouse for a lecture. One child, Sara Ray, is excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture.
+
+Last chunk: that have been angels so long that they've  had time to grow better and brighter and more beautiful than newer  angels," said the Story Girl, who probably made that explanation up on  the spur of the moment, just to pacify Peter.  "How long does it take for an angel to grow into an archangel?" pursued  Peter.  "Oh, I don't know. Millions of years likely. And even then I don't  suppose ALL the angels do. A good many of them must just stay plain  angels, I expect."  "I shall be satisfied just to
+
+Next chunk:

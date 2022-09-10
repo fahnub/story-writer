@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. Thorny takes turns to tell the few tragical facts which were not shrouded in the deepest mystery. The lame paw soon healed, the dingy color slowly yielded to many washings, the woolly coat began to knot up into little curls, a new collar, handsomely marked, made him a respectable. Sancho the dog is back to normal after his ordeal, but he is now suspicious of strangers and growls at anyone who looks shabby. Fortunately, he is still grateful to those who helped him.
+
+Last chunk: was out, nearly every lad was seen, like young  Norval, "With bended bow and quiver full of arrows," shooting away,  with a charming disregard of the safety of their fellow citizens.  Banished by the authorities to secluded spots, the members of the club  set up their targets and practised indefatigably, especially Ben, who  soon discovered that his early gymnastics had given him a sinewy arm and  a true eye; and, taking Sanch into partnership as picker-up, he got more  shots out of an hour than
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A mother and child discuss the child's recent discovery that the royal family in the cave are planning to marry their prince (Harelip) to a sun-woman (one of their own kind). The child is excited by this news, and the mother is dismissive, telling her that it won't make her any wiser. Curdie's mother tells him a strange story in order to help him think better of the princess.
+
+Last chunk: either!'  'Oh, mother, mother!' cried Curdie, bursting into tears; 'I don't  deserve that, surely!'  'But what I am going to tell you is very strange,' persisted his  mother; 'and if having heard it you were to say I must have been  dreaming, I don't know that I should have any right to be vexed with  you, though I know at least that I was not asleep.'  'Do tell me, mother.  Perhaps it will help me to think better of the  princess.'  'That's why I am tempted to tell you,' replied his mother.
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends plan to play a game of war on the Heath, a large park in London. This person thinks that fireworks are not as fun as they seem because you get tired of them quickly. They also think that setting them off in the fire is the only amusing way to use them, but that it is not allowed. This passage describes a group of children sitting around a fire, roasting chestnuts and listening to stories told by their uncle. He tells them that he enjoys seeing them play and have fun, and that he doesn't think it hurts their friend Albert to do the same.
+
+Last chunk: next-door had gone his uncle sat in the Guy Fawkes armchair  and took Alice on his knee, and we sat round the fire waiting till it  would be time to let off our fireworks. We roasted the chestnuts he  sent Dicky out for, and he told us stories till it was nearly seven. His  stories are first-rate--he does all the parts in different voices. At  last he said--  'Look here, young-uns. I like to see you play and enjoy yourselves, and  I don't think it hurts Albert to enjoy himself too.'  'I don't
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes the efforts of two young girls to become better archers. Thorny, who is recovering from an illness, quickly regains much of her skill but tires easily. Bab, who is enthusiastic about the contest, does not give up easily.
+
+Last chunk: those who had to run to and fro.  Thorny easily recovered much of his former skill, but his strength had  not fully returned, and he soon grew tired. Bab, on the contrary, threw  herself into the contest heart and soul, and tugged away at the new bow  Miss Celia gave her, for Ben's was too heavy. No other girls were  admitted, so the outsiders got up a club of their own, and called it  "The Victoria," the name being suggested by the magazine article, which  went the rounds as a general guide and
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4979 tokens (4479 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the Gold Rush and the impact that seeing a picture of God can have on someone's perception of Him. The children in the passage are left feeling upset and angry after seeing the picture, and Cecily is particularly affected by the story of Margaret, a woman whose heart died after her husband was killed. The passage tells the story of a boy named Felix who confronts Mr. Marwood about a picture he has of God. The rest of the kids stay behind to listen to the conversation. This passage describes the difficulties of travelling to California in the 1800s. Young men were often led by a "golden vision" to make the journey, but it was a risky undertaking with no guarantee of success. The captain of one such ship, the brig Fanny, is the focus of the story. His name was Alan Dunbar.
+
+Last chunk: six months. When you got there you had no way of  sending word home again except by the same plan. It might be over a year  before your people at home heard a word about you--and fancy what their  feelings would be!  "But these young men didn't think of these things; they were led on by a  golden vision. They made all their arrangements, and they chartered the  brig _Fanny_ to take them to California.  "The captain of the _Fanny_ is the hero of my story. His name was Alan  Dunbar, and he was
+
+Next chunk:

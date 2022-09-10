@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children are admiring a spread of small cakes, sandwiches, and other snacks. The dog is sniffing around and the children are smiling with anticipation. The boys were admiring a little Arab chief on a white horse, when they were interrupted by their dog, who was pawing at some letters. Thorny commented that it looked as if the dog knew what they meant.
+
+Last chunk: Bab seized the games, and Ben was lost in admiration of the  little Arab chief prancing on the white horse,--all saddled and  bridled and fit for the fight. Thorny poked about to find a certain  curious puzzle which he could put together without a mistake after long  study. Even Sancho found something to interest him; and, standing on his  hind-legs, thrust his head between the boys to paw at several red and  blue letters on square blocks.  "He looks as if he knew them," said Thorny, amused at
+
+Next chunk:

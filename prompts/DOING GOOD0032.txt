@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a woman's reaction to finding out that her ancestors had hidden a treasure, and the children's reaction to their mother's letter telling them they are going to their aunt's for Christmas. The Phoenix tells Robert that he must perform good deeds in order to be rewarded in the afterlife. Robert is disgusted by this and refuses to do so. The woman in the passage is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words.
+
+Last chunk: shavings, stood before them. Shehad an ugly grey dress and a black silk apron. Her eyes were smalland grey and not pretty, and the rims were red, as though she had beencrying.  She addressed the party in something that sounded like a foreignlanguage, and ended with something which they were sure was a question.Of course, no one could answer it.  'What does she say?' Robert asked, looking down into the hollow of hisjacket, where the Phoenix was nestling. But before the Phoenix couldanswer, the
+
+Next chunk:

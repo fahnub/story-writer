@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a group of children walking to a schoolhouse for a lecture. One child, Sara Ray, is excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture.
+
+Last chunk: garland of suns, but the lucent bridge, love-created, on  which the banished archangels crossed from star to star.  We had to go up Sara Ray's lane with her to her very door, for she was  afraid Peg Bowen would catch her if she went alone. Then the Story Girl  and I walked up the hill together. Peter and Felicity lagged behind.  Cecily and Dan and Felix were walking before us, hand in hand, singing a  hymn. Cecily had a very sweet voice, and I listened in delight. But the  Story Girl sighed.
+
+Next chunk:

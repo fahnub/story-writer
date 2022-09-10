@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker is discussing their experience with measles and how it made them feel. They express relief that they did not catch the measles from their friend. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical.
+
+Last chunk: is so conscienshus. I am glad my hair curls of itself, ain't you?  "We haven't seen Sara Ray since you got sick. She is awful lonesome,  and Judy says she cries nearly all the time but that is nothing new. I'm  awful sorry for Sara but I'm glad I'm not her. She is going to write you  a letter too. You'll let me see what she puts in it, won't you? You'd  better take some Mexican Tea now. It's a great blood purifyer.  "I am going to get a lovely dark blue dress for the winter. It is ever  so much
+
+Next chunk:

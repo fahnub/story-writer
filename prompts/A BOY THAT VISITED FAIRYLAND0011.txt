@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Two boys make peace with each other after a fight, but their peace doesn't last long. Elidyr grows tired of games and play and becomes homesick. The boy in the passage is faced with a choice: to stay and starve, or to go home and get two thrashings. He decides to go home, but on the way he meets two elves who give him a better option. The fairies led the boy back to his mother's cottage, where she was overjoyed to find that he had not been harmed. However, the boy then stumbles over the threshold and drops the ball he was carrying. It rolls across the floor and stops at his mother's feet.
+
+Last chunk: playmates.  These wee folks, with whom Elidyr played, were hardly as big as our babies, and certainly would not reach up to his mother's knee. To them, he looked like a giant, and he richly enjoyed the fun of having such little men, but with beards growing on their faces, look up to him.  They played with golden balls, and rode little horses, with silver saddles and bridles, but these pretty animals were no larger than small dogs, or grayhounds.  No meat was ever seen on the table, but always
+
+Next chunk:

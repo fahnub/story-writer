@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman unsuccessfully tries to win back her husband's affections and believes that only the return of her friend Sancho will be able to restore their broken friendship. This passage describes a young girl named Betty comforting a black dog who has been beaten and had his tail cut off. The dog cannot speak to tell his story, but the girl tries to comfort him with kind words. Thorny, another character in the passage, calls out to Betty from the gate. Miss Celia agrees to Thorny's suggestion of giving Ben a yellow-eyed dog in memoriam, hoping it will be a balm to his wounds.
+
+Last chunk: heads on them, yellow eyes, and all as natural as  could be. Those, now, would just suit him for his go-to-meeting white  shirts,--neat, appropriate, and in memoriam."  Miss Celia could not help laughing, it was such a boyish suggestion; but  she agreed to it, thinking Thorny knew best, and hoping the yellow-eyed  dogs would be as balm to Ben's wounds.  "Well, dear, you may give those, and Lita shall give the little whip  with a horse's foot for a handle, if it is not gone. I saw it at the
+
+Next chunk:

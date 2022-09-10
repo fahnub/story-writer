@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the idea that a good sermon must be different from a regular one in order to make an impression. The passage describes a failed sermon and the speaker's humiliation. The Story Girl tries to make the speaker feel better by saying it sounded like real sermons she has heard. Aunt Julia was a noted concert singer, and the rest of the family were also musical. That evening, they talked about their youthful days. The passage describes Uncle Roger, who was known for his imagination and self-forgetful earnestness.
+
+Last chunk: will show, the Story Girl's imagination.  "Can't I just see him at it now," said Uncle Roger, "leaning over  that old boulder, his cheeks red and his eyes burning with excitement,  banging the top of it as he had seen the ministers do in church. It  wasn't cushioned, however, and he always bruised his hands in his  self-forgetful earnestness. We thought him a regular wonder. We loved to  hear him preach, but we didn't like to hear him pray, because he  always insisted on praying for each of us
+
+Next chunk:

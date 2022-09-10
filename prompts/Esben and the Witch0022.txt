@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Esben is rejected by his eleven brothers and left behind when they go out into the world. A witch catches Esben stealing from her and punishes him by sending him back to the king's palace. The king has asked the brothers to get him a lamp that can shine over seven kingdoms, and has given them three days to do so. If they fail, they will be put to death. Esben is asked to get a dove with feathers of gold and silver timeabout for the king, and he says he will see what he can do. The king demands a lamp that no one has ever heard of, and the brothers are in despair. Along comes Esben, and they tell him the problem.
+
+Last chunk: said so, and they were surethat no such lamp existed, but their words were of no avail.  'The lamp!' said the king, 'or it will cost you your heads.'  The brothers were now in greater despair than ever. They did not knowwhat to do, for such a lamp no one had ever heard of. But just as thingslooked their worst along came Esben.  'Something wrong again?' said he. 'What's the matter with you now?'  'Oh, it's no use telling you,' said they. 'You can't help us, at anyrate.'  'Oh, you might at least
+
+Next chunk:

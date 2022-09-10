@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Esben is rejected by his eleven brothers and left behind when they go out into the world. A witch catches Esben stealing from her and punishes him by sending him back to the king's palace. The king has asked the brothers to get him a lamp that can shine over seven kingdoms, and has given them three days to do so. If they fail, they will be put to death. Esben is asked to get a dove with feathers of gold and silver timeabout for the king, and he says he will see what he can do. A man named Esben agrees to help a group of trolls who are being persecuted by a king, in exchange for a sack of malt. He uses a magic stick to fly across a stream, and then sets off to find the king.
+
+Last chunk: you before.'  In the end they told him how Sir Red had stirred up the king againstthem, so that he had ordered them to get for him a boar with bristles ofgold and silver time about.  'That's all right,' said Esben; 'give me a sack of malt, and it is notquite impossible that I may be able to help you.'  Esben got his sack of malt; then he took his little white stick, sethimself upon it, and said,     Fly quick, my little stick, Carry me across the stream.  Off went the stick with him, and very
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards. The news of Robin Hood's return to Sherwood Forest quickly spreads, and most of his old followers rejoined him. However, when King John hears about it, he is furious and vows to capture Robin Hood. Sir William Dale offers to help the king achieve his goal. Robin Hood dies at Kirklees Nunnery in Yorkshire. His yeomen are scattered, but they do not suffer greatly thereafter.
+
+Last chunk: shadows, had lifted up their voices in sorrow.  Thus died Robin Hood, at Kirklees Nunnery, in fair Yorkshire, with mercyin his heart toward those that had been his undoing; for thus he showedmercy for the erring and pity for the weak through all the time of hisliving.  His yeomen were scattered henceforth, but no great ill befell themthereafter, for a more merciful sheriff and one who knew them not sowell succeeding the one that had gone, and they being separated here andthere throughout the
+
+Next chunk:

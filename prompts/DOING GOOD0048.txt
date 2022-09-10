@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children who find a treasure that turns out to be a carpet. They meet a hospitable woman who begins to cry when she sees the Phoenix. Anthea comforts her and they are invited into the woman's house. The house is small and dirty, but the children are glad to be out of the dark and scary passage. They let the stone door close and find themselves in a room with a fireplace, portraits on the walls, and silver candlesticks on the mantelpiece. At the end of the table sits a little boy on a footstool. The passage tells the story of a group of people who find a treasure.
+
+Last chunk: these useful words; but, at any rate, he saw that if the ladywas mad she was not the only one, and he put on a big beavery hat, andgot a candle and matches and a spade, and they all went up the hill tothe wayside shrine of St John of Luz.  'Now,' said Robert, 'I will go first and show you where it is.'  So they prised the stone up with a corner of the spade, and Robert didgo first, and they all followed and found the golden treasure exactly asthey had left it. And every one was flushed with the
+
+Next chunk:

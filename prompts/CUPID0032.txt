@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben arrives on a pretty mare, and the admiring boys and girls are allowed to gather around him. He doesn't look much like the god of love now, but he's still praised by the kids. Ben is embarrassed after he is found wearing a crown and slippers in the garden and quickly makes an excuse to leave. Lita and Ben are enjoying a horse race together. Lita is having fun, and Ben is happy to be there with her. This is a sign of the progress Ben has made in the last three months.
+
+Last chunk: far away that it glittered like a fire-fly among the  dusky green. Lita enjoyed that race as heartily as she had done several  others of late, and caracoled about as if anxious to make up for her  lack of skill by speed and obedience. How much Ben liked it there is no  need to tell, yet it was a proof of the good which three months of a  quiet, useful life had done him, that even as he pranced gayly under the  boughs thick with the red and yellow apples almost ready to be gathered,  he found
+
+Next chunk:

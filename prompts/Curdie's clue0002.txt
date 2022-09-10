@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Curdie is able to fight off a group of goblins by reciting a new rhyme and making horrible grimaces. A woman rescues a man from certain death by throwing him into a hole in a cave wall and then piling rocks on top of him. The man in the passage was attacked by beasts, but he was able to fight them off with his pickaxe. The king is not pleased to see Curdie, and orders him to leave the kingdom. Curdie agrees, and the king gives him a guide. A man is attacked by a group of animals and sustains bites and scratches. The passage describes a goblin's journey home, during which he becomes lost and confused.
+
+Last chunk: goblins' country from the mine, continued  to serve as an anchor and hold fast the other end.  The goblins,  hearing no more noise in that quarter, had ceased to apprehend an  immediate invasion, and kept no watch.  One night, after dodging about and listening till he was nearly falling  asleep with weariness, he began to roll up his ball, for he had  resolved to go home to bed.  It was not long, however, before he began  to feel bewildered.  One after another he passed goblin houses, caves,
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl brings home a wood sprite as a companion. Her mother is initially skeptical but eventually warms up to the sprite and allows her to stay. The passage tells the story of a girl who was cursed by a wicked woman, but was later able to break the curse and live a happy life.
+
+Last chunk: feel any pain. And if the wicked woman does not come one day to a better mind your double will be able at last to give her the punishment she deserves.'  From this moment Elsa's life was that of the ordinary happy child, who has been rocked to sleep in her babyhood in a lovely golden cradle. She had no cares or troubles of any sort, and every day her tasks became easier, and the years that had gone before seemed more and more like a bad dream. But the happier she grew the deeper was her wonder
+
+Next chunk:

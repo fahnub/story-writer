@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed is able to break the curse and live happily. She is given a gold ring and a golden box by her benefactress, and she is very sad and cries all night. The next day, she sees a beautiful dress lying over the back of a chair, ready for her to put on.
+
+Last chunk: mother what Elsa had said, for a few days later she spoke to Elsa seriously:  'Do not worry yourself with useless wondering. You wish to know why we never eat of the thirteenth dish? That, dear child, is the dish of hidden blessings, and we cannot taste of it without bringing our happy life here to an end. And the world would be a great deal better if men, in their greed, did not seek to snatch every thing for themselves, instead of leaving something as a thankoffering to the giver of the
+
+Next chunk:

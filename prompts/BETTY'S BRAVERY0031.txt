@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman unsuccessfully tries to win back her husband's affections and believes that only the return of her friend Sancho will be able to restore their broken friendship. This passage describes a young girl named Betty comforting a black dog who has been beaten and had his tail cut off. The dog cannot speak to tell his story, but the girl tries to comfort him with kind words. Thorny, another character in the passage, calls out to Betty from the gate.
+
+Last chunk: enough to his  brave little protector. "Did they make you black and beat you, dear? Oh,  Sanch, where is your tail--your pretty tail?"  A plaintive growl and a pathetic wag was all the answer he could make to  these tender inquiries; for never would the story of his wrongs be  known, and never could the glory of his doggish beauty be restored.  Betty was trying to comfort him with pats and praises, when a new face  appeared at the gate, and Thorny's authoritative voice called out,--  "Betty
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4215 tokens (3715 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage is about a mother and her children. The mother is lighting the fire and tells her daughter to put water on to heat. The daughter complains about her brother and the mother tells her to wait until she tells their mother. The son says he is not going to be sick and the mother tells him to wait until she tells their mother. Siblings Felicity and Cecily argue about Cecily's habit of always taking Dan's side. Felicity thinks Cecily enables Dan's bad behavior, while Cecily insists she does not. The Story Girl tells her friends that she's going to see kings in Europe and asks if they can do whatever they want.
+
+Last chunk: long ago," said the Story Girl.  "They do seem dreadfully scarce now. There isn't one in this country  anywhere. Perhaps I'll get a glimpse of some when I go to Europe."  Well, the Story Girl was destined to stand before kings herself, and she  was to be one whom they delighted to honour. But we did not know  that, as we sat in the old orchard. We thought it quite sufficiently  marvellous that she should expect to have the chance of just seeing  them.  "Can a queen do exactly as she pleases?"
+
+Next chunk:

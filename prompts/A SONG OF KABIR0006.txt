@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Mother Wolf is glad she did not see Mowgli being driven to and fro like a jackal, as it is not her custom to allow her cubs to be treated in such a way.
+
+Last chunk: snuff of satisfaction as the wind brought her the smell  of the tiger-skin on the Council Rock.  "But for Akela and Gray Brother here," Mowgli said, at the end, "I could  have done nothing. Oh, mother, mother! if thou hadst seen the black  herd-bulls pour down the ravine, or hurry through the gates when the  Man-Pack flung stones at me!"  "I am glad I did not see that last," said Mother Wolf stiffly. "It is  not MY custom to suffer my cubs to be driven to and fro like jackals.  _I_ would have
+
+Next chunk:

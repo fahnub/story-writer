@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes three children's reactions to a fancy garden party, two dogs learning tricks, and a man's reaction to hearing a donkey bray. The party arrives at the tea table exactly on time, and they are all dressed up. They are pleased to see the pretty china set and take their seats. A child comes to Miss Celia's house and asks to see the peacocks, rabbits, and curly dog. Miss Celia starts to say something but the child cuts her off and continues making demands.
+
+Last chunk: sticks. Before Miss  Celia could speak, the stranger calmly announced his mission.  "I have come to see the peacocks."  "You shall presently--" began Miss Celia, but got no further, for the  child added, coming a step nearer,--  "And the wabbits."  "Yes, but first won't you--"  "And the curly dog," continued the small voice, as another step brought  the resolute young personage nearer.  "There he is."  A pause, a long look; then a new demand with the same solemn tone, the  same advance.  "I wish
+
+Next chunk:

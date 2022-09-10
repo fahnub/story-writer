@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage describes the close bond between a dog and his owner, Betty. The dog is always happy to see Betty and follows her commands. Miss Celia calls them "little Una and her lion," referring to a story about a girl and her pet lion. Miss Celia is regretful that she can't shoot anymore because she used to beat all the girls. Thorny, her fond brother, reassures her.
+
+Last chunk: that is safe, and we can see you as we sit  here. I wish I had two hands, so that I could paint you a fine, gay  target;" and Miss Celia looked regretfully at the injured arm, which as  yet was of little use.  "I wish you could shoot, too; you used to beat all the girls, and I was  proud of you," answered Thorny, with the air of a fond elder brother;  though, at the time he alluded to, he was about twelve, and hardly up to  his sister's shoulder.  "Thank you. I shall be happy to give my place to
+
+Next chunk:

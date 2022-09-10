@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes the final moments of Robin Hood's life. He is on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. He dies shortly afterwards.
+
+Last chunk: John raise him that he might look out once more uponthe woodlands; so the yeoman lifted him in his arms, as he bade, andRobin Hood's head lay on his friend's shoulder.Long he gazed, with awide, lingering look, while the other sat with bowed head, the hot tearsrolling one after another from his eyes, and dripping upon his bosom,for he felt that the time of parting was near at hand. Then, presently,Robin Hood bade him string his stout bow for him, and choose a smoothfair arrow from his quiver.This
+
+Next chunk:

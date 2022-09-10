@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed by a wicked woman is later able to break the curse and live a happy life. The girl's maid came in to comb her hair and bring her some new clothes, and she was most excited by the little pair of embroidered shoes. She didn't think about her old, rough clothes from the day before, which had mysteriously disappeared overnight.
+
+Last chunk: maid came in to comb out her long hair, and brought the finest linen for her use; but nothing gave Elsa so much joy as the little pair of embroidered shoes that she held in her hand, for the girl had hitherto been forced to run about barefoot by her cruel stepmother. In her excitement she never gave a thought to the rough clothes she had worn the day before, which had disappeared as if by magic during the night. Who could have taken them? Well, she was to know that by-and-by. But WE can guess
+
+Next chunk:

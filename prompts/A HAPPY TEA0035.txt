@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A child has an insatiable appetite and demands the last cake on the table. Miss Celia is amused and invites the child to help himself and sit down to eat. The child does as he is told and then proceeds to tell Miss Celia his name. The child is shy, so he makes his donkey, Sancho, the medium through which he communicates with others. The donkey is given a dish of sandwiches and behaves with great dignity. The child suddenly begins to talk to a dog, and the dog's owner is charmed by his tales. The child takes the cake and, when asked, says that his father is Mr. Barlow who lives in Springfield. The child also said that he has a mother who takes naps and that he goes for walks without leave. Miss Celia is relieved and everything is going well until something happens which interrupts the meal.
+
+Last chunk: eighteen months to educate a dog enough to  appear in public, and (as you say, Ben) the night was the best time to  give the lessons. Soon after this visit, the master died; and these  wonderful dogs were sold because their mistress did not know how to  exhibit them."  "Wouldn't I have liked to see 'em and find out how they were taught!  Sanch, you'll have to study up lively, for I'm not going to have you  beaten by French dogs," said Ben, shaking his finger so sternly that  Sancho grovelled at
+
+Next chunk:

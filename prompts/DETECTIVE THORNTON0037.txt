@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker and Miss Celia discuss Thorny's sneaking behavior and how it led to him catching Ben, who explains that he went and got a cat for Celia without asking because she said she wanted one. Miss Celia believes that Ben is innocent of any wrongdoing, and she is willing to vouch for him. Thorny is skeptical but Miss Celia is adamant. Thorny comforts Celia, who is worried about their son. Thorny plans to confront their son about something, but Celia is worried that he will make their son angry. The speaker's brother is upset about their dog Sanch, and the speaker wonders if there is something else bothering him that he's not telling. A "gentleman" speaks to Thorny in a condescending way, telling him that he is worried about something and asking for help.
+
+Last chunk: right.  "It would break my heart to have you go in that way, Ben.  Stay at least  till your innocence is proved, then no one can doubt what you say now."  "Don't see how it can be proved," answered Ben, appeased by her evident  desire to trust him.  "We'll try as well as we know how, and the first thing we will do is to  give that old secretary a good rummage from top to bottom. I've done it  once, but it is just possible that the bills may have slipped out of  sight. Come, now, I can't rest
+
+Next chunk:

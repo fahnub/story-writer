@@ -1,0 +1,53 @@
+Outline: A is for the carrion crow that sits on an oak tree and watches a tailor shape his cloak. The tailor takes a shot at the crow but misses and ends up shooting his own sow.
+
+B is for ba, ba, black sheep and the nursery rhyme that accompanies it.
+
+C is for cock and hen and the conversation they have with one another.
+
+D is for dickery, dickery, dock and the mouse that runs up the clock.
+
+E is for Elizabeth, Elspeth, Betsy, and Bess who find a bird's nest with five eggs in it. They each take one and leave four behind.
+
+F is for a father and daughter who have come to confess.
+
+G is for gang and the owl's yell.
+
+H is for hush-a-bye, baby, on the tree-top and the lullaby that goes along with it.
+
+I is for a little husband that one puts in a pint pot and the rhyme that goes along with it.
+
+J is for Jack Sprat who ate no fat, and his wife who ate no lean.
+
+K is for King Cole and his three fiddlers.
+
+L is for Little Bo-peep and her lost sheep.
+
+M is for Mistress Mary, quite contrary, and her garden full of silver bells and cockle shells.
+
+N is for needles and pins and the saying that goes along with it.
+
+O is for a little bird that one tries to catch.
+
+P is for pease-pudding, hot or cold.
+
+Q is for a queen eating bread and honey in the parlour.
+
+R is for ride a-cock horse to Banbury Cross and the nursery rhyme that goes along with it.
+
+S is for Simple Simon and the pieman he meets at the fair.
+
+T is for Taffy, the Welshman and thief, and the rhyme that goes along with his story.
+
+U is for up hill and down dale and the nursery rhyme that goes along with it.
+
+V is for Valentine and the rhyme that goes along with it.
+
+W is for a pretty maid and the suitor who tries to win her hand in marriage.
+
+X is for cross X patch and the nursery rhyme that goes along with it
+
+Story so far: This passage contains two nursery rhymes. The first is about a girl named Mary who grows a garden with silver bells and cockle shells. The second is about a man who gets married and has lots of trouble. A man flew far away. A woman was eating in a parlor. Simple Simon met a man with pies. Taffy was Welsh.
+
+Last chunk: tail,   And far away he flew.    P    Pease-pudding hot, pease-pudding cold;  Pease-pudding in the pot, nine days old.    Q    Queen was in the parlour, eating bread and honey.    R    Ride a-cock horse to Banbury Cross,  To see an old woman get up on her horse;  Rings on her fingers and bells at her toes,  And so she makes music wherever she goes.    S    Simple Simon met a pieman,   Going to the fair;  Says Simple Simon to the pieman,   "Let me taste your ware!"    T    Taffy was a Welshman,
+
+Next chunk:

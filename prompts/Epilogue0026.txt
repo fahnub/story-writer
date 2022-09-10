@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a dying man's final request, that his resting place be kept green and undisturbed. He then sits up and, with his last bit of strength, shoots an arrow out the window. He sinks back into Little John's arms, and dies. Little John is worried about his master and runs to the nunnery for help. However, the door is too strong for him to get through and the people inside refuse to let him in. Little John then finds a heavy stone mortar and tries to use it to break down the door.
+
+Last chunk: where he lay in the glade, and, with a heart all sick with dread, hecame running and leaping toward the nunnery.Loudly he knocked at thedoor, and in a loud voice shouted for them to let him in, but the doorwas of massive oak, strongly barred, and studded with spikes, so theyfelt safe, and bade Little John begone.  Then Little John's heart was mad with grief and fear for his master'slife. Wildly he looked about him, and his sight fell upon a heavy stonemortar, such as three men could not lift
+
+Next chunk:

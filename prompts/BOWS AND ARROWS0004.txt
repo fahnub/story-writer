@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage describes the close bond between a dog and his owner, Betty. The dog is always happy to see Betty and follows her commands. Miss Celia calls them "little Una and her lion," referring to a story about a girl and her pet lion.
+
+Last chunk: he  never seemed to forget that he owed his life to Betty,--running to  meet her whenever she appeared, instantly obeying her commands, and  suffering no one to molest her when he walked watchfully beside her,  with her hand upon his neck, as they had walked out of the almost fatal  backyard together, faithful friends for ever.  Miss Celia called them little Una and her lion, and read the pretty  story to the children when they wondered what she meant. Ben, with great  pains, taught the dog to
+
+Next chunk:

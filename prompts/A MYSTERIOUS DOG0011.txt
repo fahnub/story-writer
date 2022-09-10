@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's preparations for a tea party, including mixing water with the milk to stretch it. The child is tired from all her preparations, but is contentedly looking forward to the party. The children in the passage are afraid of the dog, but it eventually goes away. The Kenwigses are a row of dolls that Bab is maternal pride of. Betty sets down the basket to run to the suspended darling. The cake can be cooling while they fix the children.
+
+Last chunk: of  the dear little Kenwigses.  "Don't they look sweet?" cried Bab, gazing with maternal pride upon the  left-hand row of dolls, who might appropriately have sung in chorus, "We  are seven."  "Very nice; but my Belinda beats them all. I do think she is the  splendidest child that ever was!" And Betty set down the basket to run  and embrace the suspended darling, just then kicking up her heels with  joyful abandon.  "The cake can be cooling while we fix the children. It does smell  perfectly
+
+Next chunk:

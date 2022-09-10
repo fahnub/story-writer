@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friends are playing hide and seek when they see a light in the window of the house next door. They decide to watch the house that night to see if they see the light again. Noel speculates that the people next door are very grand and won't know them, which could be why the burglars chose their house.
+
+Last chunk: home, and Eliza had gone to bed, so I couldn't do anything.  Only I thought perhaps I would tell the rest of you.'  'Why didn't you tell us this morning?' Noel asked. And Alice explained  that she did not want to get any one into trouble, even burglars. 'But  we might watch to-night,' she said, 'and see if we see the light again.'  'They might have been burglars,' Noel said. He was sucking the last bit  of his macaroni. 'You know the people next door are very grand. They  won't know us--and they
+
+Next chunk:

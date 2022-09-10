@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams.
+
+Last chunk: this so-called Nineteenth Century Science is but too little  considered in the nurseries of the rich and proud. But we are not like  that.  It is not generally known that if you put bits of camphor in luke-warm  water it will move about. If you drop sweet oil in, the camphor will  dart away and then stop moving. But don't drop any till you are tired  of it, because the camphor won't any more afterwards. Much amusement and  instruction is lost by not knowing things like this.  If you put a
+
+Next chunk:

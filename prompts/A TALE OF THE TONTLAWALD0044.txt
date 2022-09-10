@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed is able to break the curse and live happily. She is given a gold ring and a golden box by her benefactress, and she is very sad and cries all night. The next day, she sees a beautiful dress lying over the back of a chair, ready for her to put on. The passage describes a group of women who are attending a wedding. The lady of the house is sitting at the head of the table in a golden chair. The girl in the passage shows Elsa a box containing a scrap of a cloak, a mussel shell, and two fish scales. The girl then shakes two drops of water from the cloak onto the ground, and the garden and lawn vanish. The passage describes a woman's relief at being found by the king's son after being lost in the woods. The son says he has been dreaming of finding her for months and is happy to have finally found her.
+
+Last chunk: befallen her, and how she got there, lay behind her like a bad dream.  As she was wondering what she should do next the king's son came riding by, and, seeing Elsa, sprang from his horse, and took her by the hand, sawing, 'Ah! it was a happy chance that brought me here this morning. Every night, for half a year, have I dreamed, dear lady, that I should one day find you in this wood. And although I have passed through it hundreds of times in vain, I have never given up hope. To-day I was going in
+
+Next chunk:

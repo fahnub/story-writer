@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4125 tokens (3625 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses the idea that a good sermon must be different from a regular one in order to make an impression. The passage describes a failed sermon and the speaker's humiliation. The Story Girl tries to make the speaker feel better by saying it sounded like real sermons she has heard.
+
+Last chunk: consisted  solely of singing and reading. We had agreed to omit prayer. Neither  Felix, Peter nor I felt equal to praying in public. But we took up  a collection. The proceeds were to go to missions. Dan passed the  plate--Felicity's rosebud plate--looking as preternaturally solemn as  Elder Frewen himself. Every one put a cent on it.  Well, I preached my sermon. And it fell horribly flat. I realized that,  before I was half way through it. I think I preached it very well; and  never a thump did
+
+Next chunk:

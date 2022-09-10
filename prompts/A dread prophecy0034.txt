@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to the news that the world is ending. Peter is despairing, Cecily is practical, and Sara Ray is regretful. The passage describes the departure of Sara, a tearful girl, from the company of her friends. Her friends are relieved to see her go, as they believe she was not a pleasant companion. They wonder where they will all be tomorrow night. Sara is worried that the paper might have gotten the time wrong for the event tomorrow, and Cecily tries to comfort her. Cecily is angry with Felicity for suggesting that the vase she received from her Aunt Olivia will be of no use to her. The passage is about the speaker's fear of being laughed at if they found out that the Judgment Day prophesied in the newspaper was not true.
+
+Last chunk: Day for Prince Edward  Island it will be for Europe, too."  "I wish we could just KNOW whether what the paper says is true or not,"  said Felix desperately. "It seems to me I could brace up if I just  KNEW."  But to whom could we appeal? Uncle Alec was away and would not be back  until late that night. Neither Aunt Janet nor Uncle Roger were people to  whom we cared to apply in such a crisis. We were afraid of the Judgment  Day; but we were almost equally afraid of being laughed at. How about
+
+Next chunk:

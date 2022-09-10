@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben arrives on a pretty mare, and the admiring boys and girls are allowed to gather around him. He doesn't look much like the god of love now, but he's still praised by the kids.
+
+Last chunk: like, now; Lita's had her run and  will be as quiet as a lamb after it. Pull up, Ben, and come in; sister  says you'll get cold," shouted Thorny, as the rider came cantering round  after a leap over the lodge gate and back again.  So Ben pulled up, and the admiring boys and girls were allowed to gather  about him, loud in their praises as they examined the pretty mare and  the mythological character who lay easily on her back.  He looked very little like the god of love now; for he had lost one
+
+Next chunk:

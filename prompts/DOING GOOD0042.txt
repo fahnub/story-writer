@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A woman is asked how she would feel if she found a lot of money, and she says that it would be nice but that it is just a legend. The legend is that one of her ancestors hid a treasure a long time ago.
+
+Last chunk: 'How would you feel if you found a lot of money--hundreds and thousandsof gold pieces?' asked Cyril.  The lady smiled sadly.  'Ah! one has already recounted to you the legend?' she said. 'It istrue that one says that it is long time; oh! but long time, one of ourancestors has hid a treasure--of gold, and of gold, and of gold--enoughto enrich my little Henri for the life. But all that, my children, it isbut the accounts of fays--'  'She means fairy stories,' whispered the Phoenix to Robert. 'Tell
+
+Next chunk:

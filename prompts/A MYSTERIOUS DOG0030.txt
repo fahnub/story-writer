@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A child is preparing for a tea party and is tired from all her preparations, but is contentedly looking forward to the party. The children see a raccoon in their orchard and chase it. They wonder where it came from and hope it got hurt if it ate their cake.
+
+Last chunk: as he appeared. With one impulse, the children  ran to see what became of him, and, after a brisk scamper through the  orchard, saw the tasselled tail disappear under the fence at the far  end.  "Where do you s'pose he came from?" asked Betty, stopping to rest on a  big stone.  "I'd like to know where he's gone, too, and give him a good beating, old  thief!" scolded Bab, remembering their wrongs.  "Oh, dear, yes! I hope the cake burnt him dreadfully if he did eat it,"  groaned Betty, sadly
+
+Next chunk:

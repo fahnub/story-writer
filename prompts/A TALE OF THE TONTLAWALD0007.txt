@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a dry land after she dips a cloth in the water. She lives by the sea with a lady and her maid. One day, the lady summons Elsa into her room and Elsa fears something bad is going to happen. This passage is from a fairy tale called "Ehstnische Marchen," and it tells the story of the Tontlawald, a magical forest that was never heard of before. The children in the passage are picking strawberries when they are suddenly warned that they are in the Tontlawald, a dangerous place. They all flee except for Elsa, who is too far away and instead finds a bed of strawberries.
+
+Last chunk: Tontlawald, where the finest strawberries grew, making the grass red with their colour. The children flung themselves down on the ground, and, after eating as many as they wanted, began to pile up their baskets, when suddenly a cry arose from one of the older boys:  'Run, run as fast as you can! We are in the Tontlawald!'  Quicker than lightning they sprang to their feet, and rushed madly away, all except Elsa, who had strayed farther than the rest, and had found a bed of the finest strawberries
+
+Next chunk:

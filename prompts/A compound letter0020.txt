@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. Cecily is happy that Peter is getting better, and she has been praying for him every night. The girls are talking about how much they want new clothes, and how jealous they are of each other. Kitt Mar is mentioned as a girl who was recently sick with measles. The passage ends with the narrator's thoughts on missions, and how they hope the measles never strike again.
+
+Last chunk: better! Those  days when we thought you wouldn't were the hardest of my whole life. It  seemed too dreadful to be true that perhaps you would die. And then when  we heard you were going to get better that seemed too good to be true.  Oh, Peter, hurry up and get well, for we are having such good times and  we miss you so much. I have coaxed Uncle Alec not to burn his potato  stalks till you are well, because I remember how you always liked to see  the potato stalks burn. Uncle Alec consented,
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl brings home a wood sprite as a companion. Her mother is initially skeptical but eventually warms up to the sprite and allows her to stay. The passage tells the story of a girl who was cursed by a wicked woman, but was later able to break the curse and live a happy life. A large golden cock appears every meal time in response to the old man striking a granite block three times with a small silver staff.
+
+Last chunk: at everything around her, and the more firmly she was persuaded that some great unknown power must be at the bottom of it all.  In the courtyard stood a huge granite block about twenty steps from the house, and when meal times came round the old man with the long beard went to the block, drew out a small silver staff, and struck the stone with it three times, so that the sound could be heard a long way off. At the third blow, out sprang a large golden cock, and stood upon the stone. Whenever he
+
+Next chunk:

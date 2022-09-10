@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. Elidyr visits his mother in secret, always keeping himself invisible. He tells her about the fun he has in fairyland, including playing with heavy yellow balls.
+
+Last chunk: let the lad go alone, and when he would, for he always kept his word.  Many times did Elidyr visit his mother. By one road, or another, he made his way, keeping himself invisible all the time, until he got inside her cottage. He ran off, when anyone called in to pay a visit, or when he thought his daddy, or one of the monks was coming. He never saw any of these men.  One day, in telling his mother of the fun and good times he had in fairyland, he spoke of the heavy yellow balls, with which he
+
+Next chunk:

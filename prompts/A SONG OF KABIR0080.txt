@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Mother Wolf is glad she did not see Mowgli being driven to and fro like a jackal, as it is not her custom to allow her cubs to be treated in such a way. The speaker in the passage expresses their hatred for flowers, and desires for them to be killed. The youngest of Hathi's three sons expresses their disinterest in the speaker's desire, asking what use white bones would be to them. Mowgli angrily responds that they are not a cub of a wolf to play with a raw head, and that they have killed Shere Khan. Mowgli and Mother Wolf are going to kill the two men who killed Mowgli's father. Mowgli tells the other wolves to tell the whole jungle that these two men are safe. Mowgli tells a story about an elephant who was scarred by a trap.
+
+Last chunk: Mowgli hardly lifted his head as Hathi gave him "Good hunting." He kept  him swinging and rocking, and shifting from one foot to another, for  a long time before he spoke; and when he opened his mouth it was to  Bagheera, not to the elephants.  "I will tell a tale that was told to me by the hunter ye hunted to-day,"  said Mowgli. "It concerns an elephant, old and wise, who fell into a  trap, and the sharpened stake in the pit scarred him from a little above  his heel to the crest of his
+
+Next chunk:

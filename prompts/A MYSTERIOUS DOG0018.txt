@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The cake has reappeared on the table, unharmed. Betty is excited to explore the attic and find new stories, while Bab is more interested in the old spinning wheel and pictures.
+
+Last chunk: indeed! Ma says there's lots of books in one room, and I can look  at 'em while she goes round. May be I'll have time to read some, and  then I can tell you," answered Betty, who dearly loved stories, and  seldom got any new ones.  "I'd rather see the old spinning-wheel up garret, and the big pictures,  and the queer clothes in the blue chest. It makes me mad to have them  all shut up there, when we might have such fun with them. I'd just like  to bang that old door down!" And Bab twisted round
+
+Next chunk:

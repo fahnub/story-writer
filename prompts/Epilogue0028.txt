@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5284 tokens (4784 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the final moments of Robin Hood's life. He is mortally wounded and on his deathbed, and Little John is taking him to see his cousin, the prioress of the nunnery near Kirklees, in Yorkshire. Robin Hood asks Little John to mark where his arrow lands so that he can be buried there. The prioress betrays Robin Hood and cuts one of his veins, causing him to bleed out. Little John is deeply saddened by the loss of his friend, but he does not show it to the others. He simply covers Robin's body and leaves the room silently. Little John breaks into the cell to find his master, Robin Hood, barely alive. He cries out in grief and pity, then picks him up and lays him on the bed.
+
+Last chunk: it, he burst thelocks as though they were made of brittle ice.  There he saw his own dear master leaning against the gray stone wall,his face all white and drawn, and his head swaying to and fro withweakness.Then, with a great, wild cry of love and grief and pity,Little John leaped forward and caught Robin Hood in his arms. Up helifted him as a mother lifts her child, and carrying him to the bed,laid him tenderly thereon.  And now the Prioress came in hastily, for she was frightened at what
+
+Next chunk:

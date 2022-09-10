@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: In the passage, Thorny plans to travel with his new wife and Ben is curious about whether Thorny will get along with the new master. Thorny likes George. Sam and Ben argue over who will have to go into the bog to retrieve a lost ball. A woman is delighted to receive a letter, and says that her fiancé has arrived and they will be getting married soon. Betty, upon hearing this news, asks if she is going to be married. The boys and girls take turns barricading the door and then tearing down the other's barricade.
+
+Last chunk: of St. David had a school where lads were taught Latin and good manners. One of their pupils was a boy named Elidyr. He was such a poor scholar and he so hated books and loved play, that in his case spankings and whippings were almost of daily occurrence. Still he made no improvement. He was in the habit also of playing truant, or what one of the monks called "traveling to Bagdad." One of the consequences was that certain soft parts of his body--apparently provided by nature for this express
+
+Next chunk:

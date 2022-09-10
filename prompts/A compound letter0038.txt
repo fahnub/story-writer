@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a person's experience with measles, and how they believe they became luny (crazy) as a result of the disease. They express relief that they did not catch the measles from Peg Bowen, who they believe may have bewitched them.
+
+Last chunk: die because I  didn't know I was going to die till I got better. Mother says I was luny  most of the time after they struck in. It was just because they struck  in I was luny. I ain't luny naturally, Felicity. I will do what you  asked in your postscript, Sara, although it will be hard.  "I'm glad Peg Bowen didn't catch you, Dan. Maybe she bewitched me that  night we were at her place, and that is why the measles struck in. I'm  awful glad Mr. King is going to leave the potato stalks until I get
+
+Next chunk:

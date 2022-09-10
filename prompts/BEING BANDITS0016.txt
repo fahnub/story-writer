@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are playing a game of war and preparing to capture an unwary traveller. They have chains to hold the captive and plan to ransom them back to their friends. The passage describes Albert's expectations for being ransomed, and the speaker's doubts about whether Albert is actually worth the ransom money. Dicky and Noel capture a cold, coughing boy and take him into the house against his will. The passage is about a family spending their last bit of money on presents for the father's birthday. The passage describes a situation where a child is captured by bandits, but is then rescued and brought to safety. The child's friends are relieved and happy, and one of them gives the child a dried fruit as a snack.
+
+Last chunk: not done  by bandits.  Directly we got him safe into the nursery, H. O. began to jump about and  say, 'Now you're a prisoner really and truly!'  And Albert-next-door began to cry. He always does. I wonder he didn't  begin long before--but Alice fetched him one of the dried fruits we  gave Father for his birthday. It was a green walnut. I have noticed  the walnuts and the plums always get left till the last in the box; the  apricots go first, and then the figs and pears; and the cherries, if
+
+Next chunk:

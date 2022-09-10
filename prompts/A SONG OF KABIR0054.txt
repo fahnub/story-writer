@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are discussing how they believe Buldeo will be able to find and kill the Devil-child (Mowgli). They are worried about the Wolf-demon, which they believe could appear at any time. The Eaters of Flesh are attacking a village, and the deer, pig, and nilghai are milling around in a circle. The men in the village are sitting on platforms in the crops, waiting to defend themselves. The speaker is saying that the men in the village are foolish to leave Messua unguarded while they listen to Buldeo's stories. Mowgli helps Messua escape the village, and tells her not to be afraid. He says the jungle is dark and terrible, but she will be safe if she follows the trail to Khanhiwara.
+
+Last chunk: village will follow us in an hour."  "I say they will NOT follow till I choose; but a horse is well thought  of, for Messua is tired." Her husband stood up and knotted the last  of the rupees into his waist-cloth. Mowgli helped Messua through the  window, and the cool night air revived her, but the Jungle in the  starlight looked very dark and terrible.  "Ye know the trail to Khanhiwara?" Mowgli whispered.  They nodded.  "Good. Remember, now, not to be afraid. And there is no need to go
+
+Next chunk:

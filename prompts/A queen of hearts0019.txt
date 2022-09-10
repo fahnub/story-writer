@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4200 tokens (3700 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the speaker's thoughts on her relatives, the family's history with an apple orchard, and the beauty of a morning landscape. The speaker does not understand why everything is settled for people before they are born, but feels fortunate to have been born into the same family. The passage also describes a scene in which the speaker and a companion notice a girl standing at the entrance to a lane leading to Uncle Roger's house. The passage describes a man who is an old bachelor and who Aunt Olivia says will never get married because he is looking for perfection. The speaker and her companions are sitting on the roots of spruce trees, and a big gray cat comes over and makes friends with them.
+
+Last chunk: something. He is an old bachelor."  "Doesn't he ever mean to get married?" asked Felix.  "I don't know. Aunt Olivia wishes he would, because she's tired keeping  house for him, and she wants to go to Aunt Julia in California. But she  says he'll never get married, because he is looking for perfection, and  when he finds her she won't have HIM."  By this time we were all sitting down on the gnarled roots of the  spruces, and the big gray cat came over and made friends with us. He was  a lordly
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The Indians come down the river and burn the houses, kill the men, and take the women and children away. Thorny takes turns to tell the few tragical facts which were not shrouded in the deepest mystery. The lame paw soon healed, the dingy color slowly yielded to many washings, the woolly coat began to knot up into little curls, a new collar, handsomely marked, made him a respectable.
+
+Last chunk: can't; never had a decent bow in my life.  The little gilt one I used  to wave round when I was a Coopid wasn't worth a cent to go," answered  Ben, feeling as if that painted "prodigy" must have been a very distant  connection of the respectable young person now walking off arm in arm  with the lord of the manor.  "Practice is all you want.  I used to be a capital shot, but I don't  believe I could hit any thing but a barn-door now," answered Thorny,  encouragingly.  As the boys vanished, with
+
+Next chunk:

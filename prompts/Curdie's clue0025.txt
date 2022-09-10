@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Curdie is confronted by the king after he enters a palace through a hole in the mountain. Curdie explains that he is a miner and found his pickaxe lying on the ground. The king allows Curdie to stay in the palace. The queen, king, and minister laugh at Harelip for considering an operation to fix her harelip. The king summoned goblins with a shout, and they gathered around him in a way that made him retreat. Curdie was attacked by a goblin woman, who he managed to hurt by stamping on her foot with his own. However, she quickly retaliated, causing him great pain. The only way he could have defeated her would have been to attack her shoes with his pickaxe. Curdie was surrounded by a group of strange creatures, but he was able to fight them off with his axe. Curdie fights a goblin and wins by stamping on its feet.
+
+Last chunk: goblin nearest him.  Hard as the heads of all  goblins are, he thought he must feel that.  And so he did, no doubt;  but he only gave a horrible cry, and sprung at Curdie's throat.  Curdie, however, drew back in time, and just at that critical moment  remembered the vulnerable part of the goblin body.  He made a sudden  rush at the king and stamped with all his might on His Majesty's feet.  The king gave a most unkingly howl and almost fell into the fire.  Curdie then rushed into the crowd,
+
+Next chunk:

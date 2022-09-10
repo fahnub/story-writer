@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children who find a treasure that turns out to be a carpet. They meet a hospitable woman who begins to cry when she sees the Phoenix. Anthea comforts her and they are invited into the woman's house. The house is small and dirty, but the children are glad to be out of the dark and scary passage. They let the stone door close and find themselves in a room with a fireplace, portraits on the walls, and silver candlesticks on the mantelpiece. At the end of the table sits a little boy on a footstool.
+
+Last chunk: on the hearth--neatlittle logs laid on brass fire-dogs. Some portraits of powdered ladiesand gentlemen hung in oval frames on the pale walls. There were silvercandlesticks on the mantelpiece, and there were chairs and a table, veryslim and polite, with slender legs. The room was extremely bare, butwith a bright foreign bareness that was very cheerful, in an odd way ofits own. At the end of the polished table a very un-English little boysat on a footstool in a high-backed, uncomfortable-looking
+
+Next chunk:

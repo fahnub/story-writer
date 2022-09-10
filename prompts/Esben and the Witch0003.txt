@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Esben is rejected by his eleven brothers and left behind when they go out into the world. A witch catches Esben stealing from her and punishes him by sending him back to the king's palace. The king has asked the brothers to get him a lamp that can shine over seven kingdoms, and has given them three days to do so. If they fail, they will be put to death. Esben is asked to get a dove with feathers of gold and silver timeabout for the king, and he says he will see what he can do.
+
+Last chunk: him.  After the eleven were gone Esben went to his father and said, 'Father,give me also a horse and money; I should also like to see round about mein the world.'  'You are a little fool,' said his father. 'If I could have let you go,and kept your eleven brothers at home, it would have been better for mein my old age.'  'Well, you will soon be rid of me at any rate,' said Esben.  As he could get no other horse, he went into the forest, broke off abranch, stripped the bark off it, so that it
+
+Next chunk:

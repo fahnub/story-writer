@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a woman's reaction to finding out that her ancestors had hidden a treasure, and the children's reaction to their mother's letter telling them they are going to their aunt's for Christmas. The Phoenix tells Robert that he must perform good deeds in order to be rewarded in the afterlife. Robert is disgusted by this and refuses to do so.
+
+Last chunk: the Phoenix.  'It's not that,' said the Phoenix; 'but--well--what did you wish--?'  'Oh! I see what it means,' said Robert, with deep disgust; 'it's likethe end of a fairy story in a Sunday magazine. How perfectly beastly!'  'You mean it means we can do kind and good actions where we are? I see.I suppose it wants us to carry coals for the cook or make clothesfor the bare heathens. Well, I simply won't. And the last day andeverything. Look here!' Cyril spoke loudly and firmly. 'We want to
+
+Next chunk:

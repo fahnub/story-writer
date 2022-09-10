@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are discussing how to kill the Devil-child (Mowgli), but Mowgli insists that he is not ready yet. Buldeo killed one of his own buffaloes after mistaking it for the Devil-child, and the village plans to torture and burn Messua and her husband for being the child's parents. In the end, the animals all agree to go ahead with the plan to destroy the fields of humans. The speaker asks if the people who ran away after seeing him might have been the man and woman he is looking for. He is told they will not be put into the Red Flower, and the speaker is invited to go hunting with the speaker's friends. The news of Buldeo's ability to speak truth has reached Hathi. Hathi is pleased with Buldeo's progress, but believes that the next time he does it, he will do even better.
+
+Last chunk: the news of it came to  thee?" said Hathi.  "A man told me, and now I see even Buldeo can speak truth. It was well  done, Hathi with the white mark; but the second time it shall be done  better, for the reason that there is a man to direct. Thou knowest the  village of the Man-Pack that cast me out? They are idle, senseless, and  cruel; they play with their mouths, and they do not kill the weaker for  food, but for sport. When they are full-fed they would throw their own  breed into the Red
+
+Next chunk:

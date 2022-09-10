@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A woman is asked how she would feel if she found a lot of money, and she says that it would be nice but that it is just a legend. The legend is that one of her ancestors hid a treasure a long time ago. The children in the passage found a treasure and told the lady about it. The lady was very happy and the children helped her to get the treasure. The lady closes the door and says she hasn't heard an English voice in a long time. The boys are embarrassed because the floors are so clean. There is a small, bright fire in the room.
+
+Last chunk: days of my life,' said the lady, as she shut thedoor, 'did pass themselves in England. And since long time I have notheard an English voice to repeal me the past.'  This warm welcome embarrassed every one, but most the boys, for thefloor of the hall was of such very clean red and white tiles, andthe floor of the sitting-room so very shiny--like a blacklooking-glass--that each felt as though he had on far more boots thanusual, and far noisier.  There was a wood fire, very small and very bright,
+
+Next chunk:

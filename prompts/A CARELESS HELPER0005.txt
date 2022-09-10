@@ -1,0 +1,7 @@
+Outline: Benny Badger and Mr. Coyote are working together to try to catch a ground squirrel. They take turns digging tunnels and watching the back door of the squirrel's nest, but Mr. Coyote is not very successful at keeping watch. Benny gets frustrated and starts to dig all the tunnels himself while Mr. Coyote watches, but Mr. Coyote soon gets bored and falls asleep. Benny is angry and decides that he will have to find a new helper.
+
+Story so far:  Mr. Coyote objects to Benny's plan and says he can't help because he has a sore paw.
+
+Last chunk: number of objections to that plan. Hesaid, with something quite like a sneer, that he had much sharper eyesthan any member of the Badger family that ever lived, and that he wasquicker than a hundred Badgers put together. And as if he hadn't givenreasons enough for disagreeing with Benny, he declared that he simplycouldn't do any digging that night because he had a sore paw.  To prove his statement, Mr. Coyote held up one of his paws for Benny tosee.  Benny looked at it. He couldn't discover that
+
+Next chunk:

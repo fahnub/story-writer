@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl brings home a wood sprite as a companion. Her mother is initially skeptical but eventually warms up to the sprite and allows her to stay.
+
+Last chunk: wood,' replied her daughter, 'and brought her back with me for a companion. You will let her stay?'  The mother laughed, but said nothing, only she looked Elsa up and down sharply. Then she told the girl to come near, and stroked her cheeks and spoke kindly to her, asking if her parents were alive, and if she really would like to stay with them. Elsa stooped and kissed her hand, then, kneeling down, buried her face in the woman's lap, and sobbed out:  'My mother has lain for many years under the
+
+Next chunk:

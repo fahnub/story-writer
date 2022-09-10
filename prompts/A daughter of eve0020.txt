@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk. The Story Girl tells Sara that it is better to have fun and be bad than to be good and mix the two together. Sara protests that she is only scared of her mother finding out.
+
+Last chunk: troubling her. But admit it she  would not.  "Now, Sara," she said, "you just take my advice and go into this with  all your heart if you go at all. Never mind if it is bad. There's no  use being naughty if you spoil your fun by wishing all the time you were  good. You can repent afterwards, but there is no use in mixing the two  things together."  "I'm not repenting," protested Sara. "I'm only scared of ma finding it  out."  "Oh!" The Story Girl's voice expressed her scorn. For remorse she  had
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are making and selling wine when they are caught by the vicar. The passage describes the scene after they are caught and Dora is upset. Alice is comforting her and Oswald is looking for the corkscrew. The passage also describes a confrontation between a young girl and an older woman.
+
+Last chunk: get two shillings.'  The lady said (and it _was_ the voice), 'Good gracious! Nasty, sordid  little things! Haven't they any one to teach them better?'  And Dora got up and said, 'No, we are not those things you say; but we  are sorry we came here to be called names. We want to make our fortune  just as much as Mr Mallow does--only no one would listen to us if we  preached, so it's no use our copying out sermons like him.'  And I think that was smart of Dora, even if it was rather rude.  Then I
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children find a treasure and are taken in by a hospitable woman. The house is small and dirty, but the children are glad to be out of the dark and scary passage. They find themselves in a room with a fireplace, portraits on the walls, and silver candlesticks on the mantelpiece. The lady in the passage is telling a story to the priest in French, and the Phoenix whispers to Robert that the priest thinks her troubles have turned her brain. Robert indignantly whispers back that he knows a lot of French. The passage describes Robert's foresight in hiding away some matches, which came in handy when the children needed them later.
+
+Last chunk: 'If you don't stop going on like that,' said Jane, firmly, 'I shallscream, and then I'll faint--so now then!'  'And _I_ will, too,' said Anthea.  Robert was not pleased at being checked in his flight of fancy.  'You girls will never be great writers,' he said bitterly. 'They justlove to think of things in dungeons, and chains, and knobbly bare humanbones, and--'  Jane had opened her mouth to scream, but before she could decide how youbegan when you wanted to faint, the golden voice of the
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and Oswald start a business selling lemonade after finding half a crown. They invite their friends to taste it, and though the initial reaction is mixed, they all agree that it needs sugar. A woman visits them asking for money to build an orphanage, and Alice donates some of their earnings. The passage ends with the speaker reflecting on their mother's death and how it has changed their perspective. The passage describes how to make wine more palatable by adding sugar. Dicky says that it's all right once you get used to it, and Alice says that the sugar must be crushed carefully before being added to the wine.
+
+Last chunk: two lumps of sugar and crushed it on the floor with one  of the big wooden bricks till it was powdery, and mixed it with some of  the wine up to the tablespoon mark, and it was quite different, and not  nearly so nasty.  'You see it's all right when you get used to it,' Dicky said. I think he  was sorry he had said 'Quis?' in such a hurry.  'Of course,' Alice said, 'it's rather dusty. We must crush the sugar  carefully in clean paper before we put it in the bottle.'  Dora said she was afraid it
+
+Next chunk:

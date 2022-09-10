@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A woman is trying to win back her husband's affections, but is unsuccessful. She feels that only the return of her friend Sancho will be able to restore their broken friendship. A group of children are playing near a gate when they see a dog on the other side. One child tries to look at the dog, but is not interested when she sees that it is only an old dog. Another child tells her that the dog is mad and that Jud is getting his gun to shoot it. The dog is excited to see the boy and jumps out of the phaeton to greet him. The boy falls down.
+
+Last chunk: handed in a young lady whose white frock was so  stiff with starch that it crackled like paper.  "Lemons will do if oranges are gone.  I like 'em to suck with lots of  sugar," answered Bab, feeling that the sour sadly predominated in her  cup just now.  "Don't she look sweet, the dear!" murmured Mrs. Moss, proudly surveying  her youngest.  She certainly did, sitting under the fringed canopy with "Belinda," all  in her best, upon her lap, as she turned to smile and nod, with a face  so bright and
+
+Next chunk:

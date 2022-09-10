@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The speaker likes Thorny because he is a bit of a sneak, and Miss Celia laughs and says that Thorny is the finest peacock on the place. Miss Celia is trying to comfort Ben and convince Thorny that she is not a thief. She leads them to the dressing room, where Thorny plans to keep an eye on her until the matter is resolved. The speaker has a small but cozy home. The girl tells her brother that she thinks Ben took her money, because she trusts him more than the other girls. Thorny and Ben argue over whether or not a horse belongs to Ben. Ben insists that it does, while Thorny mutters that it's a lie. Celia, who is watching, looks puzzled.
+
+Last chunk: part them.  Thorny fell back at once, looking half ashamed of his heat, and Ben  briefly answered, with a gulp as if shame or anger made it hard to speak  steadily:  "Yes 'm, there is."  "Does it belong to you?"  "Yes 'm, it does."  "Where did you get it?"  "Up to Squire's."  "That's a lie!" muttered Thorny to himself.  Ben's eye flashed, and his fist doubled up in spite of him, but he  restrained himself out of respect for Miss Celia, who looked puzzled, as  she asked another question, not
+
+Next chunk:

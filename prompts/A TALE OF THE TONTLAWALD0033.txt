@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage tells the story of how a lady became queen after she was found by a king while he was searching for an eagle he had shot. Kisika and her brother are transported to a dry land after she dips a cloth in the water. A lady and her maid, Elsa, live by the sea. The lady often tells Elsa how much she wishes she could still play with her like she used to when she was younger. One day, the lady summons Elsa into her room and Elsa fears something bad is going to happen.
+
+Last chunk: else. If the humour seized her, she would fling aside her tasks, take her treasure box, and go off to play in the sea, where no harm ever came to her.  'What a pity,' she would often say to Elsa, 'that you have grown so big, you cannot play with me any more.'  Nine years slipped away in this manner, when one day the lady called Elsa into her room. Elsa was surprised at the summons, for it was unusual, and her heart sank, for she feared some evil threatened her. As she crossed the threshold, she
+
+Next chunk:

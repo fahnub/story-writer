@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage tells the story of a boy who runs away and is captured by a group of little people. He is scolded and threatened, but eventually let go. The passage also discusses the origin of the name "Cowslip Marsh" and describes how a boy named Sam got stuck in a pool of water while trying to jump from one tuft of grass to another. Sam and Ben are arguing, and Ben threatens to tell on Sam if he doesn't stop.
+
+Last chunk: "Don't neither!  Wouldn't touch that Bab for a dollar; she scratches and  bites like a mad cat," was Sam's sulky reply.  "Glad of it; she can take care of herself.  Betty can't; and if you  touch one of her pig-tails I'll up and tell right out how I found you  snivelling in the ma'sh like a great baby. So now!" and Ben emphasized  his threat with a blow of the suspended rail which splashed the water  over poor Sam, quenching his last spark of resistance.  "Stop! I will!--I will!"  "True as you
+
+Next chunk:

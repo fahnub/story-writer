@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed by a wicked woman is later able to break the curse and live a happy life.
+
+Last chunk: the daughter said to Elsa, 'Fear nothing, my mother will be your friend. I saw by the way she looked that she would grant your request when she had thought over it,' and, telling Elsa to wait, she entered the house to seek her mother. Elsa meanwhile was tossed about between hope and fear, and felt as if the girl would never come.  At last Elsa saw her crossing the grass with a box in her hand.  'My mother says we may play together to-day, as she wants to make up her mind what to do about you.
+
+Next chunk:

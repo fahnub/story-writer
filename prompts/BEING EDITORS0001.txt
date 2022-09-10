@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams. The passage describes how Alice won't lend her gardening tools to Noel again because he left them out in the rain last time. It also mentions that seeds and bulbs are useful to play with until you are ready. The passage describes how two young boys decided to start a newspaper after selling a poem and some information to a local editor. They believed that being an editor would be a very lucrative and powerful profession.
+
+Last chunk: BEING EDITORS (Fiction:- Ages 5 to 9)  It was Albert's uncle who thought of our trying a newspaper. He said he  thought we should not find the bandit business a paying industry, as a  permanency, and that journalism might be.  We had sold Noel's poetry and that piece of information about Lord  Tottenham to the good editor, so we thought it would not be a bad idea  to have a newspaper of our own. We saw plainly that editors must be very  rich and powerful, because of the grand office and the man
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7989 tokens (7489 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the characters' reactions to the possibility that the world might end the next day. Dan is excited by the prospect of learning more about the Bible, while the Story Girl is sad that she won't have time to do all the things she wants to do. The boys are unhappy because the Story Girl is weaving a wreath of buttercups and Felicity is sipping from a cup of clouded blue with an air of unconcern. The girls in the passage are upset about the possibility of a fire, and beg the Story Girl to stay with them and keep them cheered up.
+
+Last chunk: rancour of either lasted so long. On the  contrary it passed speedily away, not even one low descending sun going  down on their wrath. But dignity remained to be considered. Neither  would "speak first," and each obstinately declared that she would not  speak first, no, not in a hundred years. Neither argument, entreaty, nor  expostulation had any effect on those two stubborn girls, nor yet the  tears of sweet Cecily, who cried every night about it, and mingled in  her pure little prayers
+
+Next chunk:

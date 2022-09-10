@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Alice is trying to sell the butcher a product that will supposedly make him a lot of money, and he is skeptical but interested. Alice and Oswald are discussing the possibility of selling their homemade lemonade. Dicky is skeptical, but Alice is optimistic. They open the bottle to test it and the cork breaks. Oswald, Dicky, Alice, and Noel all taste sherry for the first time. Oswald and Dicky think it is burny, Alice thinks it is beastly, and Noel says it is the golden wine of the gods but he still has to put his handkerchief up to his mouth. H.O. spits it out in the fire.
+
+Last chunk: spring; but perhaps  sherry ought to be like that.'  Then it was Oswald's turn. He thought it was very burny; but he said  nothing. He wanted to see first what the others would say.  Dicky said his was simply beastly, and Alice said Noel could taste next  if he liked.  Noel said it was the golden wine of the gods, but he had to put his  handkerchief up to his mouth all the same, and I saw the face he made.  Then H. O. had his, and he spat it out in the fire, which was very rude  and nasty, and
+
+Next chunk:

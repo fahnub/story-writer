@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A mother and child discuss the child's recent discovery that the royal family in the cave are planning to marry their prince (Harelip) to a sun-woman (one of their own kind). The child is excited by this news, but the mother is dismissive, telling her that it won't make her any wiser. Curdie's mother tells him a strange story in order to help him think better of the princess. Curdie kills a goblin with his pocket knife after a struggle, and is satisfied that the goblins are mining. The speaker plans to retrace their steps back to where they first saw the cobs, and then mark down on a piece of paper which turns they take, in order to better understand which direction the cobs are going in.
+
+Last chunk: more likely to tell lies than the little girl I saw  talking to the primroses a few weeks ago.  If she were to lie I should  begin to doubt my own word.'  'But princesses have told lies as well as other people,' said Curdie.  'Yes, but not princesses like that child.  She's a good girl, I am  certain, and that's more than being a princess.  Depend upon it you  will have to be sorry for behaving so to her, Curdie.  You ought at  least to have held your tongue.'  'I am sorry now,' answered Curdie.
+
+Next chunk:

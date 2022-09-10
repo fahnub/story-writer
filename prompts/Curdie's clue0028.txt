@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4178 tokens (3678 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A boy named Curdie is able to fight off a group of goblins with his axe. He does this by reciting a new rhyme and making horrible grimaces throughout. This passage discusses a father and son's conversation about the son's desire to make someone cry by harming them. The father points out that the son gets gratification from sacrificing himself to the public good, and the son responds that it would be nice to make someone cry. The man in the passage was attacked by beasts, but he was able to fight them off with his pickaxe. A woman rescues a man from certain death by throwing him into a hole in a cave wall and then piling rocks on top of him.
+
+Last chunk: but  before he could think of that she had caught him up in her arms and was  rushing with him across the cave.  She dashed him into a hole in the  wall, with a force that almost stunned him.  But although he could not  move, he was not too far gone to hear her great cry, and the rush of  multitudes of soft feet, followed by the sounds of something heaved up  against the rock; after which came a multitudinous patter of stones  falling near him.  The last had not ceased when he grew very faint,
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a group of children on their way to a schoolhouse for a lecture. One child, Sara Ray, is particularly excited because she is decked out in borrowed plumes. Another child, Felicity, expresses concern that Sara Ray might catch the measles. The Story Girl reassures Felicity that there will be plenty of people at the lecture. The Story Girl reflects on how she hates the thought of growing up because she won't be able to go barefoot and show off her beautiful feet.
+
+Last chunk: A daughter of eve (Fiction Ages 5 to 10)  "I hate the thought of growing up," said the Story Girl reflectively,  "because I can never go barefooted then, and nobody will ever see what  beautiful feet I have."  She was sitting, the July sunlight, on the ledge of the open hayloft  window in Uncle Roger's big barn; and the bare feet below her print  skirt WERE beautiful. They were slender and shapely and satin smooth  with arched insteps, the daintiest of toes, and nails like pink shells.  We were
+
+Next chunk:

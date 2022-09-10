@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a play, a tea garden, and a game. It also describes Billy and Ben's reaction to seeing a ship for the first time.
+
+Last chunk: and he had not    So off to her he resolved to go,    And play her a tune on his little banjo."  During the chorus to this verse Chan was seen tuning his instrument in  the garden, and at the end sallied gallantly forth to sing the following  tender strain,--    "Whang fun li,    Tang hua ki,    Hong Kong do ra me!    Ah sin lo,    Pan to fo,    Tsing up chin leute!"  Carried away by his passion, Chan dropped his banjo, fell upon his  knees, and, clasping his hands, bowed his forehead in the
+
+Next chunk:

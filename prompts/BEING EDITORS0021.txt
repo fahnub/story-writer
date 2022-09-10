@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage contains a description of a child's love for drawing on slates and how peppermint can help with arithmetic. It also includes mention of a law that was passed prohibiting the purchase of gunpowder by anyone under the age of thirteen. Finally, the passage describes a trick involving a sixpence and a shilling, in which the sixpence is made to jump on top of the shilling by blowing on the side of a wine glass.
+
+Last chunk: came down was awful, I'm told;    But it's nothing to the way one of the Editors comes down on me,    If I crumble my bread-and-butter or spill my tea.                         NOEL.         ------------       CURIOUS FACTS  If you hold a guinea-pig up by his tail his eyes drop out.  You can't do half the things yourself that children in books do, making  models or soon. I wonder why?--ALICE.  If you take a date's stone out and put in an almond and eat them  together, it is prime. I found this
+
+Next chunk:

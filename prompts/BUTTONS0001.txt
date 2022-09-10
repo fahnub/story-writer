@@ -1,0 +1,7 @@
+Outline: This is a simple rhyming story about a girl selling buttons. The story is written in verse, and each stanza contains a different rhyming pattern. The girl is trying to sell her buttons for a farthing a pair, and she is hoping to find customers among the girls in the city. The story ends with the girl's plea for customers to buy her buttons.
+
+Story so far:  This passage is about buttons for sale. They are described as round, sound, pretty, and fit for girls of the city. The price is given as a farthing a pair.
+
+Last chunk: BUTTONS (Rhymes:- Ages 0 to 3)      Buttons, a farthing a pair!  Come, who will buy them of me?  They're round and sound and pretty,  And fit for girls of the city.  Come, who will buy them of me?    Buttons, a farthing a pair!
+
+Next chunk:

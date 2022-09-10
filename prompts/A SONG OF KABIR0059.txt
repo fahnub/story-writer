@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 15097 tokens (14597 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The animals are discussing how they believe Buldeo will be able to find and kill the Devil-child (Mowgli). They are worried about the Wolf-demon, which they believe could appear at any time. The Eaters of Flesh are attacking a village, and the deer, pig, and nilghai are milling around in a circle. The men in the village are sitting on platforms in the crops, waiting to defend themselves. The speaker is saying that the men in the village are foolish to leave Messua unguarded while they listen to Buldeo's stories.
+
+Last chunk: be singing. That  call will follow up to Khanhiwara. It is Favour of the Jungle."  Messua urged her husband forward, and the darkness shut down on them and  Mother Wolf as Bagheera rose up almost under Mowgli's feet, trembling  with delight of the night that drives the Jungle People wild.  "I am ashamed of thy brethren," he said, purring. "What? Did they not  sing sweetly to Buldeo?" said Mowgli.  "Too well! Too well! They made even ME forget my pride, and, by the  Broken Lock that freed me, I
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4498 tokens (3998 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a woman's husband going to work in a mine one night, and the woman being left to go home alone. She is familiar with the road and makes her way home in the dark. A mother tells her son and husband about how she was saved from some monsters by a beam of light. A woman tells her grandson about some of the things she has seen, and he is surprised that she seems to believe that she actually saw them. His mother tells him that some people can see things that other people can't see. Curdie tells his mother the whole story from beginning to end of what happened when he went with the princess to save her father from the goblins.
+
+Last chunk: to let his father know he was safe.  When she came back, she found him fast asleep upon her bed; nor did he  wake until his father came home in the evening.  'Now, Curdie,' his mother said, as they sat at supper, 'tell us the  whole story from beginning to end, just as it all happened.'  Curdie obeyed, and told everything to the point where they came out  upon the lawn in the garden of the king's house.  'And what happened after that?' asked his mother.  'You haven't told us  all.  You ought to
+
+Next chunk:

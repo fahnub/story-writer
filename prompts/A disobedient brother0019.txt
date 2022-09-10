@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4215 tokens (3715 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Felix and Felicity are siblings who are quarreling. The Story Girl tries to stop them, saying that they will all end up fighting if they don't stop.
+
+Last chunk: business to, specially when mother's away. She  left ME in charge."  "You didn't take much charge last night when Dan got sick," said Felix  maliciously. Felicity had told him at tea that night he was getting  fatter than ever. This was his tit-for-tat. "You were pretty glad to  leave it all to Cecily then."  "Who's talking to you?" said Felicity.  "Now, look here," said the Story Girl, "the first thing we know we'll  all be quarrelling, and then some of us will sulk all day to-morrow.  It's
+
+Next chunk:

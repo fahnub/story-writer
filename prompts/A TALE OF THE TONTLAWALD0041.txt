@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl who was cursed by a wicked woman is later able to break the curse and live a happy life. The girl's maid came in to comb her hair and bring her some new clothes, and she was most excited by the little pair of embroidered shoes. She didn't think about her old, rough clothes from the day before, which had mysteriously disappeared overnight. A young woman is forced to leave her home and is given a gold ring and a golden box by her benefactress. She is very sad and cries all night.
+
+Last chunk: of the figure by the old man who made it. A few days later he was placed in the grave beside his wife, but nothing more was ever heard of their daughter.  All night long after her talk with the lady Elsa had wept and wailed her hard fate in being cast out from her home which she loved.  Next morning, when she got up, the lady placed a gold seal ring on her finger, strung a little golden box on a ribbon, and placed it round her neck; then she called the old man, and, forcing back her tears, took
+
+Next chunk:

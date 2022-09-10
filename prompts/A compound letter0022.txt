@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. The person in the passage is talking about how they are glad they are like their father and they received a letter from him with pictures this week. The person then talks about how yesterday they thought they saw the family ghost.
+
+Last chunk: complimentary because she looked so queer when she  saw that I had heard her, but I don't care. I'm glad I'm like father. I  had a splendid letter from him this week, with the darlingest pictures  in it. He is painting a new picture which is going to make him famous. I  wonder what Aunt Janet will say then.  "Do you know, Peter, yesterday I thought I saw the Family Ghost at last.  I was coming through the gap in the hedge, and I saw somebody in blue  standing under Uncle Alec's tree. How my
+
+Next chunk:

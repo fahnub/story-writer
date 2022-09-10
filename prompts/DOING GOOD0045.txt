@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7068 tokens (6568 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a woman's reaction to finding out that her ancestors had hidden a treasure, and the children's reaction to their mother's letter telling them they are going to their aunt's for Christmas. The Phoenix tells Robert that he must perform good deeds in order to be rewarded in the afterlife. Robert is disgusted by this and refuses to do so. The woman in the passage is speaking in a foreign language and ends with a question. Robert, who is holding the Phoenix, asks it to translate the woman's words. The children in the passage want to take their mother to see the Psammead, but they are worried about her reaction. An old woman, a young boy, and a lady went to visit a priest.
+
+Last chunk: all with me to Mr the Curate. Is it not?'  Manon was a wrinkled old woman with a red and yellow handkerchieftwisted round her head. She took Henri, who was already sleepy with theexcitement of his Christmas-tree and his visitors, and when the lady hadput on a stiff black cape and a wonderful black silk bonnet and a pairof black wooden clogs over her black cashmere house-boots, the wholeparty went down the road to a little white house--very like the one theyhad left--where an old priest, with a
+
+Next chunk:

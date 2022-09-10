@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk. The passage describes the reaction of a group of children to the news that one of their friends will not be able to attend a lantern show due to an outbreak of measles in the area. The other children express sympathy for their friend and try to reassure her that she is not in danger of catching the disease.
+
+Last chunk: lantern show that night. We all showed the sympathy we  felt.  "She SAID yesterday you could go," said the Story Girl indignantly. "Why  has she changed her mind?"  "Because of the measles in Markdale," sobbed Sara. "She says Markdale is  full of them, and there'll be sure to be some of the Markdale people at  the show. So I'm not to go. And I've never seen a magic lantern--I've  never seen ANYTHING."  "I don't believe there's any danger of catching measles," said Felicity.  "If there was we
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole to fatten him up. Esben's daughter is ordered to roast him in the oven, but she eventually grows to like her captor and decides not to kill him. The king gives Esben's brothers three days to bring him a marvellous boar, and Esben helps them. The three brothers escape the witch's house and ride to a king's palace, where they are hired as stablemen.
+
+Last chunk: themen's night-caps on--and these were her own daughters. As soon as shehad gone her way Esben wakened his brothers, and they hastily took theirhorses and rode off from the witch's house, glad that they had escapedso well. They quite forgot to thank Esben for what he had done for them.  When they had ridden onwards for some time they reached a king's palace,and inquired there whether they could be taken into service. Quiteeasily, they were told, if they would be stablemen, otherwise the kinghad
+
+Next chunk:

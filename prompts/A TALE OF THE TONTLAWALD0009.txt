@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl is transported to a magical forest called the Tontlawald, where she meets a kind woman who offers to send her home. A rock opens and a table with food appears when a cock crows. More furniture and fruit appear when the cock crows again. When everybody is done, the old man strikes the rock and everything disappears. A girl invites another to come play with her and her mother in the woods, promising fun and safety. The other girl is amazed by the beauty of the woods and the abundance of fruit.
+
+Last chunk: here with me and be my friend, and we will play delightful games together, and every day we will go and gather strawberries. Nobody will dare to beat you if I tell them not. Come, let us go to my mother'; and taking Elsa's hand she led her deeper into the wood, the little black dog jumping up beside them and barking with pleasure.  Oh! what wonders and splendours unfolded themselves before Elsa's astonished eyes! She thought she really must be in Heaven. Fruit trees and bushes loaded with fruit
+
+Next chunk:

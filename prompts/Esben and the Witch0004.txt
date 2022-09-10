@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6051 tokens (5551 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A man named Esben is captured by a witch and put in a dark hole, but his daughter eventually grows to like her captor and decides not to kill him. Esben's brothers say they can get him a special dove with feathers of gold and silver, but only if they are threatened with death. The king then has the brothers called before him and accuses them of lying. The brothers deny the accusation and insist that such a dove does not exist. The passage tells the story of a boy who, after being given a white horse by his father, sets off after his eleven brothers. The brothers ride all day and eventually come to a forest, where they find a little house. An old, ugly, bearded hag answers the door and agrees to let them stay for the night.
+
+Last chunk: became still whiter thanhis brothers' horses, and, mounted on this. rode off after his elevenbrothers.  The brothers rode on the whole day, and towards evening they came toa great forest, which they entered. Far within the wood they came to alittle house, and knocked at the door. There came an old, ugly, beardedhag, and opened it, and they asked her whether all of them could getquarters for the night.  'Yes,' said the old, bearded hag, 'you shall all have quarters for thenight, and, in addition,
+
+Next chunk:

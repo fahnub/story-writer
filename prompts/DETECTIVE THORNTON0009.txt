@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6800 tokens (6300 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The speaker likes Thorny because he is a bit of a sneak, and Miss Celia laughs and says that Thorny is the finest peacock on the place.
+
+Last chunk: isn't a bit of a sneak; that's why I like him."  "Have you ever found him sly or untrue in any way?" asked Miss Celia,  lowering her voice.  "No; he's as fair and square a fellow as I ever saw. Little bit low, now  and then, but he doesn't mean it, and wants to be a gentleman, only he  never lived with one before, and it's all new to him. I'll get him  polished up after a while."  "Oh, Thorny, there are three peacocks on the place, and you are the  finest!" laughed Miss Celia, as her brother
+
+Next chunk:

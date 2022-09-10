@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4577 tokens (4077 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are planning to play a game of war and the passage describes their preparations. The person thinks that fireworks are not as fun as they seem because you get tired of them quickly. They also think that setting them off in the fire is the only amusing way to use them, but that it is not allowed. Alice tries to convince Albert-next-door to come with them, but he insists on going home because he has a cold.
+
+Last chunk: young and does not know better yet, and besides it wasn't bad for H. O.  Albert-next-door said, 'You haven't any manners, and I want to go in to  my tea. Let go of me!'  But Alice told him, quite kindly, that he was not going in to his tea,  but coming with us.  'I'm not,' said Albert-next-door; 'I'm going home. Leave go! I've got  a bad cold. You're making it worse.' Then he tried to cough, which was  very silly, because we'd seen him in the morning, and he'd told us where  the cold was that he
+
+Next chunk:

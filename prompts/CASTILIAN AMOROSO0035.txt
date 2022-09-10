@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Father finds out that the boys have been selling wine and scolds them, but then laughs it off. Dora and the speaker agree to have a teaspoonful each of a new drink, and Dora measures it out. They ask each other what it's like, but Dora can't speak just then. Oswald and his siblings visit Mr. Mallow, who is busy writing a sermon. They are let into his tidy room with a bookcase, pictures, and harmonium.
+
+Last chunk: and I think she  was Jane.  We asked if we could see Mr Mallow.  The servant said Mr Mallow was very busy with his sermon just then, but  she would see.  But Oswald said, 'It's all right. He asked us to come.'  So she let us all in and shut the front door, and showed us into a very  tidy room with a bookcase full of a lot of books covered in black cotton  with white labels, and some dull pictures, and a harmonium. And Mr  Mallow was writing at a desk with drawers, copying something out of a
+
+Next chunk:

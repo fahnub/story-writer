@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A girl brings home a wood sprite as a companion. Her mother is initially skeptical but eventually warms up to the sprite and allows her to stay. The passage tells the story of a girl who was cursed by a wicked woman, but was later able to break the curse and live a happy life. A large golden cock appears every meal time in response to the old man striking a granite block three times with a small silver staff. The passage describes Elsa's entreaties to the lady not to be sent back to the world of men. She begs to be allowed to stay and serve the lady in any capacity, rather than be sent away. The lady of the house wants to adopt Elsa as her daughter.
+
+Last chunk: talked softly, but their speech was strange to Elsa, and she understood nothing of what was said. Then the hostess turned round and whispered something to a maid behind her chair, and the maid left the hall, and when she came back she brought a little old man with her, who had a beard longer than himself. He bowed low to the lady and then stood quietly near the door.  'Do you see this girl?' said the lady of the house, pointing to Elsa. 'I wish to adopt her for my daughter. Make me a copy of
+
+Next chunk:

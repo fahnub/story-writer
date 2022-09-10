@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage discusses how Alice and her friend made wine more palatable by adding sugar, and how the speaker and his friends followed the instructions in an advertisement and were successful. Father finds out that the boys have been selling wine and scolds them, but then laughs it off.
+
+Last chunk: have read somewhere about  'wine that maketh glad the heart of man'. He had only a very little,  which shows that it was a good after-dinner wine, stimulating, and yet  ...I forget the rest.  But when he had done laughing he said, 'It's all right, kids. Only don't  do it again. The wine trade is overcrowded; and besides, I thought you  promised to consult me before going into business?'  'Before buying one I thought you meant,' said Dicky. 'This was only on  commission.' And Father laughed
+
+Next chunk:

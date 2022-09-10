@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Alice and her friend make wine more palatable by adding sugar. The speaker and his friends follow the instructions in an advertisement and are successful. Father scolds the boys for selling wine, but then laughs it off. The speaker and Alice meet a lady who is surprised when they offer her wine. A group of friends decides to visit the vicarage on a Saturday afternoon. Father opened a brown-paper parcel that contained a bottle and glass. The passage describes a clergyman trying a glass of wine and finding it to taste like a Brazil nut. Alice interjects to agree. The Vicar looks back and forth between them, and Oswald continues to describe the wine.
+
+Last chunk: clergyman, taking the glass in his hand.  'Yes,' Oswald went On; 'an exceptional opportunity. Full-bodied and  nutty.'  'It really does taste rather like one kind of Brazil-nut.' Alice put her  oar in as usual.  The Vicar looked from Alice to Oswald, and back again, and Oswald went  on with what he had learned from the printing. The clergyman held the  glass at half-arm's-length, stiffly, as if he had caught cold.  'It is of a quality never before offered at the price. Old Delicate  Amoro--
+
+Next chunk:

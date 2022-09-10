@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the meeting of three characters - the Ork, the Bumpy Man, and Button-Bright. The Ork reflects on the question and says that he could carry one of the children on his back, but three adults would be too much. He suggests that they made a mistake in eating the purple berries so soon. The Bumpy Man shovels snow and finds someone buried in it. The shaggy man decides to call the boy Button-Bright, after his mother does. Button-Bright is curious about the Ork's tail, and asks to see how it works. The Ork explains that it is his tail and he reserves the right to whirl it himself. Button-Bright then proposes they go out and fly somewhere so he can see how the tail works. The Ork declines, saying he only flies when he is going somewhere.
+
+Last chunk: "Which way does your tail whirl?"  "Either way," said the Ork.  Button-Bright put out his hand and tried to spin it.  "Don't do that!" exclaimed the Ork.  "Why not?" inquired the boy.  "Because it happens to be my tail, and I reserve the right to whirl it  myself," explained the Ork.  "Let's go out and fly somewhere," proposed Button-Bright. "I want to  see how the tail works."  "Not now," said the Ork. "I appreciate your interest in me, which I  fully deserve; but I only fly when I am going
+
+Next chunk:

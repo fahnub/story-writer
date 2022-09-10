@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children who are surprised to find a boy wearing a crown and slippers in the garden. He is embarrassed and quickly leaves. The passage also describes a horse race between two children, with one of them having fun and the other being happy to be there. Finally, the passage describes a school play being put on for the children, with one of the teachers dressing the actresses for the tragedy. The little maid in the passage is naive and does not realize that the wolf she is talking to is planning to eat her.
+
+Last chunk: That was a pretty picture, for the little maid came walking in with the  basket on her arm, and such an innocent face inside the bright hood that  it was quite natural the gray wolf should trot up to her with deceitful  friendliness, that she should pat and talk to him confidingly about the  butter for grandma, and then that they should walk away together, he  politely carrying her basket, she with her hand on his head, little  dreaming what evil plans were taking shape inside.  The children
+
+Next chunk:

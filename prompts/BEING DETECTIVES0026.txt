@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Two children discover that their home is being used by coiners, and Dicky says he is going to investigate.
+
+Last chunk: whispered; 'the mysterious stranger was  bringing things in, not taking them out. They must be coiners--and oh,  Oswald!--don't let's! The things they coin with must hurt very much. Do  let's go to bed!'  But Dicky said he was going to see; if there was a reward for finding  out things like this he would like to have the reward.  'They locked the back door,' he whispered, 'I heard it go. And I could  look in quite well through the holes in the shutters and be back over  the wall long before
+
+Next chunk:

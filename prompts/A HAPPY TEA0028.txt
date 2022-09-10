@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of children are admiring a spread of small cakes, sandwiches, and other snacks. The dog is sniffing around and the children are smiling with anticipation. The boys were admiring a little Arab chief on a white horse, when they were interrupted by their dog, who was pawing at some letters. Thorny commented that it looked as if the dog knew what they meant. The passage describes a brother and sister who are interested in their four-footed guest. The children fetch a book and the mother reads it to them, shortening and simplifying it to suit her hearers.
+
+Last chunk: brother interested in their four-footed  guest at least.  "Yes,'m, yes,'m," answered the children; and, fetching the book, she  read the pretty account, shortening and simplifying it here and there to  suit her hearers.  "I invited the two dogs to dine and spend the evening; and they came  with their master, who was a Frenchman. He had been a teacher in a deaf  and dumb school, and thought he would try the same plan with dogs. He  had also been a conjurer, and now was supported by Blanche and
+
+Next chunk:

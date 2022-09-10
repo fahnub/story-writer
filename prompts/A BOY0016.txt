@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5205 tokens (4705 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  A boy who was taken to fairyland by the King is allowed to see his mother again, and is given orders releasing the two little men from constantly guarding him. The boys and girls were playing and having fun. Thorny is going to meet Celia in New York and get married. Bab is staying with Ben while Thorny is gone. The passage describes Thorny's plans to travel with his new wife, and Betty and Ben's reactions. Thorny wants to go to various places in North America, and Betty is worried he won't come back. Ben is curious about whether Thorny will get along with the new master. Thorny likes George. Sam and Ben argue over who will have to go into the bog to retrieve a lost ball. Sam eventually agrees to go in if Ben promises not to make fun of him.
+
+Last chunk: do as I like about that."  "Then I won't promise a thing! I'm not going to have the whole school  laughing at me," protested Sam, who hated to be ridiculed even more than  Ben did.  "Very well; good-night!" and Ben walked off with his hands in his  pockets as coolly as if the bog was Sam's favorite retreat.  "Hold on, don't be in such a hurry!" shouted Sam, seeing little hope of  rescue if he let this chance go.  "All right!" and back came Ben, ready for further negotiations.  "I'll promise not
+
+Next chunk:

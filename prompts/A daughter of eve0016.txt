@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4781 tokens (4281 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of a group of children preparing to go to a lecture at a schoolhouse. The children are excited, except for Sara Ray, who is melancholy. The story also describes the schoolhouse and the Story Girl, who is described as walking uprightly like an incarnate flame in her crimson silk. The Story Girl tells Sara that it is better to have fun and be bad than to be good and mix the two together. Sara protests that she is only scared of her mother finding out. The Story Girl and her friends offer to lend Sara some clothes so she can go to the party, and Sara agrees.
+
+Last chunk: thing to wear,  except my school gingham."  "Well, that's new and pretty," said the Story Girl. "We'll lend you  some things. You can have my lace collar. That'll make the gingham quite  elegant. And Cecily will lend you her second best hat."  "But I've no shoes or stockings. They're locked up too."  "You can have a pair of mine," said Felicity, who probably thought that  since Sara was certain to yield to temptation, she might as well be  garbed decently for her transgression.  Sara did yield.
+
+Next chunk:

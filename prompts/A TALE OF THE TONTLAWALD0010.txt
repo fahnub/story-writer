@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage tells the story of how a lady became queen after she was found by a king while he was searching for an eagle he had shot. Kisika and her brother are transported to a dry land after she dips a cloth in the water. A lady and her maid, Elsa, live by the sea. The lady often tells Elsa how much she wishes she could still play with her like she used to when she was younger. One day, the lady summons Elsa into her room and Elsa fears something bad is going to happen. A woman in rich garments asked a girl's companion what sort of a guest she was bringing to her. The girl replied that she found her alone in the woods.
+
+Last chunk: stood before them, while birds gayer than the brightest butterfly sat in their branches and filled the air with their song. And the birds were not shy, but let the girls take them in their hands, and stroke their gold and silver feathers. In the centre of the garden was the dwelling-house, shining with glass and precious stones, and in the doorway sat a woman in rich garments, who turned to Elsa's companion and asked:  'What sort of a guest are you bringing to me?'  'I found her alone in the
+
+Next chunk:

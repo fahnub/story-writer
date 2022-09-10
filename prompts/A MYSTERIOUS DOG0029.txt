@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4590 tokens (4090 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage describes a child's preparations for a tea party, including mixing water with the milk to stretch it. The child is tired from all her preparations, but is contentedly looking forward to the party. The children in the passage are afraid of the dog, but it eventually goes away.
+
+Last chunk: squeal with delight,  for never had they seen any thing so funny; but, when the gymnastics  ended, and the dizzy dog came and stood on the step before them barking  loudly, with that pink nose of his sniffing at their feet, and his queer  eyes fixed sharply upon them, their amusement turned to fear again, and  they dared not stir.  "Whish, go away!" commanded Bab.  "Scat!" meekly quavered Betty.  To their great relief, the poodle gave several more inquiring barks, and  then vanished as suddenly
+
+Next chunk:

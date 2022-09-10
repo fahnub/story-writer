@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5776 tokens (5276 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage tells the story of how a lady became queen after she was found by a king while he was searching for an eagle he had shot.
+
+Last chunk: search of a large eagle that I had shot, and instead of the eagle I have found--you.' Then he took Elsa on his horse, and rode with her to the town, where the old king received her graciously.  A few days later the wedding took place, and as Elsa was arranging the veil upon her hair fifty carts arrived laden with beautiful things which the lady of the Tontlawald had sent to Elsa. And after the king's death Elsa became queen, and when she was old she told this story. But that was the last that
+
+Next chunk:

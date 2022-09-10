@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5124 tokens (4624 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a child's insatiable appetite, and how he commandingly demands the last cake on the table. Miss Celia is amused by his antics, and invites him to help himself and sit down to eat it. The child does as he is told, and then proceeds to tell Miss Celia his name.
+
+Last chunk: to hear the donkey bray."  "Certainly, if he will."  "And the peacocks scream."  "Any thing more, sir?"  Having reached the table by this time, the insatiable infant surveyed  its ravaged surface, then pointed a fat little finger at the last cake,  left for manners, and said, commandingly,--  "I will have some of that."  "Help yourself; and sit upon the step to eat it, while you tell me whose  boy you are," said Miss Celia, much amused at his proceedings.  Deliberately putting down his sticks,
+
+Next chunk:

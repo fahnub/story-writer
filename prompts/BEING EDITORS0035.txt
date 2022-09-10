@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams. (The story is to be continued.) The passage describes the process of writing a school paper, and how the author has forgotten how she meant to end it. The girls in her class say "good riddance" to the boys, so the author suspects they may have hidden her books. In the end, the author and her classmates have put everything they can think of into the paper. This passage is about a dog who likes to plant bones, but they never grow up. The dog is sad because it doesn't understand why the bones don't grow.
+
+Last chunk: a bulb.  Dogs are very industrious and fond of gardening. Pincher is always  planting bones, but they never grow up. There couldn't be a bone tree.  I think this is what makes him bark so unhappily at night. He has never  tried planting dog-biscuit, but he is fonder of bones, and perhaps he  wants to be quite sure about them first.         ------------   SAM REDFERN, OR THE BUSHRANGER'S BURIAL  By Dicky   CHAPTER IV AND LAST  This would have been a jolly good story if they had let me finish it
+
+Next chunk:

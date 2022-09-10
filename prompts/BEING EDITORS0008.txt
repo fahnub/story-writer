@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5595 tokens (5095 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  This passage describes a child's love of drawing on slates, and how peppermint can help with arithmetic. Sam Redfern, a bush ranger, is in hiding with Annie when Jim Carlton, a detective, arrives. Sam attacks Jim, and Annie screams. (The story is to be continued.) The passage describes the process of writing a school paper, and how the author has forgotten how she meant to end it. The girls in her class say "good riddance" to the boys, so the author suspects they may have hidden her books. In the end, the author and her classmates have put everything they can think of into the paper. This passage is about a dog who likes to plant bones, but they never grow up. The dog is sad because it doesn't understand why the bones don't grow. The princess is rescued from a tower by her knights, who then retire to a nearby inn.
+
+Last chunk: reminded  everybody of Quentin Durward. They approached the Castle, in which the  fair Lady Alicia awaited her deliverers. She leaned from the castellated  window and waved her lily hand as they approached. They returned her  signal, and retired to seek rest and refreshment at a neighbouring  hostelry.         ------------     CHAPTER II--by Alice  The Princess was very uncomfortable in the tower, because her fairy  godmother had told her all sorts of horrid things would happen if she  didn't
+
+Next chunk:

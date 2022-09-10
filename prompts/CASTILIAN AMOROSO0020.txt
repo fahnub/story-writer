@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 7313 tokens (6813 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: A group of friends are making and selling wine when they are caught by the vicar. The passage describes the scene after they are caught and Dora is upset. Alice is comforting her and Oswald is looking for the corkscrew. The passage also describes a confrontation between a young girl and an older woman. The passage describes a situation in which two children are waiting for a parcel to arrive from a trade they made. The ginger-beer mentioned is likely a celebratory drink for when the parcel finally arrives. Alice tries to sell the butcher some sherry wine, but he is not interested.
+
+Last chunk: and I don't think the butcher heard.  But Alice did, and it roused her from her stupor. She spoke suddenly,  very fast indeed--so fast that I knew she had made up what she was going  to say before. She had got most of it out of the circular.  She said, 'I want to call your attention to a sample of sherry wine I  have here. It is called Castilian something or other, and at the price  it is unequalled for flavour and bouquet.'  The butcher said, 'Well--I never!'  And Alice went on, 'Would you like
+
+Next chunk:

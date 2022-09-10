@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The passage describes a person's experience with measles, and how they believe they became luny (crazy) as a result of the disease. They express relief that they did not catch the measles from Peg Bowen, who they believe may have bewitched them. The passage describes the author's feelings of loneliness and isolation, and how reading books and letters from her friends helps to ease her pain. She also mentions the good weather and scenic views.
+
+Last chunk: SPELL.) JUDY IS VERY  OBLIGING and I feel that she SIMPATHISES WITH ME. In my LONELY HOURS I  read my dream book and Cecily's old letters and they are SUCH A COMFORT  to me. I have been reading one of the school library books too. I is  PRETTY GOOD but I wish they had got more LOVE STORIES because they are  so exciting. But the master would not let them.  "If you had DIED, Peter, and YOUR FATHER had heard it wouldn't he have  FELT DREADFUL? We are having BEAUTIFUL WEATHER and the seenary is fine
+
+Next chunk:

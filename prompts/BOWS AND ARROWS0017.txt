@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4782 tokens (4282 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: This passage tells the story of two young girls who want to become better archers, and of a boy who enjoys practicing archery. The girls are separated during a battle, and the boy eventually makes his way back to their old home. He is first question is for Matty, but no one has seen her. The passage describes the close bond between a dog and his owner, Betty. The dog is always happy to see Betty and follows her commands. Miss Celia calls them "little Una and her lion," referring to a story about a girl and her pet lion. Miss Celia is regretful that she can't shoot anymore because she used to beat all the girls. Thorny, her fond brother, reassures her. The farmer hides Matty in a hollow elm tree and tells her to stay there and say her prayers until he comes back.
+
+Last chunk: first.  "In the corner of the lonely pasture which they dared not cross, stood a  big hollow elm, and there the farmer hastily hid Matty, dropping her  down into the dim nook, round the mouth of which young shoots had grown,  so that no one would have suspected any hole was there.  "Lie still, child, till I come; say your prayers and wait for father,'  said the man, as he parted the leaves for a last glance at the small,  frightened face looking up at him.  "'Come soon,' whispered Matty, and
+
+Next chunk:

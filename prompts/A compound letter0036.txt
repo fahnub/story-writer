@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5652 tokens (5152 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes the author's experience with measles and how it made them feel luny (crazy). They express relief that they did not catch the measles from Peg Bowen. The passage also discusses the importance of telling fairy stories in the proper place, and how doing so can make them sound more poetical. The person in the passage is talking about how they are glad they are like their father and they received a letter from him with pictures this week. The person then talks about how yesterday they thought they saw the family ghost. The boy is happy to have finished the Bible, and is grateful for the kindness of the people around him.
+
+Last chunk: quite finished the Bible before I took the measles, but ma is reading  the last chapters to me. There's an awful lot in that book. I can't  understand the whole of it, since I'm only a hired boy, but some parts  are real easy.  "I'm awful glad you have such a good opinion of me. I don't deserve it,  but after this I'll try to. I can't tell you how I feel about all your  kindness. I'm like the fellow the Story Girl wrote about who couldn't  get it out. I have the picture the Story Girl gave me
+
+Next chunk:

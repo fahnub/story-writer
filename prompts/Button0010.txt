@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4826 tokens (4326 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  The Ork reflects on the question and says that he could carry one of the children on his back, but three adults would be too much. He suggests that they made a mistake in eating the purple berries so soon. The Bumpy Man shovels snow and finds someone buried in it. The shaggy man decides to call the boy Button-Bright, after his mother does. The passage describes a girl who is lost and is being led by a man. They come across a boy who is digging a hole. Dorothy meets Button-Bright on a road that winds through green meadows and fields. They don't see any houses or people for a while, but eventually they come across a farmhouse. Button-Bright insists that he has lost his magic umbrella and has no way to get back home to Philadelphia. The Mountain Ear listens to their conversation and says that he knows the boy.
+
+Last chunk: insisted Button-Bright. "I'm half way round the world from  Philadelphia, and I've lost my Magic Umbrella, that used to carry me  anywhere. Stands to reason that if I can't get back I haven't any home.  But I don't care much. This is a pretty good country, Trot. I've had  lots of fun here."  By this time the Mountain Ear had secured the boy's cap and was  listening to the conversation with much interest.  "It seems you know this poor, snow-covered cast-away," he said.  "Yes, indeed," answered
+
+Next chunk:

@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5532 tokens (5032 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: Oswald and Dicky try to see coiners through a hole in a flower pot on a window ledge, but they don't see anything. The passage also describes how the gate at the end of the next garden opened, and Dicky nudged Alice so that she would have fallen out of the tree if it had not been for Oswald's extraordinary presence of mind. Someone taps on the back door, and is let in. A light appears in the window of the downstairs breakfast room, but the shutters are up. Dicky is excited, but Alice is scared. The narrator thinks they should leave and come back with a stronger force. Alice says it's not burglars. The passage describes two girls who are afraid of burglars and so sleep with their door open. They sneak out of the house and climb a tree, after which the narrator reflects that they have only been "playing" and not actually doing anything dangerous. The woman in the passage wants to open the blinds and shutters so that everyone will know they are home, not at Scarborough.
+
+Last chunk: me, and I did not mind. And then she  said, 'Run away now, dear. I'm going to--I'm going to pull up the blinds  and open the shutters, and I want to do it at _once_, before it gets  dark, so that every one can see we're at home, and not at Scarborough.'
+
+Next chunk:

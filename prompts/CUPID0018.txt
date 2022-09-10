@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5412 tokens (4912 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far: The passage describes a group of children's reactions to a boy wearing a crown and slippers in the garden, horse racing, and a school play. It also tells the story of a Chinese puppet named Chingery Chan who falls in love with a woman who ultimately kills him. The passage is about three girls who are discussing their favorite actresses in a theater company. This passage describes a scene from a play, in which a child delivers a basket to "Teacher," who is dressed as a mother. The other children in the audience recognize the child as Betty and identify the play as "Mabel on Midsummer Day."
+
+Last chunk: Tableaux." "There's Betty!" was the general exclamation, as the audience  recognized a familiar face under the little red hood worn by the child  who stood receiving a basket from Teacher, who made a nice mother with  her finger up, as if telling the small messenger not to loiter by the  way.  "I know what that is!" cried Sally; "it's 'Mabel on Midsummer Day.' The  piece Miss Celia spoke; don't you know?"  "There isn't any sick baby, and Mabel had a 'kerchief pinned about her  head.' I say it's
+
+Next chunk:

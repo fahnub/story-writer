@@ -1,0 +1,7 @@
+Outline: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 6865 tokens (6365 in your prompt; 500 for the completion). Please reduce your prompt; or completion length.
+
+Story so far:  Ben and Thorny have just fought and made up. Thorny wants to show off his new wounds to Celia, but Ben suggests they clean up first. The passage describes two young ladies who are curious about a mad dog they see. One of them stands on tip-toe to get a better view, and describes the dog as being dusty and brownish, with his tongue hanging out. The passage tells the story of a dog who is welcomed back by his family after he is injured. Ben, one of the dog's owners, is particularly happy to see him and listens to the story of his recovery with interest.
+
+Last chunk: for it would have gone hardly with  him, since even gentle Betty frowned, while Bab brandished the  egg-beater menacingly, and their mother indignantly declared that "it  was too bad!"  Relieved by this general outburst, they composed their outraged  feelings; and while the returned wanderer went from one to another to  receive a tender welcome from each, the story of his recovery was more  calmly told. Ben listened with his eye devouring the injured dog; and  when Thorny paused, he turned to
+
+Next chunk:
